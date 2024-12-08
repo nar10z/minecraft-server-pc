@@ -1,0 +1,5 @@
+{
+  "ignore_items_required_mods": false,
+  "enable_infinity_for_crossbows": true,
+  "hunters_mark_damage_per_stack": 0.05
+}

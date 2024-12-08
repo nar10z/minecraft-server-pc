@@ -1,0 +1,38 @@
+{
+  "version": 2.0,
+  "lang": "ru_ru",
+  "lang-options": "en_us, it_it, pt_br, tr_tr, zh_tw",
+  "keep-active": true,
+  "sit-while-seated": true,
+  "preset-blocks": {
+    "stairs": true,
+    "slabs": true,
+    "carpets": true,
+    "full-blocks": false
+  },
+  "custom-enabled": false,
+  "custom-blocks": [
+    {
+      "sitting-height": 0.46,
+      "block-ids": [
+        "minecraft:campfire"
+      ],
+      "block-tags": [],
+      "blockstates": [
+        "lit=false"
+      ]
+    },
+    {
+      "sitting-height": 0.46,
+      "block-ids": [
+        "minecraft:soul_campfire"
+      ],
+      "block-tags": [],
+      "blockstates": [
+        "lit=false",
+        "waterlogged=false"
+      ]
+    }
+  ],
+  "blacklisted-blocks": []
+}

@@ -1,0 +1,108 @@
+{
+	/* When true, all (off)hand slots can only hold items in the item tags 'rpginventory:hand_items' and 'rpginventory:offhand_items', respectively.
+	   
+	   It is recommended to not set this to false and instead add items to the item tags when necessary. All other items can still be accessed via the hotbar.
+	*/
+	"are_hand_items_restricted_to_item_tags": true,
+	// When false, toggling the two-handed stance is not possible when the main hand is sheathed.
+	"always_allow_toggling_two_handed_stance": false,
+	/* When the mod 'Stamina Attributes' is installed, the following 6 options take effect
+	   
+	   When true, stamina must be above 0 for swapping hand items.
+	*/
+	"swapping_hand_items_requires_stamina": true,
+	// Stamina cost for toggling two handed stance
+	"swapping_hand_items_stamina_cost": 1.0,
+	// When true, stamina must be above 0 for sheathing hand items.
+	"sheathing_hand_items_requires_stamina": true,
+	// Stamina cost for toggling two handed stance
+	"sheathing_hand_items_stamina_cost": 1.0,
+	// When true, stamina must be above 0 for toggling two handed stance.
+	"toggling_two_handed_stance_requires_stamina": true,
+	// Stamina cost for toggling two handed stance
+	"toggling_two_handed_stance_stamina_cost": 1.0,
+	"keep_inventory_status_effect_identifier": "variousstatuseffects:keep_inventory",
+	"civilisation_status_effect_identifier": "variousstatuseffects:civilisation",
+	"wilderness_status_effect_identifier": "variousstatuseffects:wilderness",
+	// This status effect enables the building mode
+	"building_mode_status_effect_identifier": "scriptblocks:building_mode",
+	// This status effect is applied when an item in the 'non_two_handed_items' item tag is equipped
+	"needs_two_handing_status_effect_identifier": "variousstatuseffects:needs_two_handing",
+	// This status effect is applied when an item which is not in the 'attack_items' item tag is equipped and the 'allow_attacking_with_non_attack_items' option is set to false
+	"no_attack_item_status_effect_identifier": "variousstatuseffects:no_attack_item",
+	"allow_attacking_with_non_attack_items": true,
+	// Additional debug log is shown in the console.
+	"show_debug_log": false,
+	/* The default amount of spell slots.
+	   Must be between 0 and 8 (both inclusive)
+	*/
+	"default_spell_slot_amount": 0,
+	/* Set to false to enable the 2x2 crafting grid
+	   in the adventure inventory screen
+	*/
+	"disable_inventory_crafting_slots": false,
+	// default: 97
+	"inventory_crafting_slots_x_offset": 97,
+	// default: 42
+	"inventory_crafting_slots_y_offset": 42,
+	// default: 98
+	"spell_slots_x_offset": 98,
+	// default: 90
+	"spell_slots_y_offset": 90,
+	// default: 8
+	"head_slot_x_offset": 33,
+	// default: 72
+	"head_slot_y_offset": 18,
+	// default: 8
+	"chest_slot_x_offset": 8,
+	// default: 72
+	"chest_slot_y_offset": 54,
+	// default: 8
+	"legs_slot_x_offset": 8,
+	// default: 72
+	"legs_slot_y_offset": 90,
+	// default: 8
+	"feet_slot_x_offset": 77,
+	// default: 72
+	"feet_slot_y_offset": 90,
+	// default: 8
+	"belts_group_x_offset": 8,
+	// default: 72
+	"belts_group_y_offset": 72,
+	// default: 8
+	"shoulders_group_x_offset": 8,
+	// default: 36
+	"shoulders_group_y_offset": 36,
+	// default: 52
+	"necklaces_group_x_offset": 52,
+	// default: 18
+	"necklaces_group_y_offset": 18,
+	// default: 77
+	"rings_1_group_x_offset": 77,
+	// default: 36
+	"rings_1_group_y_offset": 36,
+	// default: 77
+	"rings_2_group_x_offset": 77,
+	// default: 54
+	"rings_2_group_y_offset": 54,
+	// default: 77
+	"gloves_group_x_offset": 77,
+	// default: 72
+	"gloves_group_y_offset": 72,
+	// default: 8
+	"hand_group_x_offset": 8,
+	// default: 108
+	"hand_group_y_offset": 108,
+	// default: 26
+	"offhand_slot_x_offset": 26,
+	// default: 108
+	"offhand_slot_y_offset": 108,
+	// default: 59
+	"alternative_hand_group_x_offset": 59,
+	// default: 108
+	"alternative_hand_group_y_offset": 108,
+	// default: 77
+	"alternative_offhand_group_x_offset": 77,
+	// default: 108
+	"alternative_offhand_group_y_offset": 108
+}

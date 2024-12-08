@@ -1,0 +1,79 @@
+name: minecraft-server
+
+networks:
+  minecraft:
+    driver: bridge
+
+
+services:
+  # =========================
+  # ===== MINECRAFT =========
+  # =========================
+  minecraft_server:
+    container_name: minecraft_server
+    image: itzg/minecraft-server:${MINECRAFT_ITZG_VERSION}
+    restart: unless-stopped
+    hostname: minecraft_server
+    networks:
+      - minecraft
+    environment:
+      TZ: ${TZ}
+      EULA: "TRUE"
+      TYPE: FABRIC
+      MAX_MEMORY: ${MINECRAFT_SERVER_MAX_MEMORY}
+      VERSION: ${MINECRAFT_SERVER_VERSION}
+      SERVER_NAME: ${MINECRAFT_SERVER_NAME}
+      MOTD: ${MINECRAFT_SERVER_MOTD}
+      DIFFICULTY: ${MINECRAFT_DIFFICULTY}
+      OVERRIDE_ICON: true
+      SPAWN_PROTECTION: 32
+      MAX_WORLD_SIZE: ${MINECRAFT_MAX_WORLD_SIZE}
+      ONLINE_MODE: false
+      LEVEL: ${MINECRAFT_SERVER_LEVEL}
+      PLAYER_IDLE_TIMEOUT: 180
+      RESOURCE_PACK: ${MINECRAFT_SERVER_RESOURCE_PACK}
+      ENABLE_ROLLING_LOGS: true
+      GUI: FALSE
+      FORCE_GAMEMODE: true
+      SNOOPER_ENABLED: false
+      SYNC_CHUNK_WRITES: false
+      MODS_FILE: /data/extras/mods.txt
+      ICON: /data/extras/bnk-icon.png
+      USE_AIKAR_FLAGS: true
+      VIEW_DISTANCE: 15
+      SEED: ${MINECRAFT_SERVER_SEED}
+    volumes:
+      - ${MINECRAFT_ITZG_DATA_LOCATION}:/data
+      - ${MINECRAFT_SERVER_ICON}:/data/extras/bnk-icon.png:ro
+      - ${MINECRAFT_SERVER_MODS}:/data/extras/mods.txt:ro
+    ports:
+      - ${MINECRAFT_ITZG_PORT}:25565
+      #- ${MINECRAFT_ITZG_QUERY_PORT}:25566
+      #- ${MINECRAFT_ITZG_RCON_PORT}:25567
+    tty: true
+    stdin_open: true
+    deploy:
+      resources:
+        limits:
+          memory: ${MINECRAFT_SERVER_MAX_MEMORY}
+
+  minecraft_bluemap:
+    container_name: minecraft_bluemap
+    image: ghcr.io/bluemap-minecraft/bluemap:${MINECRAFT_BLUEMAP_VERSION}
+    restart: unless-stopped
+    hostname: minecraft_bluemap
+    networks:
+      - minecraft
+    command: -r -u -w
+    ports:
+      - ${MINECRAFT_BLUEMAP_PORT}:8100
+    volumes:
+      - ${MINECRAFT_BLUEMAP_LOCATION}/config:/app/config
+      - ${MINECRAFT_BLUEMAP_LOCATION}/data:/app/data
+      - ${MINECRAFT_BLUEMAP_LOCATION}/web:/app/web
+      - ${MINECRAFT_ITZG_DATA_LOCATION}/${MINECRAFT_SERVER_LEVEL}:/app/world
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: ${MINECRAFT_BLUEMAP_MAX_MEMORY}
