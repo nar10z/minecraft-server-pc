@@ -20,6 +20,7 @@ services:
       TZ: ${TZ}
       EULA: "TRUE"
       TYPE: FABRIC
+      INIT_MEMORY: ${MINECRAFT_SERVER_INIT_MEMORY}
       MAX_MEMORY: ${MINECRAFT_SERVER_MAX_MEMORY}
       VERSION: ${MINECRAFT_SERVER_VERSION}
       SERVER_NAME: ${MINECRAFT_SERVER_NAME}
@@ -42,6 +43,7 @@ services:
       USE_AIKAR_FLAGS: true
       VIEW_DISTANCE: 15
       SEED: ${MINECRAFT_SERVER_SEED}
+      ALLOW_FLIGHT: true
     volumes:
       - ${MINECRAFT_ITZG_DATA_LOCATION}:/data
       - ${MINECRAFT_SERVER_ICON}:/data/extras/bnk-icon.png:ro
