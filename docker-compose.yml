@@ -3,6 +3,10 @@ name: minecraft-server
 networks:
   minecraft:
     driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.23.0.0/24
 
 
 services:
@@ -15,7 +19,8 @@ services:
     restart: unless-stopped
     hostname: minecraft_server
     networks:
-      - minecraft
+      minecraft:
+        ipv4_address: 172.23.0.2
     environment:
       TZ: ${TZ}
       EULA: "TRUE"
@@ -59,6 +64,32 @@ services:
         limits:
           memory: ${MINECRAFT_SERVER_MAX_MEMORY}
 
+#  minecraft_proxy:
+#    container_name: minecraft_proxy
+#    image: itzg/mc-proxy:${MINECRAFT_PROXY_VERSION}
+#    #restart: unless-stopped
+#    hostname: minecraft_proxy
+#    networks:
+#      - minecraft
+#    environment:
+#      TYPE: VELOCITY
+#      MEMORY: 512m
+#      REPLACE_ENV_VARIABLES: true
+#      CFG_MOTD: ${MINECRAFT_SERVER_MOTD}
+#    volumes:
+#      - ${MINECRAFT_PROXY_DATA_LOCATION}/data:/server
+#    ports:
+#      - ${MINECRAFT_PROXY_PORT}:25577
+#    tty: true
+#    stdin_open: true
+#    depends_on:
+#      - minecraft_server
+#    deploy:
+#      resources:
+#        limits:
+#          cpus: '1'
+#          memory: 512m
+
   minecraft_bluemap:
     container_name: minecraft_bluemap
     image: ghcr.io/bluemap-minecraft/bluemap:${MINECRAFT_BLUEMAP_VERSION}
@@ -74,8 +105,10 @@ services:
       - ${MINECRAFT_BLUEMAP_LOCATION}/data:/app/data
       - ${MINECRAFT_BLUEMAP_LOCATION}/web:/app/web
       - ${MINECRAFT_ITZG_DATA_LOCATION}/${MINECRAFT_SERVER_LEVEL}:/app/world
+    depends_on:
+      - minecraft_server
     deploy:
       resources:
         limits:
-          cpus: '2'
-          memory: ${MINECRAFT_BLUEMAP_MAX_MEMORY}
+          cpus: '1'
+          memory: 1g
