@@ -101,6 +101,12 @@
   _Download: https://cdn.modrinth.com/data/NNAgCjsB/versions/hD1f5amG/entityculling-fabric-1.7.1-mc1.21.jar_ \
   v1.21.3 ready? ✅
 
+
+* [Krypton](https://modrinth.com/mod/krypton/versions?g=1.21.1)
+  _(server, client)_ | Мод для оптимизации сетевого стека Minecraft. \
+  _Download: https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar_ \
+  v1.21.3 ready? ✅
+
 ### Моды API/Интеграции
 
 * [FabricAPI](https://modrinth.com/mod/fabric-api/versions?g=1.21.1&c=release)

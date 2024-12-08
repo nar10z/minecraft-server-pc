@@ -9,6 +9,8 @@ https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar
 https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar
 https://cdn.modrinth.com/data/YL57xq9U/versions/IzngD3Cy/iris-fabric-1.8.1%2Bmc1.21.1.jar
 https://cdn.modrinth.com/data/NNAgCjsB/versions/hD1f5amG/entityculling-fabric-1.7.1-mc1.21.jar
+https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar
+
 
 https://cdn.modrinth.com/data/P7dR8mSH/versions/Zp9iAZdZ/fabric-api-0.110.0%2B1.21.1.jar
 https://cdn.modrinth.com/data/kkmrDlKT/versions/yHeHBZPt/TerraBlender-fabric-1.21.1-4.1.0.5.jar
@@ -112,7 +114,7 @@ https://cdn.modrinth.com/data/PeZ4h4i0/versions/sV9ImcI8/elemental_wizards_rpg-2
 https://cdn.modrinth.com/data/8hqOZzxM/versions/Jy2KE0dw/berserker-class-mod-2.1.0-1.21.jar
 https://cdn.modrinth.com/data/K3yHebFL/versions/UzAfVrVi/forcemaster-class-mod-2.1.1-1.21.jar
 https://cdn.modrinth.com/data/4eW1c7Gj/versions/vjYk0xcH/witcher-class-mod-2.0.4-1.21.jar
-https://cdn.modrinth.com/data/rULzJh3O/versions/U6Gnam8W/additional_rpg_jewelry-2.0.2-1.21.1.jar
+https://cdn.modrinth.com/data/rULzJh3O/versions/6KfjpQax/additional_rpg_jewelry-2.0.3-1.21.1.jar
 https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar
 https://cdn.modrinth.com/data/Agw7MFEL/versions/ohoLhgFo/head_in_the_clouds-1.1.0.jar
 https://cdn.modrinth.com/data/yn9u3ypm/versions/Fg64B87Y/graves-3.4.4%2B1.21.jar
