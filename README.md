@@ -282,7 +282,7 @@
 
 * [More RPG Library](https://modrinth.com/mod/more-rpg-classes/versions?g=1.21.1)
   _(server, client)_ | Library for the More RPG Classes & More RPG Content Series. \
-  _Download: https://cdn.modrinth.com/data/Wkc3lwHo/versions/4xkHE8cQ/more_rpg_classes-2.0.9-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/Wkc3lwHo/versions/WUWndEDj/more_rpg_classes-2.0.13-1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -693,7 +693,7 @@
 
 * [Forcemaster (More RPG Classes)](https://modrinth.com/mod/forcemaster-rpg-class/versions?g=1.21.1)
   _(server, client)_ | Хватай Накл, овладей силой и боевым искусством. Spell Engine Add-On. \
-  _Download: https://cdn.modrinth.com/data/K3yHebFL/versions/UzAfVrVi/forcemaster-class-mod-2.1.1-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/K3yHebFL/versions/VMY0uhPs/forcemaster-class-mod-2.1.3-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
