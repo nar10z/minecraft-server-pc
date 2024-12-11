@@ -480,7 +480,7 @@
 
 * [Better Combat](https://modrinth.com/mod/better-combat/versions?g=1.21.1&c=release&l=fabric)
   _(server, client)_ | ⚔️ Простая, зрелищная и веселая система ближнего боя из Minecraft Dungeons. \
-  _Download: https://cdn.modrinth.com/data/5sy6g3kz/versions/j1uQRjgd/bettercombat-fabric-2.0.3%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/5sy6g3kz/versions/i1Jmi8co/bettercombat-fabric-2.0.4%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 

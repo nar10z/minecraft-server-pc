@@ -76,7 +76,7 @@ https://cdn.modrinth.com/data/okE6QVAY/versions/hkv1lS2B/mcw-paintings-1.0.5-1.2
 https://cdn.modrinth.com/data/AtB5mHky/versions/ACDTHBLF/watut-fabric-1.21.0-1.1.3.jar
 https://cdn.modrinth.com/data/WhbRG4iK/versions/NpyrzO8Q/fallingleaves-1.16.4%2B1.21.1.jar
 https://cdn.modrinth.com/data/g8w1NapE/versions/UDZdkBPN/fabrictailor-2.5.0.jar
-https://cdn.modrinth.com/data/5sy6g3kz/versions/j1uQRjgd/bettercombat-fabric-2.0.3%2B1.21.1.jar
+https://cdn.modrinth.com/data/5sy6g3kz/versions/i1Jmi8co/bettercombat-fabric-2.0.4%2B1.21.1.jar
 https://cdn.modrinth.com/data/qyVF9oeo/versions/wP25tEBe/sound-physics-remastered-fabric-1.21.1-1.4.6.jar
 https://cdn.modrinth.com/data/gPCdW0Wr/versions/WyRIJsP5/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar
 https://cdn.modrinth.com/data/lFGQ4Hnk/versions/1wfayMST/darkpaintings-fabric-1.21.1-21.1.2.jar
