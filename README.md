@@ -78,7 +78,7 @@
 
 
 * [Chunky](https://modrinth.com/plugin/chunky/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Быстро и эффективно генерирует чанки. \
+  _(server)_ | Быстро и эффективно генерирует чанки. \
   _Download: https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar_ \
   v1.21.3 ready? ✅
 
@@ -263,13 +263,13 @@
 
 
 * [Cristel Lib](https://modrinth.com/mod/cristel-lib/versions?g=1.21.1&l=fabric)
-  _(server)_ | A Library mod for easy structure config and runtime datapacks. \
+  _(server, client)_ | A Library mod for easy structure config and runtime datapacks. \
   _Download: https://cdn.modrinth.com/data/cl223EMc/versions/8iGbvXwk/cristellib-fabric-1.2.8.jar_ \
   v1.21.3 ready? ✅
 
 
 * [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api/versions?g=1.21.1&l=fabric)
-  _(server)_ | A data attachment API that is easy, modular, and extremely fast. \
+  _(server, client)_ | A data attachment API that is easy, modular, and extremely fast. \
   _Download: https://cdn.modrinth.com/data/K01OU20C/versions/tVPYyTPV/cardinal-components-api-6.1.1.jar_ \
   v1.21.3 ready? ✅
 
@@ -325,13 +325,6 @@
   v1.21.3 ready? ✅
 
 
-* [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village/versions?g=1.21.1&l=fabric)
-  _(server)_ | Улучшает и создает новые деревни и форпосты разбойников, которые идеально впишутся в ваш мир
-  Minecraft. \
-  _Download: https://cdn.modrinth.com/data/fgmhI8kH/versions/bUY7KcOc/%5Bfabric%5Dctov-3.5.4.jar_ \
-  v1.21.3 ready? ✅
-
-
 * [Nullscape](https://modrinth.com/datapack/nullscape/versions?g=1.21.1&l=fabric)
   _(server)_ | Превращает скучный ванильный конец в инопланетное измерение с самым сюрреалистичным ландшафтом, который
   только можно себе представить. \
@@ -355,6 +348,13 @@
 * [Structory: Towers](https://modrinth.com/datapack/structory-towers/versions?g=1.21.1&l=fabric))
   _(server)_ | Добавляет в мир захватывающие башни в стиле биомов, как отдельную опцию или дополнение к Structory. \
   _Download: https://cdn.modrinth.com/data/j3FONRYr/versions/oOvJd4xF/Structory_Towers_1.21.x_v1.0.10.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village/versions?g=1.21.1&l=fabric)
+  _(server)_ | Улучшает и создает новые деревни и форпосты разбойников, которые идеально впишутся в ваш мир
+  Minecraft. \
+  _Download: https://cdn.modrinth.com/data/fgmhI8kH/versions/bUY7KcOc/%5Bfabric%5Dctov-3.5.4.jar_ \
   v1.21.3 ready? ✅
 
 
