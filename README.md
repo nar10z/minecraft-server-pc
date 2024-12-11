@@ -48,7 +48,7 @@
   Это достигается за счет использования преимуществ нескольких ядер ЦП параллельно. Для лучшей производительности
   рекомендуется использовать C2ME с [Lithium](https://modrinth.com/mod/lithium)
   и [ScalableLux](https://modrinth.com/mod/scalablelux). \
-  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/obPw5CLg/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.299.jar_ \
+  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/6hZhXb32/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.306.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -487,7 +487,7 @@
 * [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered/versions?g=1.21.1)
   _(client)_ | Мод для Minecraft, обеспечивающий реалистичное затухание звука, реверберацию и поглощение сквозь
   блоки.  \
-  _Download: https://cdn.modrinth.com/data/qyVF9oeo/versions/wP25tEBe/sound-physics-remastered-fabric-1.21.1-1.4.6.jar_ \
+  _Download: https://cdn.modrinth.com/data/qyVF9oeo/versions/cjZ56xjl/sound-physics-remastered-fabric-1.21.1-1.4.7.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -778,10 +778,4 @@
   _(server)_ | 🐺 Всякий раз, когда игрок телепортируется с помощью команды, его питомцы будут телепортированы вместе с
   ним. \
   _Download: https://cdn.modrinth.com/data/E5YVNsbH/versions/ezouZBrl/followersteleporttoo-1.21.1-2.6.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Auto GG](https://modrinth.com/mod/auto-gg/versions?g=1.21.1)
-  _(client)_ | A simple Auto GG mod for Hypixel (and others) \
-  _Download: https://cdn.modrinth.com/data/IC5fUZ7S/versions/ajZN67qp/AutoGG-2024.8.11.jar_ \
   v1.21.3 ready? ✅
