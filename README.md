@@ -306,6 +306,12 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar_ \
   v1.21.3 ready? ✅
 
+
+* [TCDCommons API](https://modrinth.com/mod/owo-lib/versions?g=1.21.1&l=fabric)
+  _(server, client)_ | TheCSDev's personal library mod for the Minecraft modding enviroment. \
+  _Download: https://cdn.modrinth.com/data/Eldc1g37/versions/yBjt6GDr/tcdcommons-3.12.4%2Bfabric-1.21.jar_ \
+  v1.21.3 ready? ✅
+
 ### Генерация мира
 
 * [Tectonic](https://modrinth.com/datapack/tectonic/versions?g=1.21.1&l=fabric)
@@ -365,6 +371,12 @@ Address: buneker.online
   Включает подземелья и врагов для сражений! \
   _Download: https://cdn.modrinth.com/data/OQAgZMH1/versions/iZ13qkr6/mvs-4.2.6-1.21.jar_ \
   v1.21.3 ready? ❌
+
+
+* [MES - Moog's End Structures](https://modrinth.com/mod/mes-moogs-end-structures/versions?g=1.21.1&l=fabric)
+  _(server)_ | Множество конструкций в ванильном стиле, чтобы наполнить конечное измерение жизнью! \
+  _Download: https://cdn.modrinth.com/data/r4PuRGfV/versions/KaiO0WDo/mes-1.3.5-1.21.jar_ \
+  v1.21.3 ready? ✅
 
 
 * [BetterEnd](https://modrinth.com/mod/betterend/versions?g=1.21.1)
@@ -543,6 +555,12 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/OoOVj3J3/versions/ZVumUwIy/BetterAnimationsCollection-v21.1.0-1.21.1-Fabric.jar_ \
   v1.21.3 ready? ❌
 
+
+* [Better Statistics Screen](https://modrinth.com/mod/better-stats/versions?g=1.21.1&l=fabric)
+  _(server, client)_ | Мод для Minecraft, который улучшает экран статистики и делает его более полезным.  \
+  _Download: https://cdn.modrinth.com/data/n6PXGAoM/versions/NBha24fH/betterstats-3.13.4%2Bfabric-1.21.jar_ \
+  v1.21.3 ready? ✅
+
 ### Улучшения игрового опыта
 
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions?g=1.21.1)
@@ -671,7 +689,7 @@ Address: buneker.online
 
 * [Spell Power Attributes](https://modrinth.com/mod/spell-power/versions?g=1.21.1)
   _(server, client)_ | 🔮 Spell Power entity attributes with related status effects and enchantments. \
-  _Download: https://cdn.modrinth.com/data/8ooWzSQP/versions/Yr88WIqG/spell_power-1.0.5%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/8ooWzSQP/versions/qUopGGyN/spell_power-1.0.6%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
