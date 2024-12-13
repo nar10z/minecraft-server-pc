@@ -361,7 +361,7 @@
 * [MVS - Moog's Voyager Structures](https://modrinth.com/mod/moogs-voyager-structures/versions?g=1.21.1&l=fabric)
   _(server)_ | Добавляет 87+ ванильных структур в ваш мир, чтобы оживить его, используя ванильные блоки.
   Включает подземелья и врагов для сражений! \
-  _Download: https://cdn.modrinth.com/data/OQAgZMH1/versions/7MNqnh2E/mvs-4.2.5-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/OQAgZMH1/versions/iZ13qkr6/mvs-4.2.6-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -699,13 +699,13 @@
 
 * [Witcher (More RPG Classes)](https://modrinth.com/mod/witcher-rpg-class/versions?g=1.21.1)
   _(server, client)_ | Уничтожай монстров как Ведьмак! Дополнение Spell Engine. \
-  _Download: https://cdn.modrinth.com/data/4eW1c7Gj/versions/vjYk0xcH/witcher-class-mod-2.0.4-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/4eW1c7Gj/versions/1IuYfzc5/witcher-class-mod-2.1.0-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Additional RPG Jewelry (More RPG Classes)](https://modrinth.com/mod/additional-rpg-jewelry/versions?g=1.21.1)
   _(server, client)_ | Дополнение «Ювелирные изделия» для модов More RPG Classs. \
-  _Download: https://cdn.modrinth.com/data/rULzJh3O/versions/U6Gnam8W/additional_rpg_jewelry-2.0.2-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/rULzJh3O/versions/mbsVgvVV/additional_rpg_jewelry-2.0.4-1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
