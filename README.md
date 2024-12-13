@@ -552,7 +552,7 @@
 * [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/versions?g=1.21.1)
   _(client)_ | Добавляет полноэкранную карту мира, которая показывает, что вы исследовали в мире. Отлично работает
   вместе с миникартой Xaero. \
-  _Download: https://cdn.modrinth.com/data/NcUtCpym/versions/373K4YJh/XaerosWorldMap_1.39.0_Fabric_1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/NcUtCpym/versions/2QD9OoBs/XaerosWorldMap_1.39.2_Fabric_1.21.jar_ \
   v1.21.3 ready? ✅
 
 

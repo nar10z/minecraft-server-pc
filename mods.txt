@@ -89,7 +89,7 @@ https://cdn.modrinth.com/data/OoOVj3J3/versions/ZVumUwIy/BetterAnimationsCollect
 
 
 https://cdn.modrinth.com/data/1bokaNcj/versions/C6gFqr7V/Xaeros_Minimap_24.6.1_Fabric_1.21.jar
-https://cdn.modrinth.com/data/NcUtCpym/versions/373K4YJh/XaerosWorldMap_1.39.0_Fabric_1.21.jar
+https://cdn.modrinth.com/data/NcUtCpym/versions/2QD9OoBs/XaerosWorldMap_1.39.2_Fabric_1.21.jar
 https://cdn.modrinth.com/data/EdBSdqge/versions/GByywrgz/spyglass_astronomy-1.0.13-mc1.21%2B.jar
 https://cdn.modrinth.com/data/ulloLmqG/versions/y4yMDiD3/another_furniture-fabric-4.0.0.jar
 https://cdn.modrinth.com/data/rGWEHQrP/versions/BSRcyUiv/smallships-fabric-1.21.1-2.0.0-b2.1.jar
