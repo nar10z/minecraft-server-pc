@@ -779,3 +779,9 @@
   ним. \
   _Download: https://cdn.modrinth.com/data/E5YVNsbH/versions/ezouZBrl/followersteleporttoo-1.21.1-2.6.jar_ \
   v1.21.3 ready? ✅
+
+
+* [Bounty Hunt](https://modrinth.com/mod/bounty-hunt/versions?g=1.21.1)
+  _(server)_ | Этот мод позволяет вам использовать на вашем сервере систему вознаграждений с использованием алмазов! \
+  _Download: https://cdn.modrinth.com/data/h7udW9Id/versions/J0wwrVFU/bountyhunt-1.3.1-1.21.1.jar_ \
+  v1.21.3 ready? ❌

@@ -33,7 +33,8 @@
     "!/mods/droppablevillagertrades-fabric-*.jar",
     "!/mods/followersteleporttoo-*.jar",
     "!/mods/collective-*.jar",
-    "!/mods/disconnect-packet-fix-fabric-*.jar"
+    "!/mods/disconnect-packet-fix-fabric-*.jar",
+    "!/mods/bountyhunt-*.jar"
   ],
   "allowEditsInFiles": [
     "/options.txt",
