@@ -597,7 +597,7 @@ Address: buneker.online
 * [Camerapture](https://modrinth.com/mod/camerapture/versions?g=1.21.1)
   _(server, client)_ | Делайте снимки с помощью рабочей камеры, показывайте их другим игрокам и вешайте на стену в
   фоторамках! \
-  _Download: https://cdn.modrinth.com/data/9dzLWnmZ/versions/AhWh9VMW/Camerapture-1.6.4%2Bmc1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/9dzLWnmZ/versions/WNEYcWmo/Camerapture-1.7.1%2Bmc1.21.1-fabric.jar_ \
   v1.21.3 ready? ❌
 
 
