@@ -805,3 +805,9 @@ Address: buneker.online
   _(server)_ | Этот мод позволяет вам использовать на вашем сервере систему вознаграждений с использованием алмазов! \
   _Download: https://cdn.modrinth.com/data/h7udW9Id/versions/J0wwrVFU/bountyhunt-1.3.1-1.21.1.jar_ \
   v1.21.3 ready? ❌
+
+
+* [Living Things](https://modrinth.com/mod/living-things/versions?g=1.21.1&l=fabric)
+  _(server, client)_ | добавляет различных новых мобов в Minecraft \
+  _Download: https://cdn.modrinth.com/data/UKDLi1GJ/versions/Cjktz3Pk/livingthings-fabric-1.21.1-2.2.0.jar_ \
+  v1.21.3 ready? ✅
