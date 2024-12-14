@@ -811,3 +811,9 @@ Address: buneker.online
   _(server, client)_ | добавляет различных новых мобов в Minecraft \
   _Download: https://cdn.modrinth.com/data/UKDLi1GJ/versions/Cjktz3Pk/livingthings-fabric-1.21.1-2.2.0.jar_ \
   v1.21.3 ready? ✅
+
+
+* [Emotecraft](https://modrinth.com/plugin/emotecraft/versions?g=1.21.1&l=fabric)
+  _(server, client)_ | Создавайте свои собственные эмоции в Minecraft. \
+  _Download: https://cdn.modrinth.com/data/pZ2wrerK/versions/ltLJGtLk/emotecraft-for-MC1.21.1-2.4.4-fabric.jar_ \
+  v1.21.3 ready? ❌
