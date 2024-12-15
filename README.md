@@ -645,10 +645,10 @@ Address: buneker.online
   v1.21.3 ready? ❌
 
 
-* [Just Enough Items](https://modrinth.com/mod/jei/versions?g=1.21.1)
-  _(server, client)_ | JEI - Просмотр товаров и рецептов. \
-  _Download: https://cdn.modrinth.com/data/u6dRKJwZ/versions/Ni0ejaDO/jei-1.21.1-fabric-19.21.0.247.jar_ \
-  v1.21.3 ready? ❌
+* [Roughly Enough Items (REI)](https://modrinth.com/mod/rei/versions?g=1.21.1&l=fabric)
+  _(client)_ | Чистый и настраиваемый. Альтернатива Just Enough Items/JEI. \
+  _Download: https://cdn.modrinth.com/data/nfn13YXA/versions/F3B8X7NS/RoughlyEnoughItems-16.0.788-fabric.jar_ \
+  v1.21.3 ready? ✅
 
 
 * [Friends & Foes (Fabric/Quilt)](https://modrinth.com/mod/friends-and-foes/versions?g=1.21.1)

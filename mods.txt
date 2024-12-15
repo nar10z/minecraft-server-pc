@@ -104,7 +104,7 @@ https://cdn.modrinth.com/data/EsYqsGV4/versions/GNkZt2pd/sit%21-1.2.0%2B1.21-1.2
 https://cdn.modrinth.com/data/kOuPUitF/versions/6YjKZX63/healingcampfire-1.21.1-6.1.jar
 https://cdn.modrinth.com/data/EJqeyaVz/versions/VhJPLdxH/nohostilesaroundcampfire-1.21.1-7.1.jar
 https://cdn.modrinth.com/data/i2kUe4lq/versions/aZRfhVxm/fallingtrees-fabric-0.12.7-1.21.jar
-https://cdn.modrinth.com/data/u6dRKJwZ/versions/Ni0ejaDO/jei-1.21.1-fabric-19.21.0.247.jar
+https://cdn.modrinth.com/data/nfn13YXA/versions/F3B8X7NS/RoughlyEnoughItems-16.0.788-fabric.jar
 https://cdn.modrinth.com/data/POQ2i9zu/versions/eUncYB8D/friendsandfoes-fabric-mc1.21.1-3.0.5.jar
 https://cdn.modrinth.com/data/NkGaQMDA/versions/kCvuj9ae/wizards-2.1.0%2B1.21.1.jar
 https://cdn.modrinth.com/data/FxXkHaLe/versions/vxPwoQ0X/paladins-2.1.1%2B1.21.1.jar
