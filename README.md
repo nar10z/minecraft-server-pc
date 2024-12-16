@@ -50,7 +50,7 @@ Address: buneker.online
   Это достигается за счет использования преимуществ нескольких ядер ЦП параллельно. Для лучшей производительности
   рекомендуется использовать C2ME с [Lithium](https://modrinth.com/mod/lithium)
   и [ScalableLux](https://modrinth.com/mod/scalablelux). \
-  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/6hZhXb32/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.306.jar_ \
+  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/4YHCEQQR/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.307.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -623,7 +623,7 @@ Address: buneker.online
 * [Sit!](https://modrinth.com/mod/sit!/versions?g=1.21.1)
   _(server, client)_ | Добавляет сидение в Minecraft! Сделайте любой блок стулом с бесконечными возможностями настройки
   ограничений для рук и сидячих блоков. \
-  _Download: https://cdn.modrinth.com/data/EsYqsGV4/versions/GNkZt2pd/sit%21-1.2.0%2B1.21-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/EsYqsGV4/versions/UvuuwmsA/sit%21-1.2.1%2B1.21-1.21.1.jar_ \
   v1.21.3 ready? ✅
 
 
