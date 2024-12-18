@@ -63,7 +63,7 @@ Address: buneker.online
 
 * [Sodium](https://modrinth.com/mod/sodium/versions?g=1.21.1)
   _(client)_ | Самый быстрый и совместимый мод оптимизации рендеринга для Minecraft. \
-  _Download: https://cdn.modrinth.com/data/AANobbMI/versions/6b5IXmYv/sodium-fabric-0.6.2%2Bmc1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/AANobbMI/versions/EoNKHoLH/sodium-fabric-0.6.5%2Bmc1.21.1.jar_ \
   v1.21.3 ready? ✅
 
 
