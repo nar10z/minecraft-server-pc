@@ -309,8 +309,14 @@ Address: buneker.online
 
 * [TCDCommons API](https://modrinth.com/mod/owo-lib/versions?g=1.21.1&l=fabric)
   _(server, client)_ | TheCSDev's personal library mod for the Minecraft modding enviroment. \
-  _Download: https://cdn.modrinth.com/data/Eldc1g37/versions/yBjt6GDr/tcdcommons-3.12.4%2Bfabric-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/Eldc1g37/versions/u5IY2Agn/tcdcommons-3.12.5%2Bfabric-1.21.jar_ \
   v1.21.3 ready? ✅
+
+
+* [Patchouli](https://modrinth.com/mod/patchouli/versions?g=1.21.1&l=fabric)
+  _(server, client)_ | Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers \
+  _Download: https://cdn.modrinth.com/data/nU0bVIaL/versions/YGxHft1h/Patchouli-1.21-87-FABRIC.jar_ \
+  v1.21.3 ready? ❌
 
 ### Генерация мира
 
@@ -451,6 +457,19 @@ Address: buneker.online
   _(server)_ | Подпроект "Katters Structures" только с подземельями. \
   _Download: https://cdn.modrinth.com/data/VAVLEOBG/versions/HZEor0Ie/katters-structures-only-dungeon-2.1.jar_ \
   v1.21.3 ready? ✅
+
+
+* [qraftyfied: Industrial Structures](https://modrinth.com/datapack/qraftyfied-industrial-structures/versions?g=1.21.1&l=fabric)
+  _(server)_ | Добавляйте индустриальные/стимпанковские структуры в свой мир Minecraft с помощью забавных техник
+  редстоуна! 🏭 Идеальный аддон для qraftyfied. \
+  _Download: https://cdn.modrinth.com/data/TrPmg4ei/versions/D8l5R39e/qraftyfied-industrial-structures-1.0.0.jar_ \
+  v1.21.4 ready? ✅
+
+
+* [qrafty's Japanese Villages](https://modrinth.com/datapack/qraftys-japanese-villages/versions?g=1.21.1&l=fabric)
+  _(server)_ | Пакет добавляет красивые уютные деревни и строения в биом цветущей сакуры! 🌸 \
+  _Download: https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar_ \
+  v1.21.4 ready? ✅
 
 ### Улучшения визуала
 

@@ -45,7 +45,8 @@ https://cdn.modrinth.com/data/ohNO6lps/versions/h0NwCvfv/ForgeConfigAPIPort-v21.
 https://cdn.modrinth.com/data/QYZ7JTtD/versions/3UuOWBWs/slot-customization-api-2.1.0.jar
 https://cdn.modrinth.com/data/MBAkmtvl/versions/8y2siHEz/balm-fabric-1.21.1-21.0.20.jar
 https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar
-https://cdn.modrinth.com/data/Eldc1g37/versions/yBjt6GDr/tcdcommons-3.12.4%2Bfabric-1.21.jar
+https://cdn.modrinth.com/data/Eldc1g37/versions/u5IY2Agn/tcdcommons-3.12.5%2Bfabric-1.21.jar
+https://cdn.modrinth.com/data/nU0bVIaL/versions/YGxHft1h/Patchouli-1.21-87-FABRIC.jar
 
 
 https://cdn.modrinth.com/data/lWDHr9jE/versions/YcKxW5iv/tectonic-fabric-1.21-2.4.1.jar
@@ -70,6 +71,8 @@ https://cdn.modrinth.com/data/MRK4tULJ/versions/IOxi2RHE/UndergroundBunkers-1.0.
 https://cdn.modrinth.com/data/LOpKHB2A/versions/JPtziByp/waystones-fabric-1.21.1-21.1.5.jar
 https://cdn.modrinth.com/data/ys9iIcGC/versions/ealrpT96/katters-structures-only-ambient-2.1.jar
 https://cdn.modrinth.com/data/VAVLEOBG/versions/HZEor0Ie/katters-structures-only-dungeon-2.1.jar
+https://cdn.modrinth.com/data/TrPmg4ei/versions/D8l5R39e/qraftyfied-industrial-structures-1.0.0.jar
+https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar
 
 
 https://cdn.modrinth.com/data/JiEhJ3WG/versions/7mUHEpdy/moremobvariants-fabric%2B1.21-1.3.1.1.jar
