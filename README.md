@@ -727,25 +727,25 @@ Address: buneker.online
 
 * [Elemental Wizards (More RPG Classes)](https://modrinth.com/mod/elemental-wizards-rpg/versions?g=1.21.1)
   _(server, client)_ | Овладейте стихиями, чтобы победить своих врагов! Spell Engine Add-On. \
-  _Download: https://cdn.modrinth.com/data/PeZ4h4i0/versions/sV9ImcI8/elemental_wizards_rpg-2.1.1-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/PeZ4h4i0/versions/DaJXiCzZ/elemental_wizards_rpg-2.2.0-1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Berserker (More RPG Classes)](https://modrinth.com/mod/berserker-rpg-class/versions?g=1.21.1)
   _(server, client)_ | Войди в дикий, беспощадный боевой транс как Берсерк! Spell Engine Add-On. \
-  _Download: https://cdn.modrinth.com/data/8hqOZzxM/versions/Jy2KE0dw/berserker-class-mod-2.1.0-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/8hqOZzxM/versions/lSCmoi6D/berserker-class-mod-2.2.1-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Forcemaster (More RPG Classes)](https://modrinth.com/mod/forcemaster-rpg-class/versions?g=1.21.1)
   _(server, client)_ | Хватай Накл, овладей силой и боевым искусством. Spell Engine Add-On. \
-  _Download: https://cdn.modrinth.com/data/K3yHebFL/versions/VMY0uhPs/forcemaster-class-mod-2.1.3-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/K3yHebFL/versions/vQLAHQmT/forcemaster-class-mod-2.2.0-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Witcher (More RPG Classes)](https://modrinth.com/mod/witcher-rpg-class/versions?g=1.21.1)
   _(server, client)_ | Уничтожай монстров как Ведьмак! Дополнение Spell Engine. \
-  _Download: https://cdn.modrinth.com/data/4eW1c7Gj/versions/1IuYfzc5/witcher-class-mod-2.1.0-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/4eW1c7Gj/versions/BJYQmGMg/witcher-class-mod-2.2.0-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
