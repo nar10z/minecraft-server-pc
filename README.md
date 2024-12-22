@@ -211,7 +211,7 @@ Address: buneker.online
 
 * [Spell Engine](https://modrinth.com/mod/spell-engine/versions?g=1.21.1&c=release)
   _(server, client)_ | Data driven magic library. \
-  _Download: https://cdn.modrinth.com/data/XvoWJaA2/versions/cyrSy7dK/spell_engine-1.1.2%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/XvoWJaA2/versions/MXaJZMaR/spell_engine-1.2.0%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -590,7 +590,7 @@ Address: buneker.online
 
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions?g=1.21.1)
   _(client)_ | Отображает карту близлежащего ландшафта мира, игроков, мобов, сущностей в углу экрана. \
-  _Download: https://cdn.modrinth.com/data/1bokaNcj/versions/C6gFqr7V/Xaeros_Minimap_24.6.1_Fabric_1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/1bokaNcj/versions/Hyd81hdy/Xaeros_Minimap_24.7.1_Fabric_1.21.jar _ \
   v1.21.3 ready? ✅
 
 
@@ -685,24 +685,25 @@ Address: buneker.online
 
 * [Wizards (RPG Series)](https://modrinth.com/mod/wizards/versions?g=1.21.1)
   _(server, client)_ | 🧙🏻‍♂️ Уничтожьте своих врагов с помощью тайной, огненной и ледяной магии. \
-  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/kCvuj9ae/wizards-2.1.0%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/te2JaYhE/wizards-2.2.0%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Paladins & Priests (RPG Series)](https://modrinth.com/mod/paladins-and-priests/versions?g=1.21.1)
   _(server, client)_ | ✨ Защищайте и лечите своих друзей как Паладин или Жрец. \
-  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/vxPwoQ0X/paladins-2.1.1%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/PSqVzCby/paladins-2.2.0%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Archers (RPG Series)](https://modrinth.com/mod/archers/versions?g=1.21.1)
   _(server, client)_ | 🏹 Натягивай, отпускай, побеждай — овладей искусством стрельбы из лука! \
-  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/NGCVkcDm/archers-2.1.1%2B1.21.1.jar_
+  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/cbrHHvPE/archers-2.2.0%2B1.21.1.jar_ \
+  v1.21.3 ready? ❌
 
 
 * [Rogues & Warriors (RPG Series)](https://modrinth.com/mod/rogues-and-warriors/versions?g=1.21.1)
   _(server, client)_ | 🗡️ Бесшумные клинки, мощные удары — доминируйте с помощью боевых навыков! \
-  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/uUukxUSN/rogues-2.1.0%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/FZfhysO9/rogues-2.2.0%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -714,7 +715,7 @@ Address: buneker.online
 
 * [Spell Power Attributes](https://modrinth.com/mod/spell-power/versions?g=1.21.1)
   _(server, client)_ | 🔮 Spell Power entity attributes with related status effects and enchantments. \
-  _Download: https://cdn.modrinth.com/data/8ooWzSQP/versions/qUopGGyN/spell_power-1.0.6%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/8ooWzSQP/versions/UW9B5nqp/spell_power-1.0.7%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -841,4 +842,10 @@ Address: buneker.online
 * [Emotecraft](https://modrinth.com/plugin/emotecraft/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Создавайте свои собственные эмоции в Minecraft. \
   _Download: https://cdn.modrinth.com/data/pZ2wrerK/versions/ltLJGtLk/emotecraft-for-MC1.21.1-2.4.4-fabric.jar_ \
+  v1.21.3 ready? ❌
+
+
+* [Elytra Slot](https://modrinth.com/mod/elytra-slot/versions?g=1.21.1&l=fabric)
+  _(client)_ | Добавляет дополнительную поддержку надкрыльям, чтобы вы могли летать и носить нагрудную броню одновременно. \
+  _Download: https://cdn.modrinth.com/data/mSQF1NpT/versions/jxx2pc4h/elytraslot-fabric-9.0.1%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
