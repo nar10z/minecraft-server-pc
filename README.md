@@ -50,7 +50,7 @@ Address: buneker.online
   Это достигается за счет использования преимуществ нескольких ядер ЦП параллельно. Для лучшей производительности
   рекомендуется использовать C2ME с [Lithium](https://modrinth.com/mod/lithium)
   и [ScalableLux](https://modrinth.com/mod/scalablelux). \
-  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/4YHCEQQR/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.307.jar_ \
+  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/gBHj4pcP/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.308.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -317,6 +317,12 @@ Address: buneker.online
   _(server, client)_ | Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers \
   _Download: https://cdn.modrinth.com/data/nU0bVIaL/versions/YGxHft1h/Patchouli-1.21-87-FABRIC.jar_ \
   v1.21.3 ready? ❌
+
+
+* [MidnightLib](https://modrinth.com/mod/midnightlib/versions?g=1.21.1&l=fabric)
+  _(server, client)_ | Common library providing a lightweight configuration system \
+  _Download: https://cdn.modrinth.com/data/codAaoxh/versions/Ct1rAic5/midnightlib-fabric-1.6.3.jar_ \
+  v1.21.3 ready? ✅
 
 ### Генерация мира
 
