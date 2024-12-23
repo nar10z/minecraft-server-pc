@@ -28,14 +28,19 @@
     "!/mods/villagesandpillages-fabric-*.jar",
     "!/mods/UndergroundBunkers-*.jar",
     "!/mods/katters-structures-only-dungeon-*.jar",
+    "!/mods/qraftyfied-industrial-structures-*.jar",
+    "!/mods/qraftys-japanese-villages-*.jar",
+    "!/mods/improved-weather-*.jar",
+    "!/mods/sit!-*.jar",
     "!/mods/healingcampfire-*.jar",
     "!/mods/nohostilesaroundcampfire-*.jar",
     "!/mods/serversleep-datapack2.jar",
     "!/mods/droppablevillagertrades-fabric-*.jar",
+    "!/mods/Clumps-fabric-*.jar",
     "!/mods/followersteleporttoo-*.jar",
+    "!/mods/bountyhunt-*.jar",
     "!/mods/collective-*.jar",
-    "!/mods/disconnect-packet-fix-fabric-*.jar",
-    "!/mods/bountyhunt-*.jar"
+    "!/mods/disconnect-packet-fix-fabric-*.jar"
   ],
   "allowEditsInFiles": [
     "/options.txt",
@@ -43,7 +48,7 @@
     "!/config/excludeThisFile"
   ],
   "autoExcludeUnnecessaryFiles": true,
-  "requireAutoModpackOnClient": false,
+  "requireAutoModpackOnClient": true,
   "nagUnModdedClients": true,
   "nagMessage": "This server provides dedicated modpack through AutoModpack!",
   "nagClickableMessage": "Click here to get the AutoModpack!",

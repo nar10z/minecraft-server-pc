@@ -112,7 +112,7 @@ Address: buneker.online
 ### Моды API/Интеграции
 
 * [FabricAPI](https://modrinth.com/mod/fabric-api/versions?g=1.21.1&c=release)
-  _(server)_ | API для ядра сервера Fabric. \
+  _(server, client)_ | API для ядра сервера Fabric. \
   _Download: https://cdn.modrinth.com/data/P7dR8mSH/versions/Zp9iAZdZ/fabric-api-0.110.0%2B1.21.1.jar_ \
   v1.21.3 ready? ✅
 
@@ -124,7 +124,7 @@ Address: buneker.online
 
 
 * [Collective](https://modrinth.com/mod/collective/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Это общая библиотека с общим кодом для всех модов Serilum. \
+  _(server)_ | Это общая библиотека с общим кодом для всех модов Serilum. \
   _Download: https://cdn.modrinth.com/data/e0M1UDsY/versions/nwmUrrgY/collective-1.21.1-7.87.jar_ \
   v1.21.3 ready? ✅
 
