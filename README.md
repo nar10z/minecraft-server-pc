@@ -646,7 +646,7 @@ Address: buneker.online
 
 
 * [Sit!](https://modrinth.com/mod/sit!/versions?g=1.21.1)
-  _(server, client)_ | Добавляет сидение в Minecraft! Сделайте любой блок стулом с бесконечными возможностями настройки
+  _(server)_ | Добавляет сидение в Minecraft! Сделайте любой блок стулом с бесконечными возможностями настройки
   ограничений для рук и сидячих блоков. \
   _Download: https://cdn.modrinth.com/data/EsYqsGV4/versions/UvuuwmsA/sit%21-1.2.1%2B1.21-1.21.1.jar_ \
   v1.21.3 ready? ✅
