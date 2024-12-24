@@ -242,7 +242,7 @@ Address: buneker.online
 
 * [Puzzles Lib](https://modrinth.com/mod/puzzles-lib/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Why's it called Puzzles you ask? That's the puzzle! \
-  _Download: https://cdn.modrinth.com/data/QAGBst4M/versions/1tsnZQza/PuzzlesLib-v21.1.22-1.21.1-Fabric.jar_ \
+  _Download: https://cdn.modrinth.com/data/QAGBst4M/versions/E8hn913v/PuzzlesLib-v21.1.24-1.21.1-Fabric.jar_ \
   v1.21.3 ready? ✅
 
 
