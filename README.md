@@ -50,7 +50,7 @@ Address: buneker.online
   Это достигается за счет использования преимуществ нескольких ядер ЦП параллельно. Для лучшей производительности
   рекомендуется использовать C2ME с [Lithium](https://modrinth.com/mod/lithium)
   и [ScalableLux](https://modrinth.com/mod/scalablelux). \
-  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/gBHj4pcP/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.308.jar_ \
+  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/H5YtgA2t/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.310.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -113,7 +113,7 @@ Address: buneker.online
 
 * [FabricAPI](https://modrinth.com/mod/fabric-api/versions?g=1.21.1&c=release)
   _(server, client)_ | API для ядра сервера Fabric. \
-  _Download: https://cdn.modrinth.com/data/P7dR8mSH/versions/Zp9iAZdZ/fabric-api-0.110.0%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/P7dR8mSH/versions/biIRIp2X/fabric-api-0.114.0%2B1.21.1.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -284,7 +284,7 @@ Address: buneker.online
 
 * [More RPG Library](https://modrinth.com/mod/more-rpg-classes/versions?g=1.21.1)
   _(server, client)_ | Library for the More RPG Classes & More RPG Content Series. \
-  _Download: https://cdn.modrinth.com/data/Wkc3lwHo/versions/WUWndEDj/more_rpg_classes-2.0.13-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/Wkc3lwHo/versions/ANT2YlnJ/more_rpg_classes-2.0.14-1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -622,7 +622,7 @@ Address: buneker.online
 * [Camerapture](https://modrinth.com/mod/camerapture/versions?g=1.21.1)
   _(server, client)_ | Делайте снимки с помощью рабочей камеры, показывайте их другим игрокам и вешайте на стену в
   фоторамках! \
-  _Download: https://cdn.modrinth.com/data/9dzLWnmZ/versions/WNEYcWmo/Camerapture-1.7.1%2Bmc1.21.1-fabric.jar_ \
+  _Download: https://cdn.modrinth.com/data/9dzLWnmZ/versions/tfQeMPmY/Camerapture-1.8.0%2Bmc1.21.1-fabric.jar_ \
   v1.21.3 ready? ❌
 
 
