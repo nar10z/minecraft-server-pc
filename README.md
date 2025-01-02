@@ -826,7 +826,7 @@ Address: buneker.online
 
 
 * [Clumps](https://modrinth.com/mod/clumps/versions?g=1.21.1&l=fabric)
-  _(server)_ | С этим модом жители деревни случайно бросают свои ремесла после смерти.  \
+  _(server)_ | Объединяет сферы опыта вместе, чтобы уменьшить задержку  \
   _Download: https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar_ \
   v1.21.3 ready? ✅
 
