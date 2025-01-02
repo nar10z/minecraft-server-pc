@@ -32,7 +32,7 @@ services:
       MOTD: ${MINECRAFT_SERVER_MOTD}
       DIFFICULTY: ${MINECRAFT_DIFFICULTY}
       OVERRIDE_ICON: true
-      SPAWN_PROTECTION: 32
+      SPAWN_PROTECTION: 256
       MAX_WORLD_SIZE: ${MINECRAFT_MAX_WORLD_SIZE}
       ONLINE_MODE: false
       LEVEL: ${MINECRAFT_SERVER_LEVEL}
@@ -40,13 +40,13 @@ services:
       RESOURCE_PACK: ${MINECRAFT_SERVER_RESOURCE_PACK}
       ENABLE_ROLLING_LOGS: true
       GUI: FALSE
-      FORCE_GAMEMODE: true
+      FORCE_GAMEMODE: false
       SNOOPER_ENABLED: false
       SYNC_CHUNK_WRITES: false
       MODS_FILE: /data/extras/mods.txt
       ICON: /data/extras/bnk-icon.png
       USE_AIKAR_FLAGS: true
-      VIEW_DISTANCE: 15
+      VIEW_DISTANCE: 16
       SEED: ${MINECRAFT_SERVER_SEED}
       ALLOW_FLIGHT: true
     volumes:

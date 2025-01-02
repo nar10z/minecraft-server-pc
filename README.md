@@ -40,86 +40,6 @@ Address: buneker.online
 
 ----
 
-### Моды для оптимизации
-
-* [AutoModpack](https://modrinth.com/mod/automodpack/versions?g=1.21.1&c=release&l=fabric)
-  _(server, client)_ | автоматическое скачивание модов с сервара. \
-  **⚠️ Этот мод, который должен быть установлен на клиенте Майнкрафта. ⚠️** \
-  _Download: https://cdn.modrinth.com/data/k68glP2e/versions/QACJXcNH/automodpack-mc1.21.1-fabric-4.0.0-beta22.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Lithium](https://modrinth.com/mod/lithium/versions?g=1.21.1&c=release&l=fabric)
-  _(server, client)_ | Улучшает ряд систем (физику игры, искусственный интеллект мобов, тиканье блоков и т. д.), не
-  меняя при этом никакую ванильную механику. \
-  _Download: https://cdn.modrinth.com/data/gvQqBUqZ/versions/9xfJi96s/lithium-fabric-0.14.3-snapshot%2Bmc1.21.1-build.92.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric/versions?g=1.21.1)
-  _(server, client)_ | Мод, разработанный для повышения производительности генерации кусков, ввода-вывода и загрузки.
-  Это достигается за счет использования преимуществ нескольких ядер ЦП параллельно. Для лучшей производительности
-  рекомендуется использовать C2ME с [Lithium](https://modrinth.com/mod/lithium)
-  и [ScalableLux](https://modrinth.com/mod/scalablelux). \
-  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/H5YtgA2t/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.310.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [ScalableLux](https://modrinth.com/mod/scalablelux/versions?g=1.21.1)
-  _(server, client)_ | Мод Fabric на основе Starlight, который улучшает производительность обновлений света в
-  Minecraft. \
-  _Download: https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar_\
-  v1.21.3 ready? ✅
-
-
-* [Sodium](https://modrinth.com/mod/sodium/versions?g=1.21.1)
-  _(client)_ | Самый быстрый и совместимый мод оптимизации рендеринга для Minecraft. \
-  _Download: https://cdn.modrinth.com/data/AANobbMI/versions/EoNKHoLH/sodium-fabric-0.6.5%2Bmc1.21.1.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Sodium Extra](https://modrinth.com/mod/sodium-extra/versions?g=1.21.1&l=fabric)
-  _(client)_ | Дополнение Sodium, добавляющее функции, которых не должно быть в Sodium. \
-  _Download: https://cdn.modrinth.com/data/PtjYWJkn/versions/anDafurZ/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Indium](https://modrinth.com/mod/indium/versions?g=1.21.1&l=fabric)
-  _(client)_ | Дополнение Sodium, обеспечивающее поддержку API рендеринга Fabric на основе Indigo. \
-  _Download: https://cdn.modrinth.com/data/Orvt0mRa/versions/Z8VpxxGh/indium-1.0.35%2Bmc1.21.jar_ \
-  v1.21.3 ready? ❌
-
-
-* [Chunky](https://modrinth.com/plugin/chunky/versions?g=1.21.1&l=fabric)
-  _(server)_ | Быстро и эффективно генерирует чанки. \
-  _Download: https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Noisium](https://modrinth.com/mod/noisium/versions?g=1.21.1&l=fabric)
-  _(server)_ | Оптимизирует производительность генерации мира для лучшего игрового процесса. \
-  _Download: https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Iris Shaders](https://modrinth.com/mod/iris/versions?g=1.21.1&c=release&l=fabric)
-  _(client)_ | Современный загрузчик пакетов шейдеров для Minecraft, совместимый с существующими пакетами шейдеров
-  OptiFine. \
-  _Download: https://cdn.modrinth.com/data/YL57xq9U/versions/IzngD3Cy/iris-fabric-1.8.1%2Bmc1.21.1.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Entity Culling](https://modrinth.com/mod/entityculling/versions?g=1.21.1&l=fabric)
-  _(client)_ | Использование асинхронной трассировки пути для скрытия блоков/сущностей, которые не видны \
-  _Download: https://cdn.modrinth.com/data/NNAgCjsB/versions/hD1f5amG/entityculling-fabric-1.7.1-mc1.21.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Krypton](https://modrinth.com/mod/krypton/versions?g=1.21.1)
-  _(server, client)_ | Мод для оптимизации сетевого стека Minecraft. \
-  _Download: https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar_ \
-  v1.21.3 ready? ✅
-
 ### Моды API/Интеграции
 
 * [FabricAPI](https://modrinth.com/mod/fabric-api/versions?g=1.21.1&c=release)
@@ -333,6 +253,92 @@ Address: buneker.online
 * [MidnightLib](https://modrinth.com/mod/midnightlib/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Common library providing a lightweight configuration system \
   _Download: https://cdn.modrinth.com/data/codAaoxh/versions/Ct1rAic5/midnightlib-fabric-1.6.3.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Iceberg](https://modrinth.com/mod/iceberg/versions?g=1.21.1&l=fabric)
+  _(client)_ | Библиотека моддинга, содержащая новые события, помощников и утилиты, облегчающие жизнь моддерам. \
+  _Download: https://cdn.modrinth.com/data/5faXoLqX/versions/vmyclz8X/Iceberg-1.21-fabric-1.2.7.jar_ \
+  v1.21.3 ready? ✅
+
+### Моды для оптимизации
+
+* [AutoModpack](https://modrinth.com/mod/automodpack/versions?g=1.21.1&c=release&l=fabric)
+  _(server, client)_ | автоматическое скачивание модов с сервара. \
+  **⚠️ Этот мод, который должен быть установлен на клиенте Майнкрафта. ⚠️** \
+  _Download: https://cdn.modrinth.com/data/k68glP2e/versions/QACJXcNH/automodpack-mc1.21.1-fabric-4.0.0-beta22.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Lithium](https://modrinth.com/mod/lithium/versions?g=1.21.1&c=release&l=fabric)
+  _(server, client)_ | Улучшает ряд систем (физику игры, искусственный интеллект мобов, тиканье блоков и т. д.), не
+  меняя при этом никакую ванильную механику. \
+  _Download: https://cdn.modrinth.com/data/gvQqBUqZ/versions/9xfJi96s/lithium-fabric-0.14.3-snapshot%2Bmc1.21.1-build.92.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric/versions?g=1.21.1)
+  _(server, client)_ | Мод, разработанный для повышения производительности генерации кусков, ввода-вывода и загрузки.
+  Это достигается за счет использования преимуществ нескольких ядер ЦП параллельно. Для лучшей производительности
+  рекомендуется использовать C2ME с [Lithium](https://modrinth.com/mod/lithium)
+  и [ScalableLux](https://modrinth.com/mod/scalablelux). \
+  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/H5YtgA2t/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.310.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [ScalableLux](https://modrinth.com/mod/scalablelux/versions?g=1.21.1)
+  _(server, client)_ | Мод Fabric на основе Starlight, который улучшает производительность обновлений света в
+  Minecraft. \
+  _Download: https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar_\
+  v1.21.3 ready? ✅
+
+
+* [Sodium](https://modrinth.com/mod/sodium/versions?g=1.21.1)
+  _(client)_ | Самый быстрый и совместимый мод оптимизации рендеринга для Minecraft. \
+  _Download: https://cdn.modrinth.com/data/AANobbMI/versions/EoNKHoLH/sodium-fabric-0.6.5%2Bmc1.21.1.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Sodium Extra](https://modrinth.com/mod/sodium-extra/versions?g=1.21.1&l=fabric)
+  _(client)_ | Дополнение Sodium, добавляющее функции, которых не должно быть в Sodium. \
+  _Download: https://cdn.modrinth.com/data/PtjYWJkn/versions/anDafurZ/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Indium](https://modrinth.com/mod/indium/versions?g=1.21.1&l=fabric)
+  _(client)_ | Дополнение Sodium, обеспечивающее поддержку API рендеринга Fabric на основе Indigo. \
+  _Download: https://cdn.modrinth.com/data/Orvt0mRa/versions/Z8VpxxGh/indium-1.0.35%2Bmc1.21.jar_ \
+  v1.21.3 ready? ❌
+
+
+* [Chunky](https://modrinth.com/plugin/chunky/versions?g=1.21.1&l=fabric)
+  _(server)_ | Быстро и эффективно генерирует чанки. \
+  _Download: https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Noisium](https://modrinth.com/mod/noisium/versions?g=1.21.1&l=fabric)
+  _(server)_ | Оптимизирует производительность генерации мира для лучшего игрового процесса. \
+  _Download: https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Iris Shaders](https://modrinth.com/mod/iris/versions?g=1.21.1&c=release&l=fabric)
+  _(client)_ | Современный загрузчик пакетов шейдеров для Minecraft, совместимый с существующими пакетами шейдеров
+  OptiFine. \
+  _Download: https://cdn.modrinth.com/data/YL57xq9U/versions/IzngD3Cy/iris-fabric-1.8.1%2Bmc1.21.1.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Entity Culling](https://modrinth.com/mod/entityculling/versions?g=1.21.1&l=fabric)
+  _(client)_ | Использование асинхронной трассировки пути для скрытия блоков/сущностей, которые не видны \
+  _Download: https://cdn.modrinth.com/data/NNAgCjsB/versions/hD1f5amG/entityculling-fabric-1.7.1-mc1.21.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Krypton](https://modrinth.com/mod/krypton/versions?g=1.21.1)
+  _(server, client)_ | Мод для оптимизации сетевого стека Minecraft. \
+  _Download: https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar_ \
   v1.21.3 ready? ✅
 
 ### Генерация мира
