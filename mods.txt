@@ -80,7 +80,6 @@ https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villag
 https://cdn.modrinth.com/data/JiEhJ3WG/versions/7mUHEpdy/moremobvariants-fabric%2B1.21-1.3.1.1.jar
 https://cdn.modrinth.com/data/iJNje1E8/versions/FFW2DVUh/SnowRealMagic-1.21.1-Fabric-11.0.13.jar
 https://cdn.modrinth.com/data/okE6QVAY/versions/hkv1lS2B/mcw-paintings-1.0.5-1.21.1fabric.jar
-https://cdn.modrinth.com/data/AtB5mHky/versions/ACDTHBLF/watut-fabric-1.21.0-1.1.3.jar
 https://cdn.modrinth.com/data/WhbRG4iK/versions/NpyrzO8Q/fallingleaves-1.16.4%2B1.21.1.jar
 https://cdn.modrinth.com/data/g8w1NapE/versions/UDZdkBPN/fabrictailor-2.5.0.jar
 https://cdn.modrinth.com/data/5sy6g3kz/versions/i1Jmi8co/bettercombat-fabric-2.0.4%2B1.21.1.jar
@@ -93,7 +92,7 @@ https://cdn.modrinth.com/data/lPSTdJm7/versions/aXDXmNGu/expcounter-1.21.1-2-fab
 https://cdn.modrinth.com/data/8shC1gFX/versions/phATjGhF/BetterF3-11.0.3-Fabric-1.21.1.jar
 https://cdn.modrinth.com/data/OSMu7zRz/versions/kczOAU9q/better-tab-1.0.0%2B1.20.5-1.21.x.jar
 https://cdn.modrinth.com/data/OoOVj3J3/versions/ZVumUwIy/BetterAnimationsCollection-v21.1.0-1.21.1-Fabric.jar
-https://cdn.modrinth.com/data/n6PXGAoM/versions/NBha24fH/betterstats-3.13.4%2Bfabric-1.21.jar
+https://cdn.modrinth.com/data/n6PXGAoM/versions/G4F1t82i/betterstats-3.13.6%2Bfabric-1.21.jar
 
 
 https://cdn.modrinth.com/data/1bokaNcj/versions/Hyd81hdy/Xaeros_Minimap_24.7.1_Fabric_1.21.jar
@@ -105,7 +104,6 @@ https://cdn.modrinth.com/data/9dzLWnmZ/versions/tfQeMPmY/Camerapture-1.8.0%2Bmc1
 https://cdn.modrinth.com/data/smUP7V3r/versions/rVchC4HC/durabilitytooltip-1.1.5-fabric-mc1.21.jar
 https://cdn.modrinth.com/data/rlloIFEV/versions/DRssSA0N/travelersbackpack-fabric-1.21.1-10.1.3.jar
 https://cdn.modrinth.com/data/G1s2WpNo/versions/QZTn8cTa/BetterThirdPerson-Fabric-1.21-1.9.0.jar
-https://cdn.modrinth.com/data/EsYqsGV4/versions/UvuuwmsA/sit%21-1.2.1%2B1.21-1.21.1.jar
 https://cdn.modrinth.com/data/kOuPUitF/versions/6YjKZX63/healingcampfire-1.21.1-6.1.jar
 https://cdn.modrinth.com/data/EJqeyaVz/versions/VhJPLdxH/nohostilesaroundcampfire-1.21.1-7.1.jar
 https://cdn.modrinth.com/data/i2kUe4lq/versions/aZRfhVxm/fallingtrees-fabric-0.12.7-1.21.jar

@@ -515,13 +515,6 @@ Address: buneker.online
   v1.21.3 ready? ❌
 
 
-* [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to/versions?g=1.21.1)
-  _(server, client)_ | Позволяет вам видеть, печатают ли игроки, в графическом интерфейсе, в режиме ожидания, с крутыми
-  игровыми визуальными эффектами. \
-  _Download: https://cdn.modrinth.com/data/AtB5mHky/versions/ACDTHBLF/watut-fabric-1.21.0-1.1.3.jar_ \
-  v1.21.3 ready? ❌
-
-
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves/versions?g=1.21.1)
   _(server, client)_ | Добавляет аккуратный эффект маленьких частиц к блокам листьев. \
   _Download: https://cdn.modrinth.com/data/WhbRG4iK/versions/ue2maFEp/fallingleaves-1.16.2%2B1.21.jar_ \
@@ -600,7 +593,7 @@ Address: buneker.online
 
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Мод для Minecraft, который улучшает экран статистики и делает его более полезным.  \
-  _Download: https://cdn.modrinth.com/data/n6PXGAoM/versions/NBha24fH/betterstats-3.13.4%2Bfabric-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/n6PXGAoM/versions/G4F1t82i/betterstats-3.13.6%2Bfabric-1.21.jar_ \
   v1.21.3 ready? ✅
 
 ### Улучшения игрового опыта
@@ -659,13 +652,6 @@ Address: buneker.online
 * [Better Third Person](https://modrinth.com/mod/better-third-person/versions?g=1.21.1)
   _(server, client)_ | Улучшает вид камеры от третьего лица. \
   _Download: https://cdn.modrinth.com/data/G1s2WpNo/versions/QZTn8cTa/BetterThirdPerson-Fabric-1.21-1.9.0.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Sit!](https://modrinth.com/mod/sit!/versions?g=1.21.1)
-  _(server)_ | Добавляет сидение в Minecraft! Сделайте любой блок стулом с бесконечными возможностями настройки
-  ограничений для рук и сидячих блоков. \
-  _Download: https://cdn.modrinth.com/data/EsYqsGV4/versions/UvuuwmsA/sit%21-1.2.1%2B1.21-1.21.1.jar_ \
   v1.21.3 ready? ✅
 
 
