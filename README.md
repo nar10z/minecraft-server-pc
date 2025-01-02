@@ -16,6 +16,17 @@ Address: buneker.online
 
 ----
 
+## Старт
+
+Для того чтобы начать игру, следует:
+
+1) скачать любой launcher minecraft.
+2) В нем следует загрузить версию Fabric 1.21.1 (характеристики указаны выше).
+3) Далее следует загрузить 1 мод в папку с
+   модами - [AutoModpack](https://modrinth.com/mod/automodpack/versions?g=1.21.1&c=release&l=fabric).
+4) Заходим в Сетевую игру
+5) Указываем адрес сервера и подключаемся.
+
 ## Список модов
 
 Количество модов весьма большое, а самое главное - не понятно что за мод и что он делает.
@@ -211,7 +222,7 @@ Address: buneker.online
 
 * [Spell Engine](https://modrinth.com/mod/spell-engine/versions?g=1.21.1&c=release)
   _(server, client)_ | Data driven magic library. \
-  _Download: https://cdn.modrinth.com/data/XvoWJaA2/versions/MXaJZMaR/spell_engine-1.2.0%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/XvoWJaA2/versions/MqeLC70e/spell_engine-1.2.1%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -685,25 +696,25 @@ Address: buneker.online
 
 * [Wizards (RPG Series)](https://modrinth.com/mod/wizards/versions?g=1.21.1)
   _(server, client)_ | 🧙🏻‍♂️ Уничтожьте своих врагов с помощью тайной, огненной и ледяной магии. \
-  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/te2JaYhE/wizards-2.2.0%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/uctGcXgU/wizards-2.2.1%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Paladins & Priests (RPG Series)](https://modrinth.com/mod/paladins-and-priests/versions?g=1.21.1)
   _(server, client)_ | ✨ Защищайте и лечите своих друзей как Паладин или Жрец. \
-  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/PSqVzCby/paladins-2.2.0%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/Q3pZbWuH/paladins-2.2.1%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Archers (RPG Series)](https://modrinth.com/mod/archers/versions?g=1.21.1)
   _(server, client)_ | 🏹 Натягивай, отпускай, побеждай — овладей искусством стрельбы из лука! \
-  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/cbrHHvPE/archers-2.2.0%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/wIhid4JA/archers-2.2.1%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Rogues & Warriors (RPG Series)](https://modrinth.com/mod/rogues-and-warriors/versions?g=1.21.1)
   _(server, client)_ | 🗡️ Бесшумные клинки, мощные удары — доминируйте с помощью боевых навыков! \
-  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/FZfhysO9/rogues-2.2.0%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/PDKKbj77/rogues-2.2.1%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -715,7 +726,7 @@ Address: buneker.online
 
 * [Spell Power Attributes](https://modrinth.com/mod/spell-power/versions?g=1.21.1)
   _(server, client)_ | 🔮 Spell Power entity attributes with related status effects and enchantments. \
-  _Download: https://cdn.modrinth.com/data/8ooWzSQP/versions/UW9B5nqp/spell_power-1.0.7%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/8ooWzSQP/versions/YADbGUnX/spell_power-1.0.8%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -840,6 +851,19 @@ Address: buneker.online
 
 
 * [Elytra Slot](https://modrinth.com/mod/elytra-slot/versions?g=1.21.1&l=fabric)
-  _(client)_ | Добавляет дополнительную поддержку надкрыльям, чтобы вы могли летать и носить нагрудную броню одновременно. \
+  _(client)_ | Добавляет дополнительную поддержку надкрыльям, чтобы вы могли летать и носить нагрудную броню
+  одновременно. \
   _Download: https://cdn.modrinth.com/data/mSQF1NpT/versions/jxx2pc4h/elytraslot-fabric-9.0.1%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
+
+
+* [Merchant Markers](https://modrinth.com/mod/merchant-markers/versions?g=1.21&l=fabric)
+  _(client)_ | Добавляет специальные маркеры над жителями деревни в зависимости от их профессий! \
+  _Download: https://cdn.modrinth.com/data/AGhiJWsU/versions/iy2Pc70S/MerchantMarkers-1.21-fabric-1.3.5.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Simple Armor Hud](https://modrinth.com/mod/simple-armor-hud/versions?g=1.21.1)
+  _(client)_ | Небольшой мод, который показывает над полоской еды броню, которую вы сейчас носите. \
+  _Download: https://cdn.modrinth.com/data/tJflAtvJ/versions/DNqmRdIA/simple-armor-hud-1.21-1.5.0.jar_ \
+  v1.21.3 ready? ✅
