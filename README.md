@@ -442,7 +442,7 @@ Address: buneker.online
 
 * [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos/versions?g=1.21.1)
   _(server)_ | ⛲️ Деревенские структуры, в которых размещаются небольшие библиотеки заклинаний. \
-  _Download: https://cdn.modrinth.com/data/XIpMGI6r/versions/A1Joo1yc/gazebo-2.0.0%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/XIpMGI6r/versions/unZ0xAnj/gazebo-2.0.2%2B1.21.1.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -696,31 +696,31 @@ Address: buneker.online
 
 * [Wizards (RPG Series)](https://modrinth.com/mod/wizards/versions?g=1.21.1)
   _(server, client)_ | 🧙🏻‍♂️ Уничтожьте своих врагов с помощью тайной, огненной и ледяной магии. \
-  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/uctGcXgU/wizards-2.2.1%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/wTF56VKW/wizards-2.2.2%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Paladins & Priests (RPG Series)](https://modrinth.com/mod/paladins-and-priests/versions?g=1.21.1)
   _(server, client)_ | ✨ Защищайте и лечите своих друзей как Паладин или Жрец. \
-  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/Q3pZbWuH/paladins-2.2.1%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/il5x5GZn/paladins-2.2.2%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Archers (RPG Series)](https://modrinth.com/mod/archers/versions?g=1.21.1)
   _(server, client)_ | 🏹 Натягивай, отпускай, побеждай — овладей искусством стрельбы из лука! \
-  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/wIhid4JA/archers-2.2.1%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/vLd3rP5S/archers-2.2.2%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Rogues & Warriors (RPG Series)](https://modrinth.com/mod/rogues-and-warriors/versions?g=1.21.1)
   _(server, client)_ | 🗡️ Бесшумные клинки, мощные удары — доминируйте с помощью боевых навыков! \
-  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/PDKKbj77/rogues-2.2.1%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/XNajW1op/rogues-2.2.2%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Jewelry (RPG Series)](https://modrinth.com/mod/jewelry/versions?g=1.21.1)
   _(server, client)_ | 💍 Найдите в глубинах драгоценные камни и создайте из них мощные украшения! \
-  _Download: https://cdn.modrinth.com/data/sNJAIjUm/versions/IFiwtSBh/jewelry-2.0.2%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/sNJAIjUm/versions/JDQ3soyZ/jewelry-2.0.3%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
