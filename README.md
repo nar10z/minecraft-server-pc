@@ -382,7 +382,7 @@ Address: buneker.online
   v1.21.3 ready? ✅
 
 
-* [Structory: Towers](https://modrinth.com/datapack/structory-towers/versions?g=1.21.1&l=fabric))
+* [Structory: Towers](https://modrinth.com/datapack/structory-towers/versions?g=1.21.1&l=fabric)
   _(server)_ | Добавляет в мир захватывающие башни в стиле биомов, как отдельную опцию или дополнение к Structory. \
   _Download: https://cdn.modrinth.com/data/j3FONRYr/versions/oOvJd4xF/Structory_Towers_1.21.x_v1.0.10.jar_ \
   v1.21.3 ready? ✅
