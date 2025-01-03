@@ -398,13 +398,20 @@ Address: buneker.online
 * [MVS - Moog's Voyager Structures](https://modrinth.com/mod/moogs-voyager-structures/versions?g=1.21.1&l=fabric)
   _(server)_ | Добавляет 87+ ванильных структур в ваш мир, чтобы оживить его, используя ванильные блоки.
   Включает подземелья и врагов для сражений! \
-  _Download: https://cdn.modrinth.com/data/OQAgZMH1/versions/iZ13qkr6/mvs-4.2.6-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/OQAgZMH1/versions/JRbl0gSO/mvs-4.2.7-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
 * [MES - Moog's End Structures](https://modrinth.com/mod/mes-moogs-end-structures/versions?g=1.21.1&l=fabric)
   _(server)_ | Множество конструкций в ванильном стиле, чтобы наполнить конечное измерение жизнью! \
   _Download: https://cdn.modrinth.com/data/r4PuRGfV/versions/KaiO0WDo/mes-1.3.5-1.21.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [MSS - Moog's Soaring Structures](https://modrinth.com/mod/mss-moogs-soaring-structures/versions?g=1.21.1&l=fabric)
+  _(server)_ | Множество потрясающих парящих островов в ванильном стиле, полных добычи, монстров и подземелий, которые
+  вы можете исследовать! \
+  _Download: https://cdn.modrinth.com/data/RJCLIx7k/versions/6m2Qi2ND/mss-1.2.6-1.21.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -429,7 +436,8 @@ Address: buneker.online
 
 * [Hopo Better Underwater Ruins](https://modrinth.com/datapack/hopo-better-underwater-ruins/versions?g=1.21.1)
   _(server)_ | Исследуйте новые морские руины в вашем мире. \
-  _Download: https://cdn.modrinth.com/data/BuWCQzqf/versions/6216ulJB/HopoBetterUnderwaterRuins-%5B1.21.1-1.21.3%5D-1.2.1.jar_
+  _Download: https://cdn.modrinth.com/data/BuWCQzqf/versions/6216ulJB/HopoBetterUnderwaterRuins-%5B1.21.1-1.21.3%5D-1.2.1.jar_ \
+  v1.21.3 ready? ✅
 
 
 * [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos/versions?g=1.21.1)
@@ -859,3 +867,21 @@ Address: buneker.online
   _(client)_ | Небольшой мод, который показывает над полоской еды броню, которую вы сейчас носите. \
   _Download: https://cdn.modrinth.com/data/tJflAtvJ/versions/DNqmRdIA/simple-armor-hud-1.21-1.5.0.jar_ \
   v1.21.3 ready? ✅
+
+
+* [Advancement Plaques](https://modrinth.com/mod/advancement-plaques/versions?g=1.21.1&l=fabric)
+  _(client)_ | Замените эти скучные всплывающие окна с предложениями на что-то более яркое. \
+  _Download: https://cdn.modrinth.com/data/9NM0dXub/versions/g0SNjiMq/AdvancementPlaques-1.21.1-fabric-1.6.8.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Not Enough Animations](https://modrinth.com/mod/not-enough-animations/versions?g=1.21.1&l=fabric)
+  _(client)_ | Перенос анимации от первого лица в вид от третьего лица \
+  _Download: https://cdn.modrinth.com/data/MPCX6s5C/versions/66URmjAA/notenoughanimations-fabric-1.9.0-mc1.21.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Traveler's Titles](https://modrinth.com/mod/travelers-titles/versions?g=1.21.1&l=fabric)
+  _(client)_ | Эпические титры в стиле RPG при входе в биомы и измерения! \
+  _Download: https://cdn.modrinth.com/data/JtifUr64/versions/CyPFY6w5/TravelersTitles-1.21.1-Fabric-5.1.1.jar_ \
+  v1.21.3 ready? ❌
