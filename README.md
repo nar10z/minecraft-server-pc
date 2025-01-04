@@ -32,8 +32,8 @@ Address: buneker.online
 Количество модов весьма большое, а самое главное - не понятно что за мод и что он делает.
 По этому список будет поделен на несколько пунктов:
 
-* Моды для оптимизации
 * Моды API/Интеграции
+* Моды для оптимизации
 * Генерация мира
 * Улучшения визуала
 * Улучшения игрового опыта
@@ -261,6 +261,19 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/5faXoLqX/versions/vmyclz8X/Iceberg-1.21-fabric-1.2.7.jar_ \
   v1.21.3 ready? ✅
 
+
+* [[EMF] Entity Model Features](https://modrinth.com/mod/iceberg/versions?g=1.21.1&l=fabric)
+  _(client)_ | EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge. \
+  _Download: https://cdn.modrinth.com/data/4I1XuqiY/versions/9t01xL7K/entity_model_features_fabric_1.21.1-2.4.1.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures/versions?g=1.21.1&l=fabric)
+  _(client)_ | Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for
+  Fabric \
+  _Download: https://cdn.modrinth.com/data/BVzZfTc1/versions/zzyLrMkD/entity_texture_features_fabric_1.21.1-6.2.9.jar_ \
+  v1.21.3 ready? ✅
+
 ### Моды для оптимизации
 
 * [AutoModpack](https://modrinth.com/mod/automodpack/versions?g=1.21.1&c=release&l=fabric)
@@ -339,6 +352,12 @@ Address: buneker.online
 * [Krypton](https://modrinth.com/mod/krypton/versions?g=1.21.1)
   _(server, client)_ | Мод для оптимизации сетевого стека Minecraft. \
   _Download: https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Clumps](https://modrinth.com/mod/clumps/versions?g=1.21.1&l=fabric)
+  _(server)_ | Объединяет сферы опыта вместе, чтобы уменьшить задержку  \
+  _Download: https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar_ \
   v1.21.3 ready? ✅
 
 ### Генерация мира
@@ -511,8 +530,7 @@ Address: buneker.online
 
 
 * [Snow! Real Magic! ⛄](https://modrinth.com/mod/snow-real-magic/versions?g=1.21.1)
-  _(server, client)_ | Не магический мод. · Гравитация и накопление снега · Заснеженные блоки · Изменение поведения
-  снега. \
+  _(server, client)_ | Не магический мод. Гравитация и накопление снега. Заснеженные блоки. Изменение поведения снега. \
   _Download: https://cdn.modrinth.com/data/iJNje1E8/versions/FFW2DVUh/SnowRealMagic-1.21.1-Fabric-11.0.13.jar_ \
   v1.21.3 ready? ❌
 
@@ -523,6 +541,12 @@ Address: buneker.online
   v1.21.3 ready? ❌
 
 
+* [Dark Paintings](https://modrinth.com/mod/dark-paintings/versions?g=1.21.1)
+  _(client)_ | Добавляет новые картины в Minecraft.  \
+  _Download: https://cdn.modrinth.com/data/lFGQ4Hnk/versions/1wfayMST/darkpaintings-fabric-1.21.1-21.1.2.jar_ \
+  v1.21.3 ready? ❌
+
+
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves/versions?g=1.21.1)
   _(server, client)_ | Добавляет аккуратный эффект маленьких частиц к блокам листьев. \
   _Download: https://cdn.modrinth.com/data/WhbRG4iK/versions/ue2maFEp/fallingleaves-1.16.2%2B1.21.jar_ \
@@ -530,7 +554,7 @@ Address: buneker.online
 
 
 * [Fabric Tailor](https://modrinth.com/mod/fabrictailor/versions?g=1.21.1)
-  _(server, client)_ | Мод для сервера/одиночной игры, меняющий облик и плащ для Fabric. \
+  _(server)_ | Мод для сервера/одиночной игры, меняющий облик и плащ для Fabric. \
   _Download: https://cdn.modrinth.com/data/g8w1NapE/versions/UDZdkBPN/fabrictailor-2.5.0.jar_ \
   v1.21.3 ready? ❓
 
@@ -542,8 +566,7 @@ Address: buneker.online
 
 
 * [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered/versions?g=1.21.1)
-  _(client)_ | Мод для Minecraft, обеспечивающий реалистичное затухание звука, реверберацию и поглощение сквозь
-  блоки.  \
+  _(client)_ | Мод для Minecraft, обеспечивающий реалистичное затухание звука, реверберацию и поглощение сквозь блоки. \
   _Download: https://cdn.modrinth.com/data/qyVF9oeo/versions/cjZ56xjl/sound-physics-remastered-fabric-1.21.1-1.4.7.jar_ \
   v1.21.3 ready? ✅
 
@@ -553,19 +576,6 @@ Address: buneker.online
   поверхность воды.  \
   _Download: https://cdn.modrinth.com/data/gPCdW0Wr/versions/WyRIJsP5/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar_ \
   v1.21.3 ready? ❌
-
-
-* [Dark Paintings](https://modrinth.com/mod/dark-paintings/versions?g=1.21.1)
-  _(client)_ | Добавляет новые картины в Minecraft.  \
-  _Download: https://cdn.modrinth.com/data/lFGQ4Hnk/versions/1wfayMST/darkpaintings-fabric-1.21.1-21.1.2.jar_ \
-  v1.21.3 ready? ❌
-
-
-* [Improved Weather](https://modrinth.com/datapack/improved-weather/versions?g=1.21.1&l=fabric)
-  _(server)_ | Этот пакет данных улучшает погоду и добавляет новые погодные условия, такие как песчаные бури и
-  другие!  \
-  _Download: https://cdn.modrinth.com/data/2GqOYTAx/versions/vFNV4SF9/improved-weather-v1.9.jar_ \
-  v1.21.3 ready? ✅
 
 
 * [Dyed](https://modrinth.com/mod/dyed/versions?g=1.21.1&l=fabric)
@@ -591,12 +601,6 @@ Address: buneker.online
   _(client)_ | Better Tab улучшает список игроков, делая его прокручиваемым и добавляя числовой пинг. \
   _Download: https://cdn.modrinth.com/data/OSMu7zRz/versions/kczOAU9q/better-tab-1.0.0%2B1.20.5-1.21.x.jar_ \
   v1.21.3 ready? ✅
-
-
-* [Better Animations Collection](https://modrinth.com/mod/better-animations-collection/versions?g=1.21.1)
-  _(client)_ | Изменение игровых моделей для улучшения анимации и создания более тонких эффектов.  \
-  _Download: https://cdn.modrinth.com/data/OoOVj3J3/versions/ZVumUwIy/BetterAnimationsCollection-v21.1.0-1.21.1-Fabric.jar_ \
-  v1.21.3 ready? ❌
 
 
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats/versions?g=1.21.1&l=fabric)
@@ -819,12 +823,6 @@ Address: buneker.online
   v1.21.3 ready? ✅
 
 
-* [Clumps](https://modrinth.com/mod/clumps/versions?g=1.21.1&l=fabric)
-  _(server)_ | Объединяет сферы опыта вместе, чтобы уменьшить задержку  \
-  _Download: https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar_ \
-  v1.21.3 ready? ✅
-
-
 * [Bosses of Mass Destruction](https://modrinth.com/mod/bosses-of-mass-destruction/versions?g=1.21.1)
   _(server, client)_ | Добавляет битвы с боссами в майнкрафт. \
   _Download: https://cdn.modrinth.com/data/du3UfiLL/versions/aSCbUUL1/BOMD-1.10.2-1.21.1.jar_ \
@@ -879,9 +877,3 @@ Address: buneker.online
   _(client)_ | Перенос анимации от первого лица в вид от третьего лица \
   _Download: https://cdn.modrinth.com/data/MPCX6s5C/versions/66URmjAA/notenoughanimations-fabric-1.9.0-mc1.21.jar_ \
   v1.21.3 ready? ✅
-
-
-* [Traveler's Titles](https://modrinth.com/mod/travelers-titles/versions?g=1.21.1&l=fabric)
-  _(client)_ | Эпические титры в стиле RPG при входе в биомы и измерения! \
-  _Download: https://cdn.modrinth.com/data/JtifUr64/versions/CyPFY6w5/TravelersTitles-1.21.1-Fabric-5.1.1.jar_ \
-  v1.21.3 ready? ❌
