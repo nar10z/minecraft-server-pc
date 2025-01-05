@@ -373,6 +373,12 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar_ \
   v1.21.3 ready? ✅
 
+
+* [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast/versions?g=1.21.1&l=fabric)
+  _(client)_ | Ускорение рендеринга в режиме немедленного отображения в Minecraft  \
+  _Download: https://cdn.modrinth.com/data/5ZwdcRci/versions/MDHa3xsw/ImmediatelyFast-Fabric-1.3.3%2B1.21.1.jar_ \
+  v1.21.3 ready? ✅
+
 ### Генерация мира
 
 * [Tectonic](https://modrinth.com/datapack/tectonic/versions?g=1.21.1&l=fabric)
