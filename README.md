@@ -274,6 +274,19 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/BVzZfTc1/versions/zzyLrMkD/entity_texture_features_fabric_1.21.1-6.2.9.jar_ \
   v1.21.3 ready? ✅
 
+
+* [Continuity](https://modrinth.com/mod/continuity/versions?g=1.21.1&l=fabric)
+  _(client)_ | A Fabric mod that allows for efficient connected textures \
+  _Download: https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Polytone](https://modrinth.com/mod/polytone/versions?g=1.21.1&l=fabric)
+  _(client)_ | Customize Map Color, Block Colors, Colormaps and Block Sounds, Biome Colors, Dye Colors. Supports
+  Optifine format. For Resource Packs \
+  _Download: https://cdn.modrinth.com/data/3qAYkBMB/versions/Jv3arjax/polytone-1.21-3.2.1-fabric.jar_ \
+  v1.21.3 ready? ✅
+
 ### Моды для оптимизации
 
 * [AutoModpack](https://modrinth.com/mod/automodpack/versions?g=1.21.1&c=release&l=fabric)
