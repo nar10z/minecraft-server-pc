@@ -297,14 +297,14 @@ Address: buneker.online
 
 
 * [Lithium](https://modrinth.com/mod/lithium/versions?g=1.21.1&c=release&l=fabric)
-  _(server, client)_ | Улучшает ряд систем (физику игры, искусственный интеллект мобов, тиканье блоков и т. д.), не
+  _(server)_ | Улучшает ряд систем (физику игры, искусственный интеллект мобов, тиканье блоков и т. д.), не
   меняя при этом никакую ванильную механику. \
   _Download: https://cdn.modrinth.com/data/gvQqBUqZ/versions/9xfJi96s/lithium-fabric-0.14.3-snapshot%2Bmc1.21.1-build.92.jar_ \
   v1.21.3 ready? ✅
 
 
 * [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric/versions?g=1.21.1)
-  _(server, client)_ | Мод, разработанный для повышения производительности генерации кусков, ввода-вывода и загрузки.
+  _(server)_ | Мод, разработанный для повышения производительности генерации кусков, ввода-вывода и загрузки.
   Это достигается за счет использования преимуществ нескольких ядер ЦП параллельно. Для лучшей производительности
   рекомендуется использовать C2ME с [Lithium](https://modrinth.com/mod/lithium)
   и [ScalableLux](https://modrinth.com/mod/scalablelux). \
@@ -567,7 +567,7 @@ Address: buneker.online
 
 
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves/versions?g=1.21.1)
-  _(server, client)_ | Добавляет аккуратный эффект маленьких частиц к блокам листьев. \
+  _(client)_ | Добавляет аккуратный эффект маленьких частиц к блокам листьев. \
   _Download: https://cdn.modrinth.com/data/WhbRG4iK/versions/ue2maFEp/fallingleaves-1.16.2%2B1.21.jar_ \
   v1.21.3 ready? ✅
 
