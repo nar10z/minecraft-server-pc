@@ -10,6 +10,7 @@
     "!/config/andThisConfigToo.json",
     "!/mods/collective-*.jar",
     "!/mods/TerraBlender-fabric-*.jar",
+    "!/mods/lithostitched-fabric-*.jar",
     "!/mods/automodpack-*.jar",
     "!/mods/lithium-fabric-*.jar",
     "!/mods/c2me-fabric-*.jar",
