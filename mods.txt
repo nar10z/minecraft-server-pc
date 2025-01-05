@@ -17,7 +17,7 @@ https://cdn.modrinth.com/data/BgNRHReB/versions/TxWM7AW8/bclib-21.0.13.jar
 https://cdn.modrinth.com/data/RiN8rDVs/versions/mPmeykPR/worldweaver-21.0.13.jar
 https://cdn.modrinth.com/data/8O0Adq7w/versions/NWOZ9B7R/wunderlib-21.0.8.jar
 https://cdn.modrinth.com/data/pduQXSbl/versions/HxFeGlOi/azurelibarmor-fabric-1.21.1-2.3.13.jar
-https://cdn.modrinth.com/data/XvoWJaA2/versions/MqeLC70e/spell_engine-1.2.1%2B1.21.1.jar
+https://cdn.modrinth.com/data/XvoWJaA2/versions/3roy4iSP/spell_engine-1.3.1%2B1.21.1.jar
 https://cdn.modrinth.com/data/gedNE4y2/versions/c6DQKGQp/player-animation-lib-fabric-2.0.0-alpha1%2B1.21.jar
 https://cdn.modrinth.com/data/rd9rKuJT/versions/Gv74xveQ/disconnect-packet-fix-fabric-2.0.0.jar
 https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar
@@ -131,10 +131,10 @@ https://cdn.modrinth.com/data/EJqeyaVz/versions/VhJPLdxH/nohostilesaroundcampfir
 https://cdn.modrinth.com/data/i2kUe4lq/versions/aZRfhVxm/fallingtrees-fabric-0.12.7-1.21.jar
 https://cdn.modrinth.com/data/nfn13YXA/versions/F3B8X7NS/RoughlyEnoughItems-16.0.788-fabric.jar
 https://cdn.modrinth.com/data/POQ2i9zu/versions/eUncYB8D/friendsandfoes-fabric-mc1.21.1-3.0.5.jar
-https://cdn.modrinth.com/data/NkGaQMDA/versions/wTF56VKW/wizards-2.2.2%2B1.21.1.jar
-https://cdn.modrinth.com/data/FxXkHaLe/versions/il5x5GZn/paladins-2.2.2%2B1.21.1.jar
-https://cdn.modrinth.com/data/QgooUXAJ/versions/vLd3rP5S/archers-2.2.2%2B1.21.1.jar
-https://cdn.modrinth.com/data/3MKqoGuP/versions/XNajW1op/rogues-2.2.2%2B1.21.1.jar
+https://cdn.modrinth.com/data/NkGaQMDA/versions/5QH1cPp0/wizards-2.2.3%2B1.21.1.jar
+https://cdn.modrinth.com/data/FxXkHaLe/versions/67zdI1FI/paladins-2.2.3%2B1.21.1.jar
+https://cdn.modrinth.com/data/QgooUXAJ/versions/nKxFKDDV/archers-2.2.3%2B1.21.1.jar
+https://cdn.modrinth.com/data/3MKqoGuP/versions/fjtMwyVO/rogues-2.2.3%2B1.21.1.jar
 https://cdn.modrinth.com/data/sNJAIjUm/versions/JDQ3soyZ/jewelry-2.0.3%2B1.21.1.jar
 https://cdn.modrinth.com/data/8ooWzSQP/versions/YADbGUnX/spell_power-1.0.8%2B1.21.1.jar
 https://cdn.modrinth.com/data/lP9Yrr1E/versions/ajtep1px/runes-1.0.3%2B1.21.1.jar

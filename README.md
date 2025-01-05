@@ -108,19 +108,19 @@ Address: buneker.online
 
 
 * [CoroUtil](https://modrinth.com/mod/coroutil/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Мод общей библиотеки для модов Corosus. \
+  _(server)_ | Мод общей библиотеки для модов Corosus. \
   _Download: https://cdn.modrinth.com/data/rLLJ1OZM/versions/7e7u4VpL/coroutil-fabric-1.21.0-1.3.7.jar_ \
   v1.21.3 ready? ❌
 
 
 * [YungsApi](https://modrinth.com/mod/yungs-api/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Мод библиотеки для модов YUNG. \
+  _(server)_ | Мод библиотеки для модов YUNG. \
   _Download: https://cdn.modrinth.com/data/Ua7DFN59/versions/DeaIlZ9A/YungsApi-1.21.1-Fabric-5.1.3.jar_ \
   v1.21.3 ready? ❌
 
 
 * [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Config Lib немного упрощает работу с файлами конфигурации. \
+  _(client)_ | Config Lib немного упрощает работу с файлами конфигурации. \
   _Download: https://cdn.modrinth.com/data/LN9BxssP/versions/euSlaAtA/supermartijn642configlib-1.1.8-fabric-mc1.21.jar_ \
   v1.21.3 ready? ✅
 
@@ -171,7 +171,7 @@ Address: buneker.online
 
 * [Spell Engine](https://modrinth.com/mod/spell-engine/versions?g=1.21.1&c=release)
   _(server, client)_ | Data driven magic library. \
-  _Download: https://cdn.modrinth.com/data/XvoWJaA2/versions/MqeLC70e/spell_engine-1.2.1%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/XvoWJaA2/versions/3roy4iSP/spell_engine-1.3.1%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -729,25 +729,25 @@ Address: buneker.online
 
 * [Wizards (RPG Series)](https://modrinth.com/mod/wizards/versions?g=1.21.1)
   _(server, client)_ | 🧙🏻‍♂️ Уничтожьте своих врагов с помощью тайной, огненной и ледяной магии. \
-  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/wTF56VKW/wizards-2.2.2%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/5QH1cPp0/wizards-2.2.3%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Paladins & Priests (RPG Series)](https://modrinth.com/mod/paladins-and-priests/versions?g=1.21.1)
   _(server, client)_ | ✨ Защищайте и лечите своих друзей как Паладин или Жрец. \
-  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/il5x5GZn/paladins-2.2.2%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/67zdI1FI/paladins-2.2.3%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Archers (RPG Series)](https://modrinth.com/mod/archers/versions?g=1.21.1)
   _(server, client)_ | 🏹 Натягивай, отпускай, побеждай — овладей искусством стрельбы из лука! \
-  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/vLd3rP5S/archers-2.2.2%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/nKxFKDDV/archers-2.2.3%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Rogues & Warriors (RPG Series)](https://modrinth.com/mod/rogues-and-warriors/versions?g=1.21.1)
   _(server, client)_ | 🗡️ Бесшумные клинки, мощные удары — доминируйте с помощью боевых навыков! \
-  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/XNajW1op/rogues-2.2.2%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/fjtMwyVO/rogues-2.2.3%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
