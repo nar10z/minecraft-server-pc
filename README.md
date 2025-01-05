@@ -27,6 +27,35 @@ Address: buneker.online
 4) Заходим в Сетевую игру
 5) Указываем адрес сервера и подключаемся.
 
+
+## Список датапаков
+
+### Генерация мира
+
+* [Katters Structures - Ambient](https://modrinth.com/datapack/katters-structures-only-ambient/versions?g=1.21.1&l=fabric)
+  _(server)_ | Подпроект «Katters Structures» только с окружающими структурами. \
+  _Download: https://cdn.modrinth.com/data/ys9iIcGC/versions/g3fy5fyv/Katters%20Structures%20Only%20Ambient.zip_ \
+  v1.21.3 ready? ✅
+
+
+* [Katters Structures - Dungeon](https://modrinth.com/datapack/katters-structures-only-dungeon/versions?g=1.21.1&l=fabric)
+  _(server)_ | Подпроект "Katters Structures" только с подземельями. \
+  _Download: https://cdn.modrinth.com/data/VAVLEOBG/versions/znqXlHf1/Katters%20Structures%20Only%20Dungeon.zip_ \
+  v1.21.3 ready? ✅
+
+
+* [qraftyfied: Industrial Structures](https://modrinth.com/datapack/qraftyfied-industrial-structures/versions?g=1.21.1&l=fabric)
+  _(server)_ | Добавляйте индустриальные/стимпанковские структуры в свой мир Minecraft с помощью забавных техник
+  редстоуна! 🏭 Идеальный аддон для qraftyfied. \
+  _Download: https://cdn.modrinth.com/data/TrPmg4ei/versions/CFqYIKTD/qraftyfied-INDUSTRIAL.zip_ \
+  v1.21.4 ready? ✅
+
+
+* [qrafty's Japanese Villages](https://modrinth.com/datapack/qraftys-japanese-villages/versions?g=1.21.1&l=fabric)
+  _(server)_ | Пакет добавляет красивые уютные деревни и строения в биом цветущей сакуры! 🌸 \
+  _Download: https://cdn.modrinth.com/data/6vWz8dzn/versions/EC3WnUBl/qrafty%27s-japanese-villages.zip_ \
+  v1.21.4 ready? ✅
+
 ## Список модов
 
 Количество модов весьма большое, а самое главное - не понятно что за мод и что он делает.
@@ -49,8 +78,8 @@ Address: buneker.online
 
 
 * [TerraBlender](https://modrinth.com/mod/terrablender/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Библиотечный мод для добавления биомов простым и совместимым способом! \
-  _Download: https://cdn.modrinth.com/data/kkmrDlKT/versions/yHeHBZPt/TerraBlender-fabric-1.21.1-4.1.0.5.jar_ \
+  _(server)_ | Библиотечный мод для добавления биомов простым и совместимым способом! \
+  _Download: https://cdn.modrinth.com/data/kkmrDlKT/versions/XNtIBXyQ/TerraBlender-fabric-1.21.1-4.1.0.8.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -109,7 +138,7 @@ Address: buneker.online
 
 
 * [Lithostitched](https://modrinth.com/mod/lithostitched/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Мод библиотеки с новыми возможностями настройки и улучшениями совместимости для генерации мира. \
+  _(server)_ | Мод библиотеки с новыми возможностями настройки и улучшениями совместимости для генерации мира. \
   _Download: https://cdn.modrinth.com/data/XaDC71GB/versions/xs1ltS1d/lithostitched-fabric-1.21.1-1.3.9.jar_ \
   v1.21.3 ready? ✅
 
@@ -167,7 +196,7 @@ Address: buneker.online
 
 * [libIPN](https://modrinth.com/mod/libipn/versions?g=1.21.1&l=fabric)
   _(client)_ | Inventory Profiles Next GUI/Config library \
-  _Download: https://cdn.modrinth.com/data/onSQdWhM/versions/pomcIFya/libIPN-fabric-1.21-6.2.0.jar_ \
+  _Download: https://cdn.modrinth.com/data/onSQdWhM/versions/acVocwK7/libIPN-fabric-1.21-6.2.1.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -515,31 +544,6 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/LOpKHB2A/versions/JPtziByp/waystones-fabric-1.21.1-21.1.5.jar_ \
   v1.21.3 ready? ✅
 
-
-* [Katters Structures - Ambient](https://modrinth.com/datapack/katters-structures-only-ambient/versions?g=1.21.1&l=fabric)
-  _(server)_ | Подпроект «Katters Structures» только с окружающими структурами. \
-  _Download: https://cdn.modrinth.com/data/ys9iIcGC/versions/ealrpT96/katters-structures-only-ambient-2.1.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [Katters Structures - Dungeon](https://modrinth.com/datapack/katters-structures-only-dungeon/versions?g=1.21.1&l=fabric)
-  _(server)_ | Подпроект "Katters Structures" только с подземельями. \
-  _Download: https://cdn.modrinth.com/data/VAVLEOBG/versions/HZEor0Ie/katters-structures-only-dungeon-2.1.jar_ \
-  v1.21.3 ready? ✅
-
-
-* [qraftyfied: Industrial Structures](https://modrinth.com/datapack/qraftyfied-industrial-structures/versions?g=1.21.1&l=fabric)
-  _(server)_ | Добавляйте индустриальные/стимпанковские структуры в свой мир Minecraft с помощью забавных техник
-  редстоуна! 🏭 Идеальный аддон для qraftyfied. \
-  _Download: https://cdn.modrinth.com/data/TrPmg4ei/versions/D8l5R39e/qraftyfied-industrial-structures-1.0.0.jar_ \
-  v1.21.4 ready? ✅
-
-
-* [qrafty's Japanese Villages](https://modrinth.com/datapack/qraftys-japanese-villages/versions?g=1.21.1&l=fabric)
-  _(server)_ | Пакет добавляет красивые уютные деревни и строения в биом цветущей сакуры! 🌸 \
-  _Download: https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar_ \
-  v1.21.4 ready? ✅
-
 ### Улучшения визуала
 
 * [More Mob Variants](https://modrinth.com/mod/more-mob-variants/versions?g=1.21.1)
@@ -625,6 +629,12 @@ Address: buneker.online
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Мод для Minecraft, который улучшает экран статистики и делает его более полезным.  \
   _Download: https://cdn.modrinth.com/data/n6PXGAoM/versions/G4F1t82i/betterstats-3.13.6%2Bfabric-1.21.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Mod Menu](https://modrinth.com/mod/modmenu/versions?g=1.21.1)
+  _(client)_ | Добавляет меню модов для просмотра списка установленных вами модов. \
+  _Download: https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar_ \
   v1.21.3 ready? ✅
 
 ### Улучшения игрового опыта
@@ -787,12 +797,6 @@ Address: buneker.online
   _(server, client)_ | Дополнение «Ювелирные изделия» для модов More RPG Classs. \
   _Download: https://cdn.modrinth.com/data/rULzJh3O/versions/mbsVgvVV/additional_rpg_jewelry-2.0.4-1.21.1.jar_ \
   v1.21.3 ready? ❌
-
-
-* [Mod Menu](https://modrinth.com/mod/modmenu/versions?g=1.21.1)
-  _(server, client)_ | Добавляет меню модов для просмотра списка установленных вами модов. \
-  _Download: https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar_ \
-  v1.21.3 ready? ✅
 
 
 * [Head in the Clouds](https://modrinth.com/mod/head-in-the-clouds/versions?g=1.21.1)

@@ -44,6 +44,7 @@ services:
       SNOOPER_ENABLED: false
       SYNC_CHUNK_WRITES: false
       MODS_FILE: /data/extras/mods.txt
+      DATAPACKS_FILE: /data/extras/datapacks.txt
       ICON: /data/extras/bnk-icon.png
       USE_AIKAR_FLAGS: true
       VIEW_DISTANCE: 16
@@ -53,6 +54,7 @@ services:
       - ${MINECRAFT_ITZG_DATA_LOCATION}:/data
       - ${MINECRAFT_SERVER_ICON}:/data/extras/bnk-icon.png:ro
       - ${MINECRAFT_SERVER_MODS}:/data/extras/mods.txt:ro
+      - ${MINECRAFT_SERVER_DATAPACKS}:/data/extras/datapacks.txt:ro
     ports:
       - ${MINECRAFT_ITZG_PORT}:25565
       #- ${MINECRAFT_ITZG_QUERY_PORT}:25566

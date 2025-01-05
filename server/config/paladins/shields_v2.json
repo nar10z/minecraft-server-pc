@@ -78,6 +78,21 @@
           "operation": "ADD_VALUE"
         }
       ]
+    },
+    "paladins:aether_kite_shield": {
+      "durability": 1344,
+      "attributes": [
+        {
+          "id": "minecraft:generic.armor_toughness",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "id": "generic.max_health",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
     }
   }
 }

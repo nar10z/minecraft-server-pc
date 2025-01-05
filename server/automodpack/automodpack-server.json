@@ -5,10 +5,13 @@
   "generateModpackOnStart": true,
   "syncedFiles": [
     "/mods/*.jar",
-    "/emotes/*.json",
-    "/emotes/*.png",
+    "!/emotes/*.json",
+    "!/emotes/*.png",
     "!/config/andThisConfigToo.json",
     "!/mods/collective-*.jar",
+    "!/mods/TerraBlender-fabric-*.jar",
+    "!/mods/lithostitched-fabric-*.jar",
+    "!/mods/automodpack-*.jar",
     "!/mods/lithium-fabric-*.jar",
     "!/mods/c2me-fabric-*.jar",
     "!/mods/disconnect-packet-fix-fabric-*.jar",
@@ -33,6 +36,7 @@
     "!/mods/villagesandpillages-fabric-*.jar",
     "!/mods/UndergroundBunkers-*.jar",
     "!/mods/katters-structures-only-dungeon-*.jar",
+    "!/mods/katters-structures-only-ambient-*.jar",
     "!/mods/qraftyfied-industrial-structures-*.jar",
     "!/mods/qraftys-japanese-villages-*.jar",
     "!/mods/fabrictailor-*.jar",
@@ -46,7 +50,9 @@
   "allowEditsInFiles": [
     "/options.txt",
     "/config/*",
-    "!/config/excludeThisFile"
+    "!/config/xaeroworldmap.txt",
+    "!/config/xaerominimap.txt",
+    "!/config/xaerominimap_entities.json"
   ],
   "autoExcludeUnnecessaryFiles": true,
   "requireAutoModpackOnClient": true,

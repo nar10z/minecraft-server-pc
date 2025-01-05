@@ -1,5 +1,8 @@
+# ======================================================
+# ===== Api/Integrations ===============================
+# ======================================================
 https://cdn.modrinth.com/data/P7dR8mSH/versions/biIRIp2X/fabric-api-0.114.0%2B1.21.1.jar
-https://cdn.modrinth.com/data/kkmrDlKT/versions/yHeHBZPt/TerraBlender-fabric-1.21.1-4.1.0.5.jar
+https://cdn.modrinth.com/data/kkmrDlKT/versions/XNtIBXyQ/TerraBlender-fabric-1.21.1-4.1.0.8.jar
 https://cdn.modrinth.com/data/e0M1UDsY/versions/nwmUrrgY/collective-1.21.1-7.87.jar
 https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar
 https://cdn.modrinth.com/data/ufdDoWPd/versions/Vby6TNe4/Kiwi-1.21-Fabric-15.1.2.jar
@@ -18,7 +21,7 @@ https://cdn.modrinth.com/data/XvoWJaA2/versions/MqeLC70e/spell_engine-1.2.1%2B1.
 https://cdn.modrinth.com/data/gedNE4y2/versions/c6DQKGQp/player-animation-lib-fabric-2.0.0-alpha1%2B1.21.jar
 https://cdn.modrinth.com/data/rd9rKuJT/versions/Gv74xveQ/disconnect-packet-fix-fabric-2.0.0.jar
 https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar
-https://cdn.modrinth.com/data/onSQdWhM/versions/pomcIFya/libIPN-fabric-1.21-6.2.0.jar
+https://cdn.modrinth.com/data/onSQdWhM/versions/acVocwK7/libIPN-fabric-1.21-6.2.1.jar
 https://cdn.modrinth.com/data/QAGBst4M/versions/E8hn913v/PuzzlesLib-v21.1.24-1.21.1-Fabric.jar
 https://cdn.modrinth.com/data/uy4Cnpcm/versions/CxWX436w/bookshelf-fabric-1.21.1-21.1.13.jar
 https://cdn.modrinth.com/data/aaRl8GiW/versions/aGDJh61g/prickle-fabric-1.21.1-21.1.6.jar
@@ -39,8 +42,12 @@ https://cdn.modrinth.com/data/4I1XuqiY/versions/9t01xL7K/entity_model_features_f
 https://cdn.modrinth.com/data/BVzZfTc1/versions/zzyLrMkD/entity_texture_features_fabric_1.21.1-6.2.9.jar
 https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar
 https://cdn.modrinth.com/data/3qAYkBMB/versions/Jv3arjax/polytone-1.21-3.2.1-fabric.jar
+https://cdn.modrinth.com/data/Bh37bMuy/versions/4sugrjBi/reeses-sodium-options-fabric-1.8.0%2Bmc1.21.3.jar
 
 
+# ======================================================
+# ===== Optimizations ==================================
+# ======================================================
 https://cdn.modrinth.com/data/k68glP2e/versions/QACJXcNH/automodpack-mc1.21.1-fabric-4.0.0-beta22.jar
 https://cdn.modrinth.com/data/gvQqBUqZ/versions/9xfJi96s/lithium-fabric-0.14.3-snapshot%2Bmc1.21.1-build.92.jar
 https://cdn.modrinth.com/data/VSNURh3q/versions/H5YtgA2t/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.310.jar
@@ -57,6 +64,9 @@ https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19
 https://cdn.modrinth.com/data/5ZwdcRci/versions/MDHa3xsw/ImmediatelyFast-Fabric-1.3.3%2B1.21.1.jar
 
 
+# ======================================================
+# ===== World generation ===============================
+# ======================================================
 https://cdn.modrinth.com/data/lWDHr9jE/versions/YcKxW5iv/tectonic-fabric-1.21-2.4.1.jar
 https://cdn.modrinth.com/data/8oi3bsk5/versions/lQreFvOm/Terralith_1.21.x_v2.5.7.jar
 https://cdn.modrinth.com/data/bQ5TJA1E/versions/RAipMfbS/Continents_1.21.x_v1.1.7.jar
@@ -78,12 +88,15 @@ https://cdn.modrinth.com/data/klXONLDA/versions/J0nqkQaR/villagesandpillages-fab
 https://cdn.modrinth.com/data/jSV9w0J5/versions/U4vRnaGx/IllagerInvasion-v21.1.2-1.21.1-Fabric.jar
 https://cdn.modrinth.com/data/MRK4tULJ/versions/IOxi2RHE/UndergroundBunkers-1.0.4-1.21.x-fabric.jar
 https://cdn.modrinth.com/data/LOpKHB2A/versions/JPtziByp/waystones-fabric-1.21.1-21.1.5.jar
-https://cdn.modrinth.com/data/ys9iIcGC/versions/ealrpT96/katters-structures-only-ambient-2.1.jar
-https://cdn.modrinth.com/data/VAVLEOBG/versions/HZEor0Ie/katters-structures-only-dungeon-2.1.jar
-https://cdn.modrinth.com/data/TrPmg4ei/versions/D8l5R39e/qraftyfied-industrial-structures-1.0.0.jar
-https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar
+#https://cdn.modrinth.com/data/ys9iIcGC/versions/ealrpT96/katters-structures-only-ambient-2.1.jar
+#https://cdn.modrinth.com/data/VAVLEOBG/versions/HZEor0Ie/katters-structures-only-dungeon-2.1.jar
+#https://cdn.modrinth.com/data/TrPmg4ei/versions/D8l5R39e/qraftyfied-industrial-structures-1.0.0.jar
+#https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar
 
 
+# ======================================================
+# ===== Improved vision ================================
+# ======================================================
 https://cdn.modrinth.com/data/JiEhJ3WG/versions/7mUHEpdy/moremobvariants-fabric%2B1.21-1.3.1.1.jar
 https://cdn.modrinth.com/data/iJNje1E8/versions/FFW2DVUh/SnowRealMagic-1.21.1-Fabric-11.0.13.jar
 https://cdn.modrinth.com/data/okE6QVAY/versions/hkv1lS2B/mcw-paintings-1.0.5-1.21.1fabric.jar
@@ -98,8 +111,12 @@ https://cdn.modrinth.com/data/lPSTdJm7/versions/aXDXmNGu/expcounter-1.21.1-2-fab
 https://cdn.modrinth.com/data/8shC1gFX/versions/phATjGhF/BetterF3-11.0.3-Fabric-1.21.1.jar
 https://cdn.modrinth.com/data/OSMu7zRz/versions/kczOAU9q/better-tab-1.0.0%2B1.20.5-1.21.x.jar
 https://cdn.modrinth.com/data/n6PXGAoM/versions/G4F1t82i/betterstats-3.13.6%2Bfabric-1.21.jar
+https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar
 
 
+# ======================================================
+# ===== Improved experience ============================
+# ======================================================
 https://cdn.modrinth.com/data/1bokaNcj/versions/Hyd81hdy/Xaeros_Minimap_24.7.1_Fabric_1.21.jar
 https://cdn.modrinth.com/data/NcUtCpym/versions/2QD9OoBs/XaerosWorldMap_1.39.2_Fabric_1.21.jar
 https://cdn.modrinth.com/data/EdBSdqge/versions/GByywrgz/spyglass_astronomy-1.0.13-mc1.21%2B.jar
@@ -126,7 +143,6 @@ https://cdn.modrinth.com/data/8hqOZzxM/versions/lSCmoi6D/berserker-class-mod-2.2
 https://cdn.modrinth.com/data/K3yHebFL/versions/vQLAHQmT/forcemaster-class-mod-2.2.0-1.21.jar
 https://cdn.modrinth.com/data/4eW1c7Gj/versions/BJYQmGMg/witcher-class-mod-2.2.0-1.21.jar
 https://cdn.modrinth.com/data/rULzJh3O/versions/mbsVgvVV/additional_rpg_jewelry-2.0.4-1.21.1.jar
-https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar
 https://cdn.modrinth.com/data/Agw7MFEL/versions/ohoLhgFo/head_in_the_clouds-1.1.0.jar
 https://cdn.modrinth.com/data/yn9u3ypm/versions/Fg64B87Y/graves-3.4.4%2B1.21.jar
 https://cdn.modrinth.com/data/Cw8IlnGM/versions/Yy52wehM/serversleep-datapack2.jar
@@ -138,7 +154,7 @@ https://cdn.modrinth.com/data/SlhyZVWA/versions/Aab1HZtO/droppablevillagertrades
 https://cdn.modrinth.com/data/du3UfiLL/versions/aSCbUUL1/BOMD-1.10.2-1.21.1.jar
 https://cdn.modrinth.com/data/E5YVNsbH/versions/ezouZBrl/followersteleporttoo-1.21.1-2.6.jar
 https://cdn.modrinth.com/data/h7udW9Id/versions/J0wwrVFU/bountyhunt-1.3.1-1.21.1.jar
-https://cdn.modrinth.com/data/pZ2wrerK/versions/ltLJGtLk/emotecraft-for-MC1.21.1-2.4.4-fabric.jar
+#https://cdn.modrinth.com/data/pZ2wrerK/versions/ltLJGtLk/emotecraft-for-MC1.21.1-2.4.4-fabric.jar
 https://cdn.modrinth.com/data/mSQF1NpT/versions/jxx2pc4h/elytraslot-fabric-9.0.1%2B1.21.1.jar
 https://cdn.modrinth.com/data/AGhiJWsU/versions/iy2Pc70S/MerchantMarkers-1.21-fabric-1.3.5.jar
 https://cdn.modrinth.com/data/tJflAtvJ/versions/DNqmRdIA/simple-armor-hud-1.21-1.5.0.jar

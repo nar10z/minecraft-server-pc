@@ -15,6 +15,7 @@
   "// Available parameters: {player}. Example: https://skins.samolego.org/{player}.png": "",
   "custom_skin_server": "",
   "texture_allowed_domains": [
+    "ely.by",
     "crafatar.com",
     "imgur.com",
     "discord.com",
@@ -23,7 +24,6 @@
     "duckduckgo.com",
     "githubusercontent.com",
     "namemc.com",
-    "ely.by",
     "nocookie.net",
     "minecraftskins.com",
     "minecraft.net",
