@@ -87,10 +87,10 @@ https://cdn.modrinth.com/data/klXONLDA/versions/J0nqkQaR/villagesandpillages-fab
 https://cdn.modrinth.com/data/jSV9w0J5/versions/U4vRnaGx/IllagerInvasion-v21.1.2-1.21.1-Fabric.jar
 https://cdn.modrinth.com/data/MRK4tULJ/versions/IOxi2RHE/UndergroundBunkers-1.0.4-1.21.x-fabric.jar
 https://cdn.modrinth.com/data/LOpKHB2A/versions/JPtziByp/waystones-fabric-1.21.1-21.1.5.jar
-https://cdn.modrinth.com/data/ys9iIcGC/versions/ealrpT96/katters-structures-only-ambient-2.1.jar
-https://cdn.modrinth.com/data/VAVLEOBG/versions/HZEor0Ie/katters-structures-only-dungeon-2.1.jar
-https://cdn.modrinth.com/data/TrPmg4ei/versions/D8l5R39e/qraftyfied-industrial-structures-1.0.0.jar
-https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar
+#https://cdn.modrinth.com/data/ys9iIcGC/versions/ealrpT96/katters-structures-only-ambient-2.1.jar
+#https://cdn.modrinth.com/data/VAVLEOBG/versions/HZEor0Ie/katters-structures-only-dungeon-2.1.jar
+#https://cdn.modrinth.com/data/TrPmg4ei/versions/D8l5R39e/qraftyfied-industrial-structures-1.0.0.jar
+#https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar
 
 
 # ======================================================
