@@ -90,7 +90,7 @@ Address: buneker.online
 
 
 * [Cloth Config API](https://modrinth.com/mod/cloth-config/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Библиотека конфигурации для модов Minecraft. \
+  _(server)_ | Библиотека конфигурации для модов Minecraft. \
   _Download: https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar_ \
   v1.21.3 ready? ✅
 
