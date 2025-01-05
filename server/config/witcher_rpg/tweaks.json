@@ -1,0 +1,10 @@
+{
+  "sign_vulnerability_damage_increase": 1.15,
+  "steel_swords_bleed_chance": 0.2,
+  "steel_swords_bleed_duration_seconds": 5,
+  "silver_swords_silver_damage_attack_damage_multiplier": 0.2,
+  "wintersblade_freeze_chance": 0.1,
+  "ultimatum_stagger_chance": 0.08,
+  "ultimatum_stagger_duration_seconds": 3,
+  "aerondight_charged_sword_max_amplifier": 10
+}

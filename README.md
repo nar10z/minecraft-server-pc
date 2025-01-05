@@ -27,6 +27,11 @@ Address: buneker.online
 4) Заходим в Сетевую игру
 5) Указываем адрес сервера и подключаемся.
 
+
+## Список датапаков
+
+### Генерация мира
+
 ## Список модов
 
 Количество модов весьма большое, а самое главное - не понятно что за мод и что он делает.
@@ -50,7 +55,7 @@ Address: buneker.online
 
 * [TerraBlender](https://modrinth.com/mod/terrablender/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Библиотечный мод для добавления биомов простым и совместимым способом! \
-  _Download: https://cdn.modrinth.com/data/kkmrDlKT/versions/yHeHBZPt/TerraBlender-fabric-1.21.1-4.1.0.5.jar_ \
+  _Download: https://cdn.modrinth.com/data/kkmrDlKT/versions/XNtIBXyQ/TerraBlender-fabric-1.21.1-4.1.0.8.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -627,6 +632,12 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/n6PXGAoM/versions/G4F1t82i/betterstats-3.13.6%2Bfabric-1.21.jar_ \
   v1.21.3 ready? ✅
 
+
+* [Mod Menu](https://modrinth.com/mod/modmenu/versions?g=1.21.1)
+  _(client)_ | Добавляет меню модов для просмотра списка установленных вами модов. \
+  _Download: https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar_ \
+  v1.21.3 ready? ✅
+
 ### Улучшения игрового опыта
 
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions?g=1.21.1)
@@ -787,12 +798,6 @@ Address: buneker.online
   _(server, client)_ | Дополнение «Ювелирные изделия» для модов More RPG Classs. \
   _Download: https://cdn.modrinth.com/data/rULzJh3O/versions/mbsVgvVV/additional_rpg_jewelry-2.0.4-1.21.1.jar_ \
   v1.21.3 ready? ❌
-
-
-* [Mod Menu](https://modrinth.com/mod/modmenu/versions?g=1.21.1)
-  _(server, client)_ | Добавляет меню модов для просмотра списка установленных вами модов. \
-  _Download: https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar_ \
-  v1.21.3 ready? ✅
 
 
 * [Head in the Clouds](https://modrinth.com/mod/head-in-the-clouds/versions?g=1.21.1)

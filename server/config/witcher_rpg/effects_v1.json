@@ -13,5 +13,6 @@
   "sign_school_intensity_increase_per_stack": 0.1,
   "axii_puppet_attack_damage_increase_per_stack": 0.1,
   "battle_trance_speed_increase": 0.3,
-  "quen_active_shield_quen_intensity_amplifier_multiplier": 0.25
+  "quen_active_shield_quen_intensity_amplifier_multiplier": 0.25,
+  "stagger_attack_armor_speed_decrease": -0.8
 }
