@@ -78,7 +78,7 @@ Address: buneker.online
 
 
 * [TerraBlender](https://modrinth.com/mod/terrablender/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Библиотечный мод для добавления биомов простым и совместимым способом! \
+  _(server)_ | Библиотечный мод для добавления биомов простым и совместимым способом! \
   _Download: https://cdn.modrinth.com/data/kkmrDlKT/versions/XNtIBXyQ/TerraBlender-fabric-1.21.1-4.1.0.8.jar_ \
   v1.21.3 ready? ✅
 
@@ -196,7 +196,7 @@ Address: buneker.online
 
 * [libIPN](https://modrinth.com/mod/libipn/versions?g=1.21.1&l=fabric)
   _(client)_ | Inventory Profiles Next GUI/Config library \
-  _Download: https://cdn.modrinth.com/data/onSQdWhM/versions/pomcIFya/libIPN-fabric-1.21-6.2.0.jar_ \
+  _Download: https://cdn.modrinth.com/data/onSQdWhM/versions/acVocwK7/libIPN-fabric-1.21-6.2.1.jar_ \
   v1.21.3 ready? ✅
 
 
