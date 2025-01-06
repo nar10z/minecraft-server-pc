@@ -408,6 +408,12 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/5ZwdcRci/versions/MDHa3xsw/ImmediatelyFast-Fabric-1.3.3%2B1.21.1.jar_ \
   v1.21.3 ready? ✅
 
+
+* [Faster Random](https://modrinth.com/mod/faster-random/versions?g=1.21.1&l=fabric)
+  _(client, server)_ | Значительно более быстрая реализация генератора случайных чисел для Minecraft, практически не уступающая оригинальной версии.  \
+  _Download: https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar_ \
+  v1.21.3 ready? ✅
+
 ### Генерация мира
 
 * [Tectonic](https://modrinth.com/datapack/tectonic/versions?g=1.21.1&l=fabric)
