@@ -208,7 +208,7 @@ Address: buneker.online
 
 * [Bookshelf](https://modrinth.com/mod/bookshelf-lib/versions?g=1.21.1&l=fabric)
   _(server, client)_ | An open source library for other mods! \
-  _Download: https://cdn.modrinth.com/data/uy4Cnpcm/versions/CxWX436w/bookshelf-fabric-1.21.1-21.1.13.jar_ \
+  _Download: https://cdn.modrinth.com/data/uy4Cnpcm/versions/2nSJyNJ8/bookshelf-fabric-1.21.1-21.1.30.jar_ \
   v1.21.3 ready? ❌
 
 

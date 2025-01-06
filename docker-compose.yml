@@ -50,6 +50,7 @@ services:
       VIEW_DISTANCE: 16
       SEED: ${MINECRAFT_SERVER_SEED}
       ALLOW_FLIGHT: true
+      ENABLE_QUERY: true
     volumes:
       - ${MINECRAFT_ITZG_DATA_LOCATION}:/data
       - ${MINECRAFT_SERVER_ICON}:/data/extras/bnk-icon.png:ro
