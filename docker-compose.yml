@@ -23,6 +23,7 @@ services:
         ipv4_address: 172.23.0.2
     environment:
       TZ: ${TZ}
+      LOG_TIMESTAMP: true
       EULA: "TRUE"
       TYPE: FABRIC
       INIT_MEMORY: ${MINECRAFT_SERVER_INIT_MEMORY}
@@ -44,6 +45,7 @@ services:
       SNOOPER_ENABLED: false
       SYNC_CHUNK_WRITES: false
       MODS_FILE: /data/extras/mods.txt
+      #MODS_FILE_CLIENT: /data/extras/mods_client.txt
       DATAPACKS_FILE: /data/extras/datapacks.txt
       ICON: /data/extras/bnk-icon.png
       USE_AIKAR_FLAGS: true
@@ -55,6 +57,7 @@ services:
       - ${MINECRAFT_ITZG_DATA_LOCATION}:/data
       - ${MINECRAFT_SERVER_ICON}:/data/extras/bnk-icon.png:ro
       - ${MINECRAFT_SERVER_MODS}:/data/extras/mods.txt:ro
+      #- ${MINECRAFT_SERVER_MODS_CLIENT}:/data/extras/mods_client.txt:ro
       - ${MINECRAFT_SERVER_DATAPACKS}:/data/extras/datapacks.txt:ro
     ports:
       - ${MINECRAFT_ITZG_PORT}:25565
