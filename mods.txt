@@ -29,7 +29,7 @@ https://cdn.modrinth.com/data/AqaIIO6D/versions/W1XTV2ev/ranged_weapon_api-2.0.4
 https://cdn.modrinth.com/data/cl223EMc/versions/8iGbvXwk/cristellib-fabric-1.2.8.jar
 https://cdn.modrinth.com/data/K01OU20C/versions/tVPYyTPV/cardinal-components-api-6.1.1.jar
 https://cdn.modrinth.com/data/8BmcQJ2H/versions/o8mnPMLv/geckolib-fabric-1.21.1-4.7.jar
-https://cdn.modrinth.com/data/Wkc3lwHo/versions/ANT2YlnJ/more_rpg_classes-2.0.14-1.21.1.jar
+https://cdn.modrinth.com/data/Wkc3lwHo/versions/cI7kQt3O/more_rpg_classes-2.0.15-1.21.1.jar
 https://cdn.modrinth.com/data/ohNO6lps/versions/h0NwCvfv/ForgeConfigAPIPort-v21.1.2-1.21.1-Fabric.jar
 https://cdn.modrinth.com/data/QYZ7JTtD/versions/3UuOWBWs/slot-customization-api-2.1.0.jar
 https://cdn.modrinth.com/data/MBAkmtvl/versions/8y2siHEz/balm-fabric-1.21.1-21.0.20.jar

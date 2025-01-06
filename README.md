@@ -244,7 +244,7 @@ Address: buneker.online
 
 * [More RPG Library](https://modrinth.com/mod/more-rpg-classes/versions?g=1.21.1)
   _(server, client)_ | Library for the More RPG Classes & More RPG Content Series. \
-  _Download: https://cdn.modrinth.com/data/Wkc3lwHo/versions/ANT2YlnJ/more_rpg_classes-2.0.14-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/Wkc3lwHo/versions/cI7kQt3O/more_rpg_classes-2.0.15-1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
