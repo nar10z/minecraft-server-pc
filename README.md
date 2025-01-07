@@ -313,7 +313,7 @@ Address: buneker.online
 * [Polytone](https://modrinth.com/mod/polytone/versions?g=1.21.1&l=fabric)
   _(client)_ | Customize Map Color, Block Colors, Colormaps and Block Sounds, Biome Colors, Dye Colors. Supports
   Optifine format. For Resource Packs \
-  _Download: https://cdn.modrinth.com/data/3qAYkBMB/versions/Jv3arjax/polytone-1.21-3.2.1-fabric.jar_ \
+  _Download: https://cdn.modrinth.com/data/3qAYkBMB/versions/Gpi2ab76/polytone-1.21-3.2.3-fabric.jar_ \
   v1.21.3 ready? ✅
 
 ### Моды для оптимизации
