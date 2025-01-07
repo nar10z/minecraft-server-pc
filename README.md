@@ -906,3 +906,9 @@ Address: buneker.online
   _(client)_ | Перенос анимации от первого лица в вид от третьего лица \
   _Download: https://cdn.modrinth.com/data/MPCX6s5C/versions/66URmjAA/notenoughanimations-fabric-1.9.0-mc1.21.jar_ \
   v1.21.3 ready? ✅
+
+
+* [Ping Wheel](https://modrinth.com/mod/ping-wheel/versions?g=1.21.1&l=fabric)
+  _(client)_ | Позволяет игрокам временно отмечать локации и объекты. \
+  _Download: https://cdn.modrinth.com/data/QQXAdCzh/versions/KLrOxQNa/Ping-Wheel-1.10.0-fabric-1.21.1.jar_ \
+  v1.21.3 ready? ✅
