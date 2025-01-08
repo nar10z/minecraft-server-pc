@@ -735,7 +735,7 @@ Address: buneker.online
 
 * [Wizards (RPG Series)](https://modrinth.com/mod/wizards/versions?g=1.21.1)
   _(server, client)_ | 🧙🏻‍♂️ Уничтожьте своих врагов с помощью тайной, огненной и ледяной магии. \
-  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/5QH1cPp0/wizards-2.2.3%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/NW2aHW53/wizards-2.2.4%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -747,7 +747,7 @@ Address: buneker.online
 
 * [Archers (RPG Series)](https://modrinth.com/mod/archers/versions?g=1.21.1)
   _(server, client)_ | 🏹 Натягивай, отпускай, побеждай — овладей искусством стрельбы из лука! \
-  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/nKxFKDDV/archers-2.2.3%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/wKbcN5An/archers-2.2.4%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -759,7 +759,7 @@ Address: buneker.online
 
 * [Jewelry (RPG Series)](https://modrinth.com/mod/jewelry/versions?g=1.21.1)
   _(server, client)_ | 💍 Найдите в глубинах драгоценные камни и создайте из них мощные украшения! \
-  _Download: https://cdn.modrinth.com/data/sNJAIjUm/versions/JDQ3soyZ/jewelry-2.0.3%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/sNJAIjUm/versions/Lf1sGoms/jewelry-2.0.4%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 

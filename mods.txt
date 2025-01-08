@@ -132,11 +132,11 @@ https://cdn.modrinth.com/data/EJqeyaVz/versions/VhJPLdxH/nohostilesaroundcampfir
 https://cdn.modrinth.com/data/i2kUe4lq/versions/aZRfhVxm/fallingtrees-fabric-0.12.7-1.21.jar
 https://cdn.modrinth.com/data/nfn13YXA/versions/F3B8X7NS/RoughlyEnoughItems-16.0.788-fabric.jar
 https://cdn.modrinth.com/data/POQ2i9zu/versions/eUncYB8D/friendsandfoes-fabric-mc1.21.1-3.0.5.jar
-https://cdn.modrinth.com/data/NkGaQMDA/versions/5QH1cPp0/wizards-2.2.3%2B1.21.1.jar
+https://cdn.modrinth.com/data/NkGaQMDA/versions/NW2aHW53/wizards-2.2.4%2B1.21.1.jar
 https://cdn.modrinth.com/data/FxXkHaLe/versions/67zdI1FI/paladins-2.2.3%2B1.21.1.jar
-https://cdn.modrinth.com/data/QgooUXAJ/versions/nKxFKDDV/archers-2.2.3%2B1.21.1.jar
+https://cdn.modrinth.com/data/QgooUXAJ/versions/wKbcN5An/archers-2.2.4%2B1.21.1.jar
 https://cdn.modrinth.com/data/3MKqoGuP/versions/fjtMwyVO/rogues-2.2.3%2B1.21.1.jar
-https://cdn.modrinth.com/data/sNJAIjUm/versions/JDQ3soyZ/jewelry-2.0.3%2B1.21.1.jar
+https://cdn.modrinth.com/data/sNJAIjUm/versions/Lf1sGoms/jewelry-2.0.4%2B1.21.1.jar
 https://cdn.modrinth.com/data/8ooWzSQP/versions/YADbGUnX/spell_power-1.0.8%2B1.21.1.jar
 https://cdn.modrinth.com/data/lP9Yrr1E/versions/ajtep1px/runes-1.0.3%2B1.21.1.jar
 https://cdn.modrinth.com/data/PeZ4h4i0/versions/OTI03WXn/elemental_wizards_rpg-2.2.1-1.21.1.jar
