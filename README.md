@@ -316,6 +316,12 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/3qAYkBMB/versions/Gpi2ab76/polytone-1.21-3.2.3-fabric.jar_ \
   v1.21.3 ready? ✅
 
+
+* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options/versions?g=1.21.1&l=fabric)
+  _(client)_ | Alternative Options Menu for Sodium \
+  _Download: https://cdn.modrinth.com/data/Bh37bMuy/versions/4sugrjBi/reeses-sodium-options-fabric-1.8.0%2Bmc1.21.3.jar_ \
+  v1.21.3 ready? ✅
+
 ### Моды для оптимизации
 
 * [AutoModpack](https://modrinth.com/mod/automodpack/versions?g=1.21.1&c=release&l=fabric)
@@ -812,7 +818,7 @@ Address: buneker.online
 
 
 * [Universal Graves](https://modrinth.com/mod/universal-graves/versions?g=1.21.1)
-  _(client)_ | Настраиваемый мод могилы для Fabric! \
+  _(server)_ | Настраиваемый мод могилы для Fabric! \
   _Download: https://cdn.modrinth.com/data/yn9u3ypm/versions/Fg64B87Y/graves-3.4.4%2B1.21.jar_ \
   v1.21.3 ready? ✅
 
@@ -885,7 +891,7 @@ Address: buneker.online
 
 
 * [Merchant Markers](https://modrinth.com/mod/merchant-markers/versions?g=1.21&l=fabric)
-  _(client)_ | Добавляет специальные маркеры над жителями деревни в зависимости от их профессий! \
+  _(server, client)_ | Добавляет специальные маркеры над жителями деревни в зависимости от их профессий! \
   _Download: https://cdn.modrinth.com/data/AGhiJWsU/versions/iy2Pc70S/MerchantMarkers-1.21-fabric-1.3.5.jar_ \
   v1.21.3 ready? ✅
 
@@ -909,6 +915,6 @@ Address: buneker.online
 
 
 * [Ping Wheel](https://modrinth.com/mod/ping-wheel/versions?g=1.21.1&l=fabric)
-  _(client)_ | Позволяет игрокам временно отмечать локации и объекты. \
+  _(server, client)_ | Позволяет игрокам временно отмечать локации и объекты. \
   _Download: https://cdn.modrinth.com/data/QQXAdCzh/versions/KLrOxQNa/Ping-Wheel-1.10.0-fabric-1.21.1.jar_ \
   v1.21.3 ready? ✅
