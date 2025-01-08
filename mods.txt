@@ -80,6 +80,7 @@ https://cdn.modrinth.com/data/LOpKHB2A/versions/JPtziByp/waystones-fabric-1.21.1
 #https://cdn.modrinth.com/data/VAVLEOBG/versions/HZEor0Ie/katters-structures-only-dungeon-2.1.jar
 #https://cdn.modrinth.com/data/TrPmg4ei/versions/D8l5R39e/qraftyfied-industrial-structures-1.0.0.jar
 #https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar
+https://cdn.modrinth.com/data/sc9lpPiU/versions/lPLhRp6s/fabric_medieval_buildings-1.0.2-1.21.jar
 
 
 # ======================================================
@@ -90,7 +91,7 @@ https://cdn.modrinth.com/data/iJNje1E8/versions/FFW2DVUh/SnowRealMagic-1.21.1-Fa
 https://cdn.modrinth.com/data/okE6QVAY/versions/hkv1lS2B/mcw-paintings-1.0.5-1.21.1fabric.jar
 https://cdn.modrinth.com/data/g8w1NapE/versions/UDZdkBPN/fabrictailor-2.5.0.jar
 https://cdn.modrinth.com/data/5sy6g3kz/versions/i1Jmi8co/bettercombat-fabric-2.0.4%2B1.21.1.jar
-
+https://cdn.modrinth.com/data/GoCfVRkX/versions/vz64cT5u/celestria-fabric-2.0.0.jar
 
 # ======================================================
 # ===== Improved experience ============================

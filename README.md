@@ -27,7 +27,6 @@ Address: buneker.online
 4) Заходим в Сетевую игру
 5) Указываем адрес сервера и подключаемся.
 
-
 ## Список датапаков
 
 ### Генерация мира
@@ -416,7 +415,8 @@ Address: buneker.online
 
 
 * [Faster Random](https://modrinth.com/mod/faster-random/versions?g=1.21.1&l=fabric)
-  _(client, server)_ | Значительно более быстрая реализация генератора случайных чисел для Minecraft, практически не уступающая оригинальной версии.  \
+  _(client, server)_ | Значительно более быстрая реализация генератора случайных чисел для Minecraft, практически не
+  уступающая оригинальной версии.  \
   _Download: https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar_ \
   v1.21.3 ready? ✅
 
@@ -556,6 +556,12 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/LOpKHB2A/versions/JPtziByp/waystones-fabric-1.21.1-21.1.5.jar_ \
   v1.21.3 ready? ✅
 
+
+* [Medieval Buildings](https://modrinth.com/mod/medieval-buildings/versions?g=1.21.1&l=fabric)
+  _(server)_ | Добавьте в мир захватывающие средневековые здания со скрытыми врагами и сокровищами! \
+  _Download: https://cdn.modrinth.com/data/sc9lpPiU/versions/lPLhRp6s/fabric_medieval_buildings-1.0.2-1.21.jar_ \
+  v1.21.3 ready? ✅
+
 ### Улучшения визуала
 
 * [More Mob Variants](https://modrinth.com/mod/more-mob-variants/versions?g=1.21.1)
@@ -654,6 +660,20 @@ Address: buneker.online
   _(client)_ | Добавляет меню модов для просмотра списка установленных вами модов. \
   _Download: https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar_ \
   v1.21.3 ready? ✅
+
+
+* [Celestria](https://modrinth.com/mod/celestria/versions?g=1.21.1&l=fabric)
+  _(server, client)_ | Добавляет небесные явления, такие как падающие звезды и периодическую бессонницу из-за
+  полнолуния. \
+  _Download: https://cdn.modrinth.com/data/GoCfVRkX/versions/vz64cT5u/celestria-fabric-2.0.0.jar_ \
+  v1.21.3 ready? ❌
+
+
+* [Scribble](https://modrinth.com/mod/scribble/versions?g=1.21.1&l=fabric)
+  _(client)_ | Профессионально редактируйте свои книги с помощью богатых возможностей форматирования, страничных утилит
+  и многого другого! И все это на стороне клиента! \
+  _Download: https://cdn.modrinth.com/data/yXAvIk0x/versions/InexVr2D/Scribble-1.4.4%2Bmc1.21-fabric.jar_ \
+  v1.21.3 ready? ❌
 
 ### Улучшения игрового опыта
 
