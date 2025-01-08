@@ -625,6 +625,12 @@ Address: buneker.online
   v1.21.3 ready? ✅
 
 
+* [Durability Tooltip](https://modrinth.com/mod/durability-tooltip/versions?g=1.21.1)
+  _(client)_ | Подсказка о прочности показывает прочность предмета! \
+  _Download: https://cdn.modrinth.com/data/smUP7V3r/versions/rVchC4HC/durabilitytooltip-1.1.5-fabric-mc1.21.jar_ \
+  v1.21.3 ready? ✅
+
+
 * [BetterF3](https://modrinth.com/mod/betterf3/versions?g=1.21.1&l=fabric)
   _(client)_ | Это мод, который заменяет оригинальный отладочный HUD Minecraft на настраиваемый и более понятный для
   человека HUD. \
@@ -639,7 +645,7 @@ Address: buneker.online
 
 
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Мод для Minecraft, который улучшает экран статистики и делает его более полезным.  \
+  _(client)_ | Мод для Minecraft, который улучшает экран статистики и делает его более полезным.  \
   _Download: https://cdn.modrinth.com/data/n6PXGAoM/versions/G4F1t82i/betterstats-3.13.6%2Bfabric-1.21.jar_ \
   v1.21.3 ready? ✅
 
@@ -689,12 +695,6 @@ Address: buneker.online
   v1.21.3 ready? ❌
 
 
-* [Durability Tooltip](https://modrinth.com/mod/durability-tooltip/versions?g=1.21.1)
-  _(client)_ | Подсказка о прочности показывает прочность предмета! \
-  _Download: https://cdn.modrinth.com/data/smUP7V3r/versions/rVchC4HC/durabilitytooltip-1.1.5-fabric-mc1.21.jar_ \
-  v1.21.3 ready? ✅
-
-
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack/versions?g=1.21.1)
   _(server, client)_ | Уникальные и обновляемые рюкзаки с возможностью настройки, интеграцией Curios API/Trinkets и
   многим другим! \
@@ -703,7 +703,7 @@ Address: buneker.online
 
 
 * [Better Third Person](https://modrinth.com/mod/better-third-person/versions?g=1.21.1)
-  _(server, client)_ | Улучшает вид камеры от третьего лица. \
+  _(client)_ | Улучшает вид камеры от третьего лица. \
   _Download: https://cdn.modrinth.com/data/G1s2WpNo/versions/QZTn8cTa/BetterThirdPerson-Fabric-1.21-1.9.0.jar_ \
   v1.21.3 ready? ✅
 
@@ -736,6 +736,19 @@ Address: buneker.online
   _(server, client)_ | Добавляет переоцененных и забытых мобов из голосования мобов, расширяя их изначальные концепции и
   добавляя новые ванильные особенности. \
   _Download: https://cdn.modrinth.com/data/POQ2i9zu/versions/eUncYB8D/friendsandfoes-fabric-mc1.21.1-3.0.5.jar_ \
+  v1.21.3 ready? ❌
+
+
+* [Friends&Foes - Flowery Mooblooms (Fabric/Quilt)](https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric/versions?g=1.21.1&l=fabric)
+  _(server, client)_ | Добавляет переоцененных и забытых мобов из голосования мобов, расширяя их изначальные концепции и
+  добавляя новые ванильные особенности. \
+  _Download: https://cdn.modrinth.com/data/ECOSu6pa/versions/WCqqJrJB/flowerymooblooms-fabric-mc1.21-2.0.2.jar_ \
+  v1.21.3 ready? ❌
+
+
+* [Friends&Foes - Beekeeper Hut (Fabric/Quilt)](https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric/versions?g=1.21.1&l=fabric)
+  _(server)_ | Дополнение к моду Friends&Foes, добавляющее конструкцию хижины пчеловода. \
+  _Download: https://cdn.modrinth.com/data/Kt4RVKEd/versions/qwhZ4Roz/beekeeperhut-fabric-mc1.21-2.0.1.jar_ \
   v1.21.3 ready? ❌
 
 

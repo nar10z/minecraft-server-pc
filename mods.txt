@@ -99,11 +99,12 @@ https://cdn.modrinth.com/data/ulloLmqG/versions/y4yMDiD3/another_furniture-fabri
 https://cdn.modrinth.com/data/rGWEHQrP/versions/BSRcyUiv/smallships-fabric-1.21.1-2.0.0-b2.1.jar
 https://cdn.modrinth.com/data/9dzLWnmZ/versions/tfQeMPmY/Camerapture-1.8.0%2Bmc1.21.1-fabric.jar
 https://cdn.modrinth.com/data/rlloIFEV/versions/DRssSA0N/travelersbackpack-fabric-1.21.1-10.1.3.jar
-https://cdn.modrinth.com/data/G1s2WpNo/versions/QZTn8cTa/BetterThirdPerson-Fabric-1.21-1.9.0.jar
 https://cdn.modrinth.com/data/kOuPUitF/versions/6YjKZX63/healingcampfire-1.21.1-6.1.jar
 https://cdn.modrinth.com/data/EJqeyaVz/versions/VhJPLdxH/nohostilesaroundcampfire-1.21.1-7.1.jar
 https://cdn.modrinth.com/data/i2kUe4lq/versions/aZRfhVxm/fallingtrees-fabric-0.12.7-1.21.jar
 https://cdn.modrinth.com/data/POQ2i9zu/versions/eUncYB8D/friendsandfoes-fabric-mc1.21.1-3.0.5.jar
+https://cdn.modrinth.com/data/ECOSu6pa/versions/WCqqJrJB/flowerymooblooms-fabric-mc1.21-2.0.2.jar
+https://cdn.modrinth.com/data/Kt4RVKEd/versions/qwhZ4Roz/beekeeperhut-fabric-mc1.21-2.0.1.jar
 https://cdn.modrinth.com/data/NkGaQMDA/versions/NW2aHW53/wizards-2.2.4%2B1.21.1.jar
 https://cdn.modrinth.com/data/FxXkHaLe/versions/67zdI1FI/paladins-2.2.3%2B1.21.1.jar
 https://cdn.modrinth.com/data/QgooUXAJ/versions/wKbcN5An/archers-2.2.4%2B1.21.1.jar
