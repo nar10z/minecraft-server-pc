@@ -16,12 +16,6 @@ https://cdn.modrinth.com/data/Keq5OmV7/versions/V5uG06Jh/BetterEndCities-Vanilla
 
 
 # ======================================================
-# ===== Improved vision ================================
-# ======================================================
-https://cdn.modrinth.com/data/2k6aLirX/versions/i1rzzyKF/portoflio-1.21.x-1.4.1-datapack.zip
-
-
-# ======================================================
 # ===== Improved experience ============================
 # ======================================================
 https://cdn.modrinth.com/data/Cw8IlnGM/versions/kfZmpsoO/ServerSleep.zip

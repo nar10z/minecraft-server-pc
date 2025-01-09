@@ -31,93 +31,85 @@ Address: buneker.online
 
 ### Генерация мира
 
-* [Continents](https://modrinth.com/datapack/continents/versions?g=1.21.1&l=fabric)
-   | Изменяет мир так, что он состоит из континентов, разделенных большими океанами и небольшими островами. \
+* [Continents](https://modrinth.com/datapack/continents/versions?g=1.21.1&l=fabric) | Изменяет мир так, что он состоит
+  из континентов, разделенных большими океанами и небольшими островами. \
   _Download: https://cdn.modrinth.com/data/bQ5TJA1E/versions/wiR0RgRp/Continents_1.21_v1.1.7.zip_ \
   v1.21.3 ready? ✅
 
 
-* [Nullscape](https://modrinth.com/datapack/nullscape/versions?g=1.21.1&l=fabric)
-   | Превращает скучный ванильный конец в инопланетное измерение с самым сюрреалистичным ландшафтом, который
+* [Nullscape](https://modrinth.com/datapack/nullscape/versions?g=1.21.1&l=fabric) | Превращает скучный ванильный конец в
+  инопланетное измерение с самым сюрреалистичным ландшафтом, который
   только можно себе представить. \
   _Download: https://cdn.modrinth.com/data/LPjGiSO4/versions/J4B2BaWk/Nullscape_1.21_v1.2.10.zip_ \
   v1.21.3 ready? ✅
 
 
-* [Incendium](https://modrinth.com/datapack/incendium/versions?g=1.21.1&l=fabric)
-   | Перестройка биома преисподней в сочетании со сложными сооружениями, которые нужно завоевать, уникальным
+* [Incendium](https://modrinth.com/datapack/incendium/versions?g=1.21.1&l=fabric) | Перестройка биома преисподней в
+  сочетании со сложными сооружениями, которые нужно завоевать, уникальным
   оружием, которое нужно добыть, и хитрыми мобами, которых нужно победить. \
   _Download: https://cdn.modrinth.com/data/ZVzW5oNS/versions/pwe1kTJE/Incendium_1.21_UNSUPPORTED_PORT_v5.4.4.zip_ \
   v1.21.3 ready? ✅
 
 
-* [Structory](https://modrinth.com/datapack/structory/versions?g=1.21.1&l=fabric)
-   | Сезонно обновляемый и атмосферный структурный мод с небольшим сюжетом. \
+* [Structory](https://modrinth.com/datapack/structory/versions?g=1.21.1&l=fabric) | Сезонно обновляемый и атмосферный
+  структурный мод с небольшим сюжетом. \
   _Download: https://cdn.modrinth.com/data/aKCwCJlY/versions/7osPCZj1/Structory_1.21_v1.3.9.zip_ \
   v1.21.3 ready? ✅
 
 
-* [Structory: Towers](https://modrinth.com/datapack/structory-towers/versions?g=1.21.1&l=fabric)
-   | Добавляет в мир захватывающие башни в стиле биомов, как отдельную опцию или дополнение к Structory. \
+* [Structory: Towers](https://modrinth.com/datapack/structory-towers/versions?g=1.21.1&l=fabric) | Добавляет в мир
+  захватывающие башни в стиле биомов, как отдельную опцию или дополнение к Structory. \
   _Download: https://cdn.modrinth.com/data/j3FONRYr/versions/BmBou6CE/Structory_Towers_1.21_v1.0.10.zip_ \
   v1.21.3 ready? ✅
 
 
-* [Blossom Blade](https://modrinth.com/datapack/blossom-blade/versions?g=1.21.1)
-   | Меч, воткнутый в пьедестал, светится святым светом, при каждом взмахе распространяя запах цветущей
+* [Blossom Blade](https://modrinth.com/datapack/blossom-blade/versions?g=1.21.1) | Меч, воткнутый в пьедестал, светится
+  святым светом, при каждом взмахе распространяя запах цветущей
   вишни. \
   _Download: https://cdn.modrinth.com/data/UMmSTwE0/versions/JJf1XIzD/blossom_blade_1.3.zip_ \
   v1.21.3 ready? ❌
 
 
-* [Hopo Better Underwater Ruins](https://modrinth.com/datapack/hopo-better-underwater-ruins/versions?g=1.21.1)
-   | Исследуйте новые морские руины в вашем мире. \
+* [Hopo Better Underwater Ruins](https://modrinth.com/datapack/hopo-better-underwater-ruins/versions?g=1.21.1) |
+  Исследуйте новые морские руины в вашем мире. \
   _Download: https://cdn.modrinth.com/data/BuWCQzqf/versions/xu1bNpw3/hopobetterunderwaterruins-1-21-3-1-2-1.zip_ \
   v1.21.3 ready? ✅
 
 
-* [Katters Structures - Ambient](https://modrinth.com/datapack/katters-structures-only-ambient/versions?g=1.21.1&l=fabric)
-   | Подпроект «Katters Structures» только с окружающими структурами. \
+* [Katters Structures - Ambient](https://modrinth.com/datapack/katters-structures-only-ambient/versions?g=1.21.1&l=fabric) |
+  Подпроект «Katters Structures» только с окружающими структурами. \
   _Download: https://cdn.modrinth.com/data/ys9iIcGC/versions/g3fy5fyv/Katters%20Structures%20Only%20Ambient.zip_ \
   v1.21.3 ready? ✅
 
 
-* [Katters Structures - Dungeon](https://modrinth.com/datapack/katters-structures-only-dungeon/versions?g=1.21.1&l=fabric)
-   | Подпроект "Katters Structures" только с подземельями. \
+* [Katters Structures - Dungeon](https://modrinth.com/datapack/katters-structures-only-dungeon/versions?g=1.21.1&l=fabric) |
+  Подпроект "Katters Structures" только с подземельями. \
   _Download: https://cdn.modrinth.com/data/VAVLEOBG/versions/znqXlHf1/Katters%20Structures%20Only%20Dungeon.zip_ \
   v1.21.3 ready? ✅
 
 
-* [qraftyfied: Industrial Structures](https://modrinth.com/datapack/qraftyfied-industrial-structures/versions?g=1.21.1&l=fabric)
-   | Добавляйте индустриальные/стимпанковские структуры в свой мир Minecraft с помощью забавных техник
+* [qraftyfied: Industrial Structures](https://modrinth.com/datapack/qraftyfied-industrial-structures/versions?g=1.21.1&l=fabric) |
+  Добавляйте индустриальные/стимпанковские структуры в свой мир Minecraft с помощью забавных техник
   редстоуна! 🏭 Идеальный аддон для qraftyfied. \
   _Download: https://cdn.modrinth.com/data/TrPmg4ei/versions/CFqYIKTD/qraftyfied-INDUSTRIAL.zip_ \
   v1.21.4 ready? ✅
 
 
-* [qrafty's Japanese Villages](https://modrinth.com/datapack/qraftys-japanese-villages/versions?g=1.21.1&l=fabric)
-   | Пакет добавляет красивые уютные деревни и строения в биом цветущей сакуры! 🌸 \
+* [qrafty's Japanese Villages](https://modrinth.com/datapack/qraftys-japanese-villages/versions?g=1.21.1&l=fabric) |
+  Пакет добавляет красивые уютные деревни и строения в биом цветущей сакуры! 🌸 \
   _Download: https://cdn.modrinth.com/data/6vWz8dzn/versions/EC3WnUBl/qrafty%27s-japanese-villages.zip_ \
   v1.21.4 ready? ✅
 
 
-* [Better End Cities (Vanilla)](https://modrinth.com/datapack/qraftys-japanese-villages/versions?g=1.21.1&l=fabric)
-   | Придает остроты внешнему виду End Cities в ванильном стиле. \
+* [Better End Cities (Vanilla)](https://modrinth.com/datapack/qraftys-japanese-villages/versions?g=1.21.1&l=fabric) |
+  Придает остроты внешнему виду End Cities в ванильном стиле. \
   _Download: https://cdn.modrinth.com/data/Keq5OmV7/versions/V5uG06Jh/BetterEndCities-Vanilla-1.21.zip_ \
   v1.21.4 ready? ✅
-
-### Улучшения визуала
-
-* [Portfolio](https://modrinth.com/datapack/portfolio/versions?g=1.21.1&l=datapack)
-  _(server, client)_ | Добавляет в игру большой каталог картин. \
-  _Download: https://cdn.modrinth.com/data/Cw8IlnGM/versions/kfZmpsoO/ServerSleep.zip_ \
-  v1.21.3 ready? ❌
-
 
 ### Улучшения игрового опыта
 
 * [Server Sleep](https://modrinth.com/datapack/serversleep/versions?g=1.21.1&l=datapack)
-   | Самый простой многопользовательский мод/пак данных для сна. - Изменяет playersSleepingPercentage на 50% \
+  | Самый простой многопользовательский мод/пак данных для сна. - Изменяет playersSleepingPercentage на 50% \
   _Download: https://cdn.modrinth.com/data/Cw8IlnGM/versions/Yy52wehM/serversleep-datapack2.jar_ \
   v1.21.3 ready? ✅
 
