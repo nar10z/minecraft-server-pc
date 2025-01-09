@@ -113,7 +113,6 @@ https://cdn.modrinth.com/data/4eW1c7Gj/versions/Azg4B7CB/witcher-class-mod-2.2.2
 https://cdn.modrinth.com/data/rULzJh3O/versions/mbsVgvVV/additional_rpg_jewelry-2.0.4-1.21.1.jar
 https://cdn.modrinth.com/data/Agw7MFEL/versions/ohoLhgFo/head_in_the_clouds-1.1.0.jar
 https://cdn.modrinth.com/data/yn9u3ypm/versions/Fg64B87Y/graves-3.4.4%2B1.21.jar
-https://cdn.modrinth.com/data/Cw8IlnGM/versions/Yy52wehM/serversleep-datapack2.jar
 https://cdn.modrinth.com/data/SlhyZVWA/versions/Aab1HZtO/droppablevillagertrades-fabric-1.21.1-1.0.0.jar
 https://cdn.modrinth.com/data/du3UfiLL/versions/aSCbUUL1/BOMD-1.10.2-1.21.1.jar
 https://cdn.modrinth.com/data/E5YVNsbH/versions/ezouZBrl/followersteleporttoo-1.21.1-2.6.jar

@@ -1,3 +1,6 @@
+# ======================================================
+# ===== World generation ===============================
+# ======================================================
 https://cdn.modrinth.com/data/bQ5TJA1E/versions/wiR0RgRp/Continents_1.21_v1.1.7.zip
 https://cdn.modrinth.com/data/LPjGiSO4/versions/J4B2BaWk/Nullscape_1.21_v1.2.10.zip
 https://cdn.modrinth.com/data/ZVzW5oNS/versions/pwe1kTJE/Incendium_1.21_UNSUPPORTED_PORT_v5.4.4.zip
@@ -9,3 +12,16 @@ https://cdn.modrinth.com/data/ys9iIcGC/versions/g3fy5fyv/Katters%20Structures%20
 https://cdn.modrinth.com/data/VAVLEOBG/versions/znqXlHf1/Katters%20Structures%20Only%20Dungeon.zip
 https://cdn.modrinth.com/data/TrPmg4ei/versions/CFqYIKTD/qraftyfied-INDUSTRIAL.zip
 https://cdn.modrinth.com/data/6vWz8dzn/versions/EC3WnUBl/qrafty%27s-japanese-villages.zip
+https://cdn.modrinth.com/data/Keq5OmV7/versions/V5uG06Jh/BetterEndCities-Vanilla-1.21.zip
+
+
+# ======================================================
+# ===== Improved vision ================================
+# ======================================================
+https://cdn.modrinth.com/data/2k6aLirX/versions/i1rzzyKF/portoflio-1.21.x-1.4.1-datapack.zip
+
+
+# ======================================================
+# ===== Improved experience ============================
+# ======================================================
+https://cdn.modrinth.com/data/Cw8IlnGM/versions/kfZmpsoO/ServerSleep.zip
