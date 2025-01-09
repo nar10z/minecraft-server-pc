@@ -7,7 +7,7 @@ https://cdn.modrinth.com/data/5faXoLqX/versions/vmyclz8X/Iceberg-1.21-fabric-1.2
 https://cdn.modrinth.com/data/4I1XuqiY/versions/9t01xL7K/entity_model_features_fabric_1.21.1-2.4.1.jar
 https://cdn.modrinth.com/data/BVzZfTc1/versions/zzyLrMkD/entity_texture_features_fabric_1.21.1-6.2.9.jar
 https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar
-https://cdn.modrinth.com/data/3qAYkBMB/versions/Gpi2ab76/polytone-1.21-3.2.3-fabric.jar
+https://cdn.modrinth.com/data/3qAYkBMB/versions/f5JiWo1f/polytone-1.21-3.2.4-fabric.jar
 https://cdn.modrinth.com/data/Bh37bMuy/versions/4sugrjBi/reeses-sodium-options-fabric-1.8.0%2Bmc1.21.3.jar
 
 
