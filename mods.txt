@@ -57,19 +57,12 @@ https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar
 # ======================================================
 https://cdn.modrinth.com/data/lWDHr9jE/versions/YcKxW5iv/tectonic-fabric-1.21-2.4.1.jar
 https://cdn.modrinth.com/data/8oi3bsk5/versions/lQreFvOm/Terralith_1.21.x_v2.5.7.jar
-https://cdn.modrinth.com/data/bQ5TJA1E/versions/RAipMfbS/Continents_1.21.x_v1.1.7.jar
 https://cdn.modrinth.com/data/fgmhI8kH/versions/bUY7KcOc/%5Bfabric%5Dctov-3.5.4.jar
-https://cdn.modrinth.com/data/LPjGiSO4/versions/dHJAVX8s/Nullscape_1.21.x_v1.2.10.jar
-https://cdn.modrinth.com/data/ZVzW5oNS/versions/7mVvV9Th/Incendium_1.21.x_v5.4.4.jar
-https://cdn.modrinth.com/data/aKCwCJlY/versions/Up0Tbteh/Structory_1.21.x_v1.3.9.jar
-https://cdn.modrinth.com/data/j3FONRYr/versions/oOvJd4xF/Structory_Towers_1.21.x_v1.0.10.jar
 https://cdn.modrinth.com/data/OQAgZMH1/versions/JRbl0gSO/mvs-4.2.7-1.21.jar
 https://cdn.modrinth.com/data/r4PuRGfV/versions/KaiO0WDo/mes-1.3.5-1.21.jar
 https://cdn.modrinth.com/data/RJCLIx7k/versions/6m2Qi2ND/mss-1.2.6-1.21.jar
 https://cdn.modrinth.com/data/gc8OEnCC/versions/4qhBEg6J/better-end-21.0.11.jar
 https://cdn.modrinth.com/data/MpzVLzy5/versions/M1o6hR2m/better-nether-21.0.11.jar
-https://cdn.modrinth.com/data/UMmSTwE0/versions/k9trRweh/blossom-blade-1.3.jar
-https://cdn.modrinth.com/data/BuWCQzqf/versions/6216ulJB/HopoBetterUnderwaterRuins-%5B1.21.1-1.21.3%5D-1.2.1.jar
 https://cdn.modrinth.com/data/XIpMGI6r/versions/unZ0xAnj/gazebo-2.0.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/DjLobEOy/versions/MntMLupc/t_and_t-neoforge-fabric-1.13.2.jar
 https://cdn.modrinth.com/data/klXONLDA/versions/J0nqkQaR/villagesandpillages-fabric-mc1.21.1-1.0.2.jar

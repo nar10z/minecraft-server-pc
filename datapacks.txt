@@ -1,3 +1,10 @@
+https://cdn.modrinth.com/data/bQ5TJA1E/versions/wiR0RgRp/Continents_1.21_v1.1.7.zip
+https://cdn.modrinth.com/data/LPjGiSO4/versions/J4B2BaWk/Nullscape_1.21_v1.2.10.zip
+https://cdn.modrinth.com/data/ZVzW5oNS/versions/pwe1kTJE/Incendium_1.21_UNSUPPORTED_PORT_v5.4.4.zip
+https://cdn.modrinth.com/data/aKCwCJlY/versions/7osPCZj1/Structory_1.21_v1.3.9.zip
+https://cdn.modrinth.com/data/j3FONRYr/versions/BmBou6CE/Structory_Towers_1.21_v1.0.10.zip
+https://cdn.modrinth.com/data/UMmSTwE0/versions/JJf1XIzD/blossom_blade_1.3.zip
+https://cdn.modrinth.com/data/BuWCQzqf/versions/xu1bNpw3/hopobetterunderwaterruins-1-21-3-1-2-1.zip
 https://cdn.modrinth.com/data/ys9iIcGC/versions/g3fy5fyv/Katters%20Structures%20Only%20Ambient.zip
 https://cdn.modrinth.com/data/VAVLEOBG/versions/znqXlHf1/Katters%20Structures%20Only%20Dungeon.zip
 https://cdn.modrinth.com/data/TrPmg4ei/versions/CFqYIKTD/qraftyfied-INDUSTRIAL.zip

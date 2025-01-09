@@ -25,7 +25,6 @@ https://cdn.modrinth.com/data/5ZwdcRci/versions/MDHa3xsw/ImmediatelyFast-Fabric-
 # ===== Improved vision ================================
 # ======================================================
 https://cdn.modrinth.com/data/lFGQ4Hnk/versions/1wfayMST/darkpaintings-fabric-1.21.1-21.1.2.jar
-https://cdn.modrinth.com/data/WhbRG4iK/versions/NpyrzO8Q/fallingleaves-1.16.4%2B1.21.1.jar
 https://cdn.modrinth.com/data/qyVF9oeo/versions/cjZ56xjl/sound-physics-remastered-fabric-1.21.1-1.4.7.jar
 https://cdn.modrinth.com/data/gPCdW0Wr/versions/WyRIJsP5/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar
 https://cdn.modrinth.com/data/5mFDTffy/versions/1Y9mpUn0/dyed-fabric-1.21-1.2.0.jar
