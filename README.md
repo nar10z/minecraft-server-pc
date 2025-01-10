@@ -682,6 +682,12 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/yXAvIk0x/versions/InexVr2D/Scribble-1.4.4%2Bmc1.21-fabric.jar_ \
   v1.21.3 ready? ❌
 
+
+* [Effectual](https://modrinth.com/mod/effectual/versions?g=1.21.1)
+  _(client)_ | Новые эффекты, частицы и многое другое! \
+  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/iphPJVCu/effectual-0.2.3-1.21.1.jar_ \
+  v1.21.4 ready? ✅
+
 ### Улучшения игрового опыта
 
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions?g=1.21.1)
