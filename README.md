@@ -847,7 +847,7 @@ Address: buneker.online
 
 * [Witcher (More RPG Classes)](https://modrinth.com/mod/witcher-rpg-class/versions?g=1.21.1)
   _(server, client)_ | Уничтожай монстров как Ведьмак! Дополнение Spell Engine. \
-  _Download: https://cdn.modrinth.com/data/4eW1c7Gj/versions/BJYQmGMg/witcher-class-mod-2.2.0-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/4eW1c7Gj/versions/g1wIydbL/witcher-class-mod-2.2.3-1.21.jar_ \
   v1.21.3 ready? ❌
 
 

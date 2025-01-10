@@ -109,7 +109,7 @@ https://cdn.modrinth.com/data/lP9Yrr1E/versions/ajtep1px/runes-1.0.3%2B1.21.1.ja
 https://cdn.modrinth.com/data/PeZ4h4i0/versions/OTI03WXn/elemental_wizards_rpg-2.2.1-1.21.1.jar
 https://cdn.modrinth.com/data/8hqOZzxM/versions/Bpo8QVLi/berserker-class-mod-2.2.2-1.21.jar
 https://cdn.modrinth.com/data/K3yHebFL/versions/yjsSwT0d/forcemaster-class-mod-2.2.1-1.21.jar
-https://cdn.modrinth.com/data/4eW1c7Gj/versions/Azg4B7CB/witcher-class-mod-2.2.2-1.21.jar
+https://cdn.modrinth.com/data/4eW1c7Gj/versions/g1wIydbL/witcher-class-mod-2.2.3-1.21.jar
 https://cdn.modrinth.com/data/rULzJh3O/versions/mbsVgvVV/additional_rpg_jewelry-2.0.4-1.21.1.jar
 https://cdn.modrinth.com/data/Agw7MFEL/versions/ohoLhgFo/head_in_the_clouds-1.1.0.jar
 https://cdn.modrinth.com/data/yn9u3ypm/versions/Fg64B87Y/graves-3.4.4%2B1.21.jar
