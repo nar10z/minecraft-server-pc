@@ -196,7 +196,7 @@ Address: buneker.online
 
 * [Lithostitched](https://modrinth.com/mod/lithostitched/versions?g=1.21.1&l=fabric)
   _(server)_ | Мод библиотеки с новыми возможностями настройки и улучшениями совместимости для генерации мира. \
-  _Download: https://cdn.modrinth.com/data/XaDC71GB/versions/ZTVGFIfa/lithostitched-fabric-1.21.1-1.4.jar_ \
+  _Download: https://cdn.modrinth.com/data/XaDC71GB/versions/xs1ltS1d/lithostitched-fabric-1.21.1-1.3.9.jar_ \
   v1.21.3 ready? ✅
 
 
