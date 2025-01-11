@@ -737,7 +737,7 @@ Address: buneker.online
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack/versions?g=1.21.1)
   _(server, client)_ | Уникальные и обновляемые рюкзаки с возможностью настройки, интеграцией Curios API/Trinkets и
   многим другим! \
-  _Download: https://cdn.modrinth.com/data/rlloIFEV/versions/mQUQ372I/travelersbackpack-fabric-1.21.1-10.1.7.jar_ \
+  _Download: https://cdn.modrinth.com/data/rlloIFEV/versions/DRssSA0N/travelersbackpack-fabric-1.21.1-10.1.3.jar_ \
   v1.21.3 ready? ❌
 
 
