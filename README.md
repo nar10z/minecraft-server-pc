@@ -379,6 +379,12 @@ Address: buneker.online
   _Download: https://cdn.modrinth.com/data/Bh37bMuy/versions/4sugrjBi/reeses-sodium-options-fabric-1.8.0%2Bmc1.21.3.jar_ \
   v1.21.3 ready? ✅
 
+
+* [CraterLib](https://modrinth.com/mod/craterlib/versions?g=1.21.1&l=fabric)
+  _(client)_ | Library mod for HypherionSA and First Dark Development mods \
+  _Download: https://cdn.modrinth.com/data/Nn8Wasaq/versions/rb1P6s7w/CraterLib-Fabric-1.21-2.1.2.jar_ \
+  v1.21.3 ready? ✅
+
 ### Моды для оптимизации
 
 * [AutoModpack](https://modrinth.com/mod/automodpack/versions?g=1.21.1&c=release&l=fabric)
@@ -685,7 +691,7 @@ Address: buneker.online
 
 * [Effectual](https://modrinth.com/mod/effectual/versions?g=1.21.1)
   _(client)_ | Новые эффекты, частицы и многое другое! \
-  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/iphPJVCu/effectual-0.2.3-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/oUGH9AqJ/effectual-0.3.0-1.21.1.jar_ \
   v1.21.4 ready? ✅
 
 ### Улучшения игрового опыта
@@ -731,7 +737,7 @@ Address: buneker.online
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack/versions?g=1.21.1)
   _(server, client)_ | Уникальные и обновляемые рюкзаки с возможностью настройки, интеграцией Curios API/Trinkets и
   многим другим! \
-  _Download: https://cdn.modrinth.com/data/rlloIFEV/versions/DRssSA0N/travelersbackpack-fabric-1.21.1-10.1.3.jar_ \
+  _Download: https://cdn.modrinth.com/data/rlloIFEV/versions/mQUQ372I/travelersbackpack-fabric-1.21.1-10.1.7.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -957,4 +963,10 @@ Address: buneker.online
 * [Ping Wheel](https://modrinth.com/mod/ping-wheel/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Позволяет игрокам временно отмечать локации и объекты. \
   _Download: https://cdn.modrinth.com/data/QQXAdCzh/versions/KLrOxQNa/Ping-Wheel-1.10.0-fabric-1.21.1.jar_ \
+  v1.21.3 ready? ✅
+
+
+* [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc/versions?g=1.21.1&l=fabric)
+  _(client)_ | Простой в использовании плагин Discord RPC для Minecraft и Modpacks \
+  _Download: https://cdn.modrinth.com/data/ObXSoyrn/versions/kgFckjwV/SimpleRPC-Universal-3.3.3.jar_ \
   v1.21.3 ready? ✅
