@@ -259,7 +259,7 @@ Address: buneker.online
 
 * [Puzzles Lib](https://modrinth.com/mod/puzzles-lib/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Why's it called Puzzles you ask? That's the puzzle! \
-  _Download: https://cdn.modrinth.com/data/QAGBst4M/versions/E8hn913v/PuzzlesLib-v21.1.24-1.21.1-Fabric.jar_ \
+  _Download: https://cdn.modrinth.com/data/uy4Cnpcm/versions/nnQj2aJd/bookshelf-fabric-1.21.1-21.1.33.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -314,7 +314,7 @@ Address: buneker.online
 
 * [Balm](https://modrinth.com/mod/balm/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Abstraction Layer (but not really)™ for Blay's multiplatform mods \
-  _Download: https://cdn.modrinth.com/data/MBAkmtvl/versions/8y2siHEz/balm-fabric-1.21.1-21.0.20.jar_ \
+  _Download: https://cdn.modrinth.com/data/MBAkmtvl/versions/G5ueMpLg/balm-fabric-1.21.1-21.0.23.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -823,7 +823,7 @@ Address: buneker.online
 
 * [Spell Power Attributes](https://modrinth.com/mod/spell-power/versions?g=1.21.1)
   _(server, client)_ | 🔮 Spell Power entity attributes with related status effects and enchantments. \
-  _Download: https://cdn.modrinth.com/data/8ooWzSQP/versions/YADbGUnX/spell_power-1.0.8%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/8ooWzSQP/versions/4LKRf5tK/spell_power-1.1.1%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -853,7 +853,7 @@ Address: buneker.online
 
 * [Witcher (More RPG Classes)](https://modrinth.com/mod/witcher-rpg-class/versions?g=1.21.1)
   _(server, client)_ | Уничтожай монстров как Ведьмак! Дополнение Spell Engine. \
-  _Download: https://cdn.modrinth.com/data/4eW1c7Gj/versions/g1wIydbL/witcher-class-mod-2.2.3-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/4eW1c7Gj/versions/Mw7AY64K/witcher-class-mod-2.2.4-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
