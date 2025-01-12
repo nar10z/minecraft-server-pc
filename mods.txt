@@ -58,7 +58,7 @@ https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar
 https://cdn.modrinth.com/data/lWDHr9jE/versions/YcKxW5iv/tectonic-fabric-1.21-2.4.1.jar
 https://cdn.modrinth.com/data/8oi3bsk5/versions/lQreFvOm/Terralith_1.21.x_v2.5.7.jar
 https://cdn.modrinth.com/data/fgmhI8kH/versions/bUY7KcOc/%5Bfabric%5Dctov-3.5.4.jar
-https://cdn.modrinth.com/data/OQAgZMH1/versions/JRbl0gSO/mvs-4.2.7-1.21.jar
+https://cdn.modrinth.com/data/OQAgZMH1/versions/VYyt5avd/mvs-4.2.8-1.21.jar
 https://cdn.modrinth.com/data/r4PuRGfV/versions/KaiO0WDo/mes-1.3.5-1.21.jar
 https://cdn.modrinth.com/data/RJCLIx7k/versions/ho26hINu/mss-1.2.7-1.21.jar
 https://cdn.modrinth.com/data/gc8OEnCC/versions/4qhBEg6J/better-end-21.0.11.jar

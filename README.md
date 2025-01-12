@@ -509,21 +509,21 @@ Address: buneker.online
 * [MVS - Moog's Voyager Structures](https://modrinth.com/mod/moogs-voyager-structures/versions?g=1.21.1&l=fabric)
   _(server)_ | Добавляет 87+ ванильных структур в ваш мир, чтобы оживить его, используя ванильные блоки.
   Включает подземелья и врагов для сражений! \
-  _Download: https://cdn.modrinth.com/data/OQAgZMH1/versions/JRbl0gSO/mvs-4.2.7-1.21.jar_ \
-  v1.21.3 ready? ❌
+  _Download: https://cdn.modrinth.com/data/OQAgZMH1/versions/VYyt5avd/mvs-4.2.8-1.21.jar_ \
+  v1.21.4 ready? ✅
 
 
 * [MES - Moog's End Structures](https://modrinth.com/mod/mes-moogs-end-structures/versions?g=1.21.1&l=fabric)
   _(server)_ | Множество конструкций в ванильном стиле, чтобы наполнить конечное измерение жизнью! \
   _Download: https://cdn.modrinth.com/data/r4PuRGfV/versions/KaiO0WDo/mes-1.3.5-1.21.jar_ \
-  v1.21.3 ready? ✅
+  v1.21.4 ready? ✅
 
 
 * [MSS - Moog's Soaring Structures](https://modrinth.com/mod/mss-moogs-soaring-structures/versions?g=1.21.1&l=fabric)
   _(server)_ | Множество потрясающих парящих островов в ванильном стиле, полных добычи, монстров и подземелий, которые
   вы можете исследовать! \
   _Download: https://cdn.modrinth.com/data/RJCLIx7k/versions/ho26hINu/mss-1.2.7-1.21.jar_ \
-  v1.21.3 ready? ✅
+  v1.21.4 ready? ✅
 
 
 * [BetterEnd](https://modrinth.com/mod/betterend/versions?g=1.21.1)
