@@ -259,13 +259,13 @@ Address: buneker.online
 
 * [Puzzles Lib](https://modrinth.com/mod/puzzles-lib/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Why's it called Puzzles you ask? That's the puzzle! \
-  _Download: https://cdn.modrinth.com/data/uy4Cnpcm/versions/nnQj2aJd/bookshelf-fabric-1.21.1-21.1.33.jar_ \
+  _Download: https://cdn.modrinth.com/data/QAGBst4M/versions/CPRIM9lt/PuzzlesLib-v21.1.25-1.21.1-Fabric.jar_ \
   v1.21.3 ready? ✅
 
 
 * [Bookshelf](https://modrinth.com/mod/bookshelf-lib/versions?g=1.21.1&l=fabric)
   _(server, client)_ | An open source library for other mods! \
-  _Download: https://cdn.modrinth.com/data/uy4Cnpcm/versions/2nSJyNJ8/bookshelf-fabric-1.21.1-21.1.30.jar_ \
+  _Download: https://cdn.modrinth.com/data/uy4Cnpcm/versions/do0HPKWT/bookshelf-fabric-1.21.1-21.1.37.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -522,7 +522,7 @@ Address: buneker.online
 * [MSS - Moog's Soaring Structures](https://modrinth.com/mod/mss-moogs-soaring-structures/versions?g=1.21.1&l=fabric)
   _(server)_ | Множество потрясающих парящих островов в ванильном стиле, полных добычи, монстров и подземелий, которые
   вы можете исследовать! \
-  _Download: https://cdn.modrinth.com/data/RJCLIx7k/versions/6m2Qi2ND/mss-1.2.6-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/RJCLIx7k/versions/ho26hINu/mss-1.2.7-1.21.jar_ \
   v1.21.3 ready? ✅
 
 
