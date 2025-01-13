@@ -11,7 +11,7 @@ https://cdn.modrinth.com/data/rLLJ1OZM/versions/7e7u4VpL/coroutil-fabric-1.21.0-
 https://cdn.modrinth.com/data/Ua7DFN59/versions/DeaIlZ9A/YungsApi-1.21.1-Fabric-5.1.3.jar
 https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar
 https://cdn.modrinth.com/data/mEEGbEIu/versions/gsRDuiiP/pandalib-fabric-0.4.2-1.21.jar
-https://cdn.modrinth.com/data/XaDC71GB/versions/xs1ltS1d/lithostitched-fabric-1.21.1-1.3.9.jar
+https://cdn.modrinth.com/data/XaDC71GB/versions/GwhILiJf/lithostitched-fabric-1.21.1-1.4.1.jar
 https://cdn.modrinth.com/data/BgNRHReB/versions/TxWM7AW8/bclib-21.0.13.jar
 https://cdn.modrinth.com/data/RiN8rDVs/versions/mPmeykPR/worldweaver-21.0.13.jar
 https://cdn.modrinth.com/data/8O0Adq7w/versions/NWOZ9B7R/wunderlib-21.0.8.jar
@@ -57,22 +57,18 @@ https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar
 # ======================================================
 https://cdn.modrinth.com/data/lWDHr9jE/versions/YcKxW5iv/tectonic-fabric-1.21-2.4.1.jar
 https://cdn.modrinth.com/data/8oi3bsk5/versions/lQreFvOm/Terralith_1.21.x_v2.5.7.jar
-https://cdn.modrinth.com/data/fgmhI8kH/versions/bUY7KcOc/%5Bfabric%5Dctov-3.5.4.jar
+https://cdn.modrinth.com/data/fgmhI8kH/versions/zS07WlzI/%5Bfabric%5Dctov-3.5.5.jar
 https://cdn.modrinth.com/data/OQAgZMH1/versions/VYyt5avd/mvs-4.2.8-1.21.jar
 https://cdn.modrinth.com/data/r4PuRGfV/versions/KaiO0WDo/mes-1.3.5-1.21.jar
 https://cdn.modrinth.com/data/RJCLIx7k/versions/ho26hINu/mss-1.2.7-1.21.jar
 https://cdn.modrinth.com/data/gc8OEnCC/versions/4qhBEg6J/better-end-21.0.11.jar
 https://cdn.modrinth.com/data/MpzVLzy5/versions/M1o6hR2m/better-nether-21.0.11.jar
-https://cdn.modrinth.com/data/XIpMGI6r/versions/unZ0xAnj/gazebo-2.0.2%2B1.21.1.jar
+https://cdn.modrinth.com/data/XIpMGI6r/versions/M0LocXj4/gazebo-2.0.3%2B1.21.1.jar
 https://cdn.modrinth.com/data/DjLobEOy/versions/MntMLupc/t_and_t-neoforge-fabric-1.13.2.jar
 https://cdn.modrinth.com/data/klXONLDA/versions/J0nqkQaR/villagesandpillages-fabric-mc1.21.1-1.0.2.jar
 https://cdn.modrinth.com/data/jSV9w0J5/versions/U4vRnaGx/IllagerInvasion-v21.1.2-1.21.1-Fabric.jar
 https://cdn.modrinth.com/data/MRK4tULJ/versions/IOxi2RHE/UndergroundBunkers-1.0.4-1.21.x-fabric.jar
 https://cdn.modrinth.com/data/LOpKHB2A/versions/JPtziByp/waystones-fabric-1.21.1-21.1.5.jar
-#https://cdn.modrinth.com/data/ys9iIcGC/versions/ealrpT96/katters-structures-only-ambient-2.1.jar
-#https://cdn.modrinth.com/data/VAVLEOBG/versions/HZEor0Ie/katters-structures-only-dungeon-2.1.jar
-#https://cdn.modrinth.com/data/TrPmg4ei/versions/D8l5R39e/qraftyfied-industrial-structures-1.0.0.jar
-#https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar
 https://cdn.modrinth.com/data/sc9lpPiU/versions/lPLhRp6s/fabric_medieval_buildings-1.0.2-1.21.jar
 
 
@@ -99,11 +95,11 @@ https://cdn.modrinth.com/data/i2kUe4lq/versions/aZRfhVxm/fallingtrees-fabric-0.1
 https://cdn.modrinth.com/data/POQ2i9zu/versions/eUncYB8D/friendsandfoes-fabric-mc1.21.1-3.0.5.jar
 https://cdn.modrinth.com/data/ECOSu6pa/versions/WCqqJrJB/flowerymooblooms-fabric-mc1.21-2.0.2.jar
 https://cdn.modrinth.com/data/Kt4RVKEd/versions/qwhZ4Roz/beekeeperhut-fabric-mc1.21-2.0.1.jar
-https://cdn.modrinth.com/data/NkGaQMDA/versions/NW2aHW53/wizards-2.2.4%2B1.21.1.jar
-https://cdn.modrinth.com/data/FxXkHaLe/versions/67zdI1FI/paladins-2.2.3%2B1.21.1.jar
-https://cdn.modrinth.com/data/QgooUXAJ/versions/wKbcN5An/archers-2.2.4%2B1.21.1.jar
-https://cdn.modrinth.com/data/3MKqoGuP/versions/fjtMwyVO/rogues-2.2.3%2B1.21.1.jar
-https://cdn.modrinth.com/data/sNJAIjUm/versions/Lf1sGoms/jewelry-2.0.4%2B1.21.1.jar
+https://cdn.modrinth.com/data/NkGaQMDA/versions/WRzLaEcT/wizards-2.2.5%2B1.21.1.jar
+https://cdn.modrinth.com/data/FxXkHaLe/versions/V1CQdflY/paladins-2.2.4%2B1.21.1.jar
+https://cdn.modrinth.com/data/QgooUXAJ/versions/Bj7mzpel/archers-2.2.5%2B1.21.1.jar
+https://cdn.modrinth.com/data/3MKqoGuP/versions/zfwYwcei/rogues-2.2.4%2B1.21.1.jar
+https://cdn.modrinth.com/data/sNJAIjUm/versions/dffVQ6jN/jewelry-2.0.5%2B1.21.1.jar
 https://cdn.modrinth.com/data/8ooWzSQP/versions/4LKRf5tK/spell_power-1.1.1%2B1.21.1.jar
 https://cdn.modrinth.com/data/lP9Yrr1E/versions/ajtep1px/runes-1.0.3%2B1.21.1.jar
 https://cdn.modrinth.com/data/PeZ4h4i0/versions/OTI03WXn/elemental_wizards_rpg-2.2.1-1.21.1.jar

@@ -88,13 +88,6 @@ Address: buneker.online
   v1.21.3 ready? ✅
 
 
-* [qraftyfied: Industrial Structures](https://modrinth.com/datapack/qraftyfied-industrial-structures/versions?g=1.21.1&l=fabric) |
-  Добавляйте индустриальные/стимпанковские структуры в свой мир Minecraft с помощью забавных техник
-  редстоуна! 🏭 Идеальный аддон для qraftyfied. \
-  _Download: https://cdn.modrinth.com/data/TrPmg4ei/versions/CFqYIKTD/qraftyfied-INDUSTRIAL.zip_ \
-  v1.21.4 ready? ✅
-
-
 * [qrafty's Japanese Villages](https://modrinth.com/datapack/qraftys-japanese-villages/versions?g=1.21.1&l=fabric) |
   Пакет добавляет красивые уютные деревни и строения в биом цветущей сакуры! 🌸 \
   _Download: https://cdn.modrinth.com/data/6vWz8dzn/versions/EC3WnUBl/qrafty%27s-japanese-villages.zip_ \
@@ -196,7 +189,7 @@ Address: buneker.online
 
 * [Lithostitched](https://modrinth.com/mod/lithostitched/versions?g=1.21.1&l=fabric)
   _(server)_ | Мод библиотеки с новыми возможностями настройки и улучшениями совместимости для генерации мира. \
-  _Download: https://cdn.modrinth.com/data/XaDC71GB/versions/xs1ltS1d/lithostitched-fabric-1.21.1-1.3.9.jar_ \
+  _Download: https://cdn.modrinth.com/data/XaDC71GB/versions/GwhILiJf/lithostitched-fabric-1.21.1-1.4.1.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -502,7 +495,7 @@ Address: buneker.online
 * [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village/versions?g=1.21.1&l=fabric)
   _(server)_ | Улучшает и создает новые деревни и форпосты разбойников, которые идеально впишутся в ваш мир
   Minecraft. \
-  _Download: https://cdn.modrinth.com/data/fgmhI8kH/versions/bUY7KcOc/%5Bfabric%5Dctov-3.5.4.jar_ \
+  _Download: https://cdn.modrinth.com/data/fgmhI8kH/versions/zS07WlzI/%5Bfabric%5Dctov-3.5.5.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -540,7 +533,7 @@ Address: buneker.online
 
 * [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos/versions?g=1.21.1)
   _(server)_ | ⛲️ Деревенские структуры, в которых размещаются небольшие библиотеки заклинаний. \
-  _Download: https://cdn.modrinth.com/data/XIpMGI6r/versions/unZ0xAnj/gazebo-2.0.2%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/XIpMGI6r/versions/M0LocXj4/gazebo-2.0.3%2B1.21.1.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -793,31 +786,31 @@ Address: buneker.online
 
 * [Wizards (RPG Series)](https://modrinth.com/mod/wizards/versions?g=1.21.1)
   _(server, client)_ | 🧙🏻‍♂️ Уничтожьте своих врагов с помощью тайной, огненной и ледяной магии. \
-  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/NW2aHW53/wizards-2.2.4%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/WRzLaEcT/wizards-2.2.5%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Paladins & Priests (RPG Series)](https://modrinth.com/mod/paladins-and-priests/versions?g=1.21.1)
   _(server, client)_ | ✨ Защищайте и лечите своих друзей как Паладин или Жрец. \
-  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/67zdI1FI/paladins-2.2.3%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/V1CQdflY/paladins-2.2.4%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Archers (RPG Series)](https://modrinth.com/mod/archers/versions?g=1.21.1)
   _(server, client)_ | 🏹 Натягивай, отпускай, побеждай — овладей искусством стрельбы из лука! \
-  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/wKbcN5An/archers-2.2.4%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/Bj7mzpel/archers-2.2.5%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Rogues & Warriors (RPG Series)](https://modrinth.com/mod/rogues-and-warriors/versions?g=1.21.1)
   _(server, client)_ | 🗡️ Бесшумные клинки, мощные удары — доминируйте с помощью боевых навыков! \
-  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/fjtMwyVO/rogues-2.2.3%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/zfwYwcei/rogues-2.2.4%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Jewelry (RPG Series)](https://modrinth.com/mod/jewelry/versions?g=1.21.1)
   _(server, client)_ | 💍 Найдите в глубинах драгоценные камни и создайте из них мощные украшения! \
-  _Download: https://cdn.modrinth.com/data/sNJAIjUm/versions/Lf1sGoms/jewelry-2.0.4%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/sNJAIjUm/versions/dffVQ6jN/jewelry-2.0.5%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
