@@ -105,13 +105,15 @@ services:
     networks:
       - minecraft
     command: -r -u -w
-    ports:
-      - ${MINECRAFT_BLUEMAP_PORT}:8100
+    environment:
+      TZ: ${TZ}
     volumes:
       - ${MINECRAFT_BLUEMAP_LOCATION}/config:/app/config
       - ${MINECRAFT_BLUEMAP_LOCATION}/data:/app/data
       - ${MINECRAFT_BLUEMAP_LOCATION}/web:/app/web
       - ${MINECRAFT_ITZG_DATA_LOCATION}/${MINECRAFT_SERVER_LEVEL}:/app/world
+    ports:
+      - ${MINECRAFT_BLUEMAP_PORT}:8100
     depends_on:
       - minecraft_server
     deploy:
