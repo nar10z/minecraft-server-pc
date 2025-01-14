@@ -399,7 +399,7 @@ Address: buneker.online
   Это достигается за счет использования преимуществ нескольких ядер ЦП параллельно. Для лучшей производительности
   рекомендуется использовать C2ME с [Lithium](https://modrinth.com/mod/lithium)
   и [ScalableLux](https://modrinth.com/mod/scalablelux). \
-  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/H5YtgA2t/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.310.jar_ \
+  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/6peRUuFI/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.311.jar_ \
   v1.21.3 ready? ✅
 
 
