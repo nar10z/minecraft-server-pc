@@ -390,7 +390,7 @@ Address: buneker.online
 * [Lithium](https://modrinth.com/mod/lithium/versions?g=1.21.1&c=release&l=fabric)
   _(server)_ | Улучшает ряд систем (физику игры, искусственный интеллект мобов, тиканье блоков и т. д.), не
   меняя при этом никакую ванильную механику. \
-  _Download: https://cdn.modrinth.com/data/gvQqBUqZ/versions/9xfJi96s/lithium-fabric-0.14.3-snapshot%2Bmc1.21.1-build.92.jar_ \
+  _Download: https://cdn.modrinth.com/data/gvQqBUqZ/versions/GGl8GkvX/lithium-fabric-0.14.5%2Bmc1.21.1.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -488,7 +488,7 @@ Address: buneker.online
 * [Terralith](https://modrinth.com/datapack/terralith/versions?g=1.21.1&l=fabric)
   _(server)_ | Исследуйте почти 100 новых биомов, состоящих как из реализма, так и из легкой фантазии, используя
   только блоки Vanilla. \
-  _Download: https://cdn.modrinth.com/data/8oi3bsk5/versions/lQreFvOm/Terralith_1.21.x_v2.5.7.jar_ \
+  _Download: https://cdn.modrinth.com/data/8oi3bsk5/versions/MuJMtPGQ/Terralith_1.21.x_v2.5.8.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -608,7 +608,7 @@ Address: buneker.online
 
 * [Better Combat](https://modrinth.com/mod/better-combat/versions?g=1.21.1&c=release&l=fabric)
   _(server, client)_ | ⚔️ Простая, зрелищная и веселая система ближнего боя из Minecraft Dungeons. \
-  _Download: https://cdn.modrinth.com/data/5sy6g3kz/versions/i1Jmi8co/bettercombat-fabric-2.0.4%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/5sy6g3kz/versions/Sqe7e2M9/bettercombat-fabric-2.1.2%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 

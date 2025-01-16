@@ -41,8 +41,8 @@ https://cdn.modrinth.com/data/codAaoxh/versions/Ct1rAic5/midnightlib-fabric-1.6.
 # ===== Optimizations ==================================
 # ======================================================
 https://cdn.modrinth.com/data/k68glP2e/versions/QACJXcNH/automodpack-mc1.21.1-fabric-4.0.0-beta22.jar
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/9xfJi96s/lithium-fabric-0.14.3-snapshot%2Bmc1.21.1-build.92.jar
-https://cdn.modrinth.com/data/VSNURh3q/versions/6peRUuFI/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.311.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/GGl8GkvX/lithium-fabric-0.14.5%2Bmc1.21.1.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/3iVTM3ah/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.312.jar
 https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar
 https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar
 https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar
@@ -56,7 +56,7 @@ https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar
 # ===== World generation ===============================
 # ======================================================
 https://cdn.modrinth.com/data/lWDHr9jE/versions/YcKxW5iv/tectonic-fabric-1.21-2.4.1.jar
-https://cdn.modrinth.com/data/8oi3bsk5/versions/lQreFvOm/Terralith_1.21.x_v2.5.7.jar
+https://cdn.modrinth.com/data/8oi3bsk5/versions/MuJMtPGQ/Terralith_1.21.x_v2.5.8.jar
 https://cdn.modrinth.com/data/fgmhI8kH/versions/zS07WlzI/%5Bfabric%5Dctov-3.5.5.jar
 https://cdn.modrinth.com/data/OQAgZMH1/versions/VYyt5avd/mvs-4.2.8-1.21.jar
 https://cdn.modrinth.com/data/r4PuRGfV/versions/KaiO0WDo/mes-1.3.5-1.21.jar
@@ -79,7 +79,7 @@ https://cdn.modrinth.com/data/JiEhJ3WG/versions/7mUHEpdy/moremobvariants-fabric%
 https://cdn.modrinth.com/data/iJNje1E8/versions/FFW2DVUh/SnowRealMagic-1.21.1-Fabric-11.0.13.jar
 https://cdn.modrinth.com/data/okE6QVAY/versions/hkv1lS2B/mcw-paintings-1.0.5-1.21.1fabric.jar
 https://cdn.modrinth.com/data/g8w1NapE/versions/UDZdkBPN/fabrictailor-2.5.0.jar
-https://cdn.modrinth.com/data/5sy6g3kz/versions/i1Jmi8co/bettercombat-fabric-2.0.4%2B1.21.1.jar
+https://cdn.modrinth.com/data/5sy6g3kz/versions/Sqe7e2M9/bettercombat-fabric-2.1.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/GoCfVRkX/versions/vz64cT5u/celestria-fabric-2.0.0.jar
 
 # ======================================================
