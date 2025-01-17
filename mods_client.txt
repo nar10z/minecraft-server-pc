@@ -37,7 +37,7 @@ https://cdn.modrinth.com/data/OSMu7zRz/versions/kczOAU9q/better-tab-1.0.0%2B1.20
 https://cdn.modrinth.com/data/n6PXGAoM/versions/G4F1t82i/betterstats-3.13.6%2Bfabric-1.21.jar
 https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar
 https://cdn.modrinth.com/data/yXAvIk0x/versions/InexVr2D/Scribble-1.4.4%2Bmc1.21-fabric.jar
-https://cdn.modrinth.com/data/OoF97Pto/versions/oUGH9AqJ/effectual-0.3.0-1.21.1.jar
+https://cdn.modrinth.com/data/OoF97Pto/versions/p6oKEUWs/effectual-0.4.0-1.21.1.jar
 
 
 # ======================================================

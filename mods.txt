@@ -20,7 +20,7 @@ https://cdn.modrinth.com/data/XvoWJaA2/versions/h8NqTFtK/spell_engine-1.3.2%2B1.
 https://cdn.modrinth.com/data/gedNE4y2/versions/c6DQKGQp/player-animation-lib-fabric-2.0.0-alpha1%2B1.21.jar
 https://cdn.modrinth.com/data/rd9rKuJT/versions/Gv74xveQ/disconnect-packet-fix-fabric-2.0.0.jar
 https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar
-https://cdn.modrinth.com/data/QAGBst4M/versions/CPRIM9lt/PuzzlesLib-v21.1.25-1.21.1-Fabric.jar
+https://cdn.modrinth.com/data/QAGBst4M/versions/BSIrR0oe/PuzzlesLib-v21.1.26-1.21.1-Fabric.jar
 https://cdn.modrinth.com/data/uy4Cnpcm/versions/do0HPKWT/bookshelf-fabric-1.21.1-21.1.37.jar
 https://cdn.modrinth.com/data/aaRl8GiW/versions/aGDJh61g/prickle-fabric-1.21.1-21.1.6.jar
 https://cdn.modrinth.com/data/AqaIIO6D/versions/W1XTV2ev/ranged_weapon_api-2.0.4%2B1.21.1.jar
@@ -118,3 +118,4 @@ https://cdn.modrinth.com/data/mSQF1NpT/versions/jxx2pc4h/elytraslot-fabric-9.0.1
 https://cdn.modrinth.com/data/AGhiJWsU/versions/iy2Pc70S/MerchantMarkers-1.21-fabric-1.3.5.jar
 https://cdn.modrinth.com/data/9NM0dXub/versions/g0SNjiMq/AdvancementPlaques-1.21.1-fabric-1.6.8.jar
 https://cdn.modrinth.com/data/QQXAdCzh/versions/KLrOxQNa/Ping-Wheel-1.10.0-fabric-1.21.1.jar
+#https://cdn.modrinth.com/data/vEgtiJIY/versions/Xv4lhBdm/armoroftheages-fabric-1.21.1-1.5.0.jar

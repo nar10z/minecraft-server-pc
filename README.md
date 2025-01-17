@@ -252,7 +252,7 @@ Address: buneker.online
 
 * [Puzzles Lib](https://modrinth.com/mod/puzzles-lib/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Why's it called Puzzles you ask? That's the puzzle! \
-  _Download: https://cdn.modrinth.com/data/QAGBst4M/versions/CPRIM9lt/PuzzlesLib-v21.1.25-1.21.1-Fabric.jar_ \
+  _Download: https://cdn.modrinth.com/data/QAGBst4M/versions/BSIrR0oe/PuzzlesLib-v21.1.26-1.21.1-Fabric.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -684,7 +684,7 @@ Address: buneker.online
 
 * [Effectual](https://modrinth.com/mod/effectual/versions?g=1.21.1)
   _(client)_ | Новые эффекты, частицы и многое другое! \
-  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/oUGH9AqJ/effectual-0.3.0-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/p6oKEUWs/effectual-0.4.0-1.21.1.jar_ \
   v1.21.4 ready? ✅
 
 ### Улучшения игрового опыта
@@ -963,3 +963,9 @@ Address: buneker.online
   _(client)_ | Простой в использовании плагин Discord RPC для Minecraft и Modpacks \
   _Download: https://cdn.modrinth.com/data/ObXSoyrn/versions/kgFckjwV/SimpleRPC-Universal-3.3.3.jar_ \
   v1.21.3 ready? ✅
+
+
+* [Armor of the Ages](https://modrinth.com/mod/armor-of-the-ages/versions?g=1.21.1&l=fabric)
+  _(server, client)_ | Мод для Minecraft, который добавляет анимированные доспехи из различных культур. Идеальный мод для защиты вашего дома из грязи и булыжника со стилем! \
+  _Download: https://cdn.modrinth.com/data/vEgtiJIY/versions/Xv4lhBdm/armoroftheages-fabric-1.21.1-1.5.0.jar_ \
+  v1.21.3 ready? ❌
