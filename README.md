@@ -215,7 +215,7 @@ Address: buneker.online
 * [AzureLib Armor](https://modrinth.com/mod/azurelib-armor/versions?g=1.21.1&l=fabric)
   _(server, client)_ | A Support lib to simplify Configs with an automated UI, Grid-Based UI-Layouts, Simplified Network
   management and other usefull utilities. \
-  _Download: https://cdn.modrinth.com/data/pduQXSbl/versions/HxFeGlOi/azurelibarmor-fabric-1.21.1-2.3.13.jar_ \
+  _Download: https://cdn.modrinth.com/data/pduQXSbl/versions/x3o3Obcs/azurelibarmor-fabric-1.21.1-3.0.0.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -258,7 +258,7 @@ Address: buneker.online
 
 * [Bookshelf](https://modrinth.com/mod/bookshelf-lib/versions?g=1.21.1&l=fabric)
   _(server, client)_ | An open source library for other mods! \
-  _Download: https://cdn.modrinth.com/data/uy4Cnpcm/versions/do0HPKWT/bookshelf-fabric-1.21.1-21.1.37.jar_ \
+  _Download: https://cdn.modrinth.com/data/uy4Cnpcm/versions/Tel5Tm05/bookshelf-fabric-1.21.1-21.1.40.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -390,7 +390,7 @@ Address: buneker.online
 * [Lithium](https://modrinth.com/mod/lithium/versions?g=1.21.1&c=release&l=fabric)
   _(server)_ | Улучшает ряд систем (физику игры, искусственный интеллект мобов, тиканье блоков и т. д.), не
   меняя при этом никакую ванильную механику. \
-  _Download: https://cdn.modrinth.com/data/gvQqBUqZ/versions/GGl8GkvX/lithium-fabric-0.14.5%2Bmc1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/gvQqBUqZ/versions/GtRRmh9W/lithium-fabric-0.14.6%2Bmc1.21.1.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -399,7 +399,7 @@ Address: buneker.online
   Это достигается за счет использования преимуществ нескольких ядер ЦП параллельно. Для лучшей производительности
   рекомендуется использовать C2ME с [Lithium](https://modrinth.com/mod/lithium)
   и [ScalableLux](https://modrinth.com/mod/scalablelux). \
-  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/6peRUuFI/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.311.jar_ \
+  _Download: https://cdn.modrinth.com/data/VSNURh3q/versions/vV4AvU4E/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.314.jar_ \
   v1.21.3 ready? ✅
 
 

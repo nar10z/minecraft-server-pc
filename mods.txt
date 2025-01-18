@@ -15,13 +15,13 @@ https://cdn.modrinth.com/data/XaDC71GB/versions/GwhILiJf/lithostitched-fabric-1.
 https://cdn.modrinth.com/data/BgNRHReB/versions/TxWM7AW8/bclib-21.0.13.jar
 https://cdn.modrinth.com/data/RiN8rDVs/versions/mPmeykPR/worldweaver-21.0.13.jar
 https://cdn.modrinth.com/data/8O0Adq7w/versions/NWOZ9B7R/wunderlib-21.0.8.jar
-https://cdn.modrinth.com/data/pduQXSbl/versions/HxFeGlOi/azurelibarmor-fabric-1.21.1-2.3.13.jar
+https://cdn.modrinth.com/data/pduQXSbl/versions/x3o3Obcs/azurelibarmor-fabric-1.21.1-3.0.0.jar
 https://cdn.modrinth.com/data/XvoWJaA2/versions/h8NqTFtK/spell_engine-1.3.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/gedNE4y2/versions/c6DQKGQp/player-animation-lib-fabric-2.0.0-alpha1%2B1.21.jar
 https://cdn.modrinth.com/data/rd9rKuJT/versions/Gv74xveQ/disconnect-packet-fix-fabric-2.0.0.jar
 https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar
 https://cdn.modrinth.com/data/QAGBst4M/versions/BSIrR0oe/PuzzlesLib-v21.1.26-1.21.1-Fabric.jar
-https://cdn.modrinth.com/data/uy4Cnpcm/versions/kAITtql0/bookshelf-fabric-1.21.1-21.1.39.jar
+https://cdn.modrinth.com/data/uy4Cnpcm/versions/Tel5Tm05/bookshelf-fabric-1.21.1-21.1.40.jar
 https://cdn.modrinth.com/data/aaRl8GiW/versions/aGDJh61g/prickle-fabric-1.21.1-21.1.6.jar
 https://cdn.modrinth.com/data/AqaIIO6D/versions/W1XTV2ev/ranged_weapon_api-2.0.4%2B1.21.1.jar
 https://cdn.modrinth.com/data/cl223EMc/versions/8iGbvXwk/cristellib-fabric-1.2.8.jar
@@ -41,8 +41,8 @@ https://cdn.modrinth.com/data/codAaoxh/versions/Ct1rAic5/midnightlib-fabric-1.6.
 # ===== Optimizations ==================================
 # ======================================================
 https://cdn.modrinth.com/data/k68glP2e/versions/QACJXcNH/automodpack-mc1.21.1-fabric-4.0.0-beta22.jar
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/GGl8GkvX/lithium-fabric-0.14.5%2Bmc1.21.1.jar
-https://cdn.modrinth.com/data/VSNURh3q/versions/3iVTM3ah/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.312.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/GtRRmh9W/lithium-fabric-0.14.6%2Bmc1.21.1.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/vV4AvU4E/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.314.jar
 https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar
 https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar
 https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar
