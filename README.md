@@ -608,7 +608,7 @@ Address: buneker.online
 
 * [Better Combat](https://modrinth.com/mod/better-combat/versions?g=1.21.1&c=release&l=fabric)
   _(server, client)_ | ⚔️ Простая, зрелищная и веселая система ближнего боя из Minecraft Dungeons. \
-  _Download: https://cdn.modrinth.com/data/5sy6g3kz/versions/Sqe7e2M9/bettercombat-fabric-2.1.2%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/5sy6g3kz/versions/xVVCxnyB/bettercombat-fabric-2.1.3%2B1.21.1.jarf_ \
   v1.21.3 ready? ❌
 
 
