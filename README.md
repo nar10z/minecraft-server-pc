@@ -207,15 +207,15 @@ Address: buneker.online
 
 
 * [WunderLib](https://modrinth.com/mod/wunderlib/versions?g=1.21.1)
-  _(server, client)_ | A striped down Azurelib just for Armor! \
+  _(server, client)_ | A Support lib to simplify Configs with an automated UI, Grid-Based UI-Layouts, Simplified Network
+  management and other usefull utilities. \
   _Download: https://cdn.modrinth.com/data/RiN8rDVs/versions/mPmeykPR/worldweaver-21.0.13.jar_ \
   v1.21.3 ready? ❌
 
 
 * [AzureLib Armor](https://modrinth.com/mod/azurelib-armor/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | A Support lib to simplify Configs with an automated UI, Grid-Based UI-Layouts, Simplified Network
-  management and other usefull utilities. \
-  _Download: https://cdn.modrinth.com/data/pduQXSbl/versions/x3o3Obcs/azurelibarmor-fabric-1.21.1-3.0.0.jar_ \
+  _(server, client)_ | A striped down Azurelib just for Armor!\
+  _Download: https://cdn.modrinth.com/data/pduQXSbl/versions/wwpgl465/azurelibarmor-fabric-1.21.1-3.0.2.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -294,7 +294,7 @@ Address: buneker.online
 
 * [More RPG Library](https://modrinth.com/mod/more-rpg-classes/versions?g=1.21.1)
   _(server, client)_ | Library for the More RPG Classes & More RPG Content Series. \
-  _Download: https://cdn.modrinth.com/data/Wkc3lwHo/versions/cI7kQt3O/more_rpg_classes-2.0.15-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/Wkc3lwHo/versions/QJ7aZVQY/more_rpg_classes-2.1.0-1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -767,7 +767,7 @@ Address: buneker.online
 * [Friends & Foes (Fabric/Quilt)](https://modrinth.com/mod/friends-and-foes/versions?g=1.21.1)
   _(server, client)_ | Добавляет переоцененных и забытых мобов из голосования мобов, расширяя их изначальные концепции и
   добавляя новые ванильные особенности. \
-  _Download: https://cdn.modrinth.com/data/POQ2i9zu/versions/eUncYB8D/friendsandfoes-fabric-mc1.21.1-3.0.5.jar_ \
+  _Download: https://cdn.modrinth.com/data/POQ2i9zu/versions/hNMiHkkw/friendsandfoes-fabric-mc1.21.1-3.0.7.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -966,6 +966,7 @@ Address: buneker.online
 
 
 * [Armor of the Ages](https://modrinth.com/mod/armor-of-the-ages/versions?g=1.21.1&l=fabric)
-  _(server, client)_ | Мод для Minecraft, который добавляет анимированные доспехи из различных культур. Идеальный мод для защиты вашего дома из грязи и булыжника со стилем! \
-  _Download: https://cdn.modrinth.com/data/vEgtiJIY/versions/Xv4lhBdm/armoroftheages-fabric-1.21.1-1.5.0.jar_ \
+  _(server, client)_ | Мод для Minecraft, который добавляет анимированные доспехи из различных культур. Идеальный мод
+  для защиты вашего дома из грязи и булыжника со стилем! \
+  _Download: https://cdn.modrinth.com/data/vEgtiJIY/versions/lluFY8uC/armoroftheages-fabric-1.21.1-1.5.1.jar_ \
   v1.21.3 ready? ❌
