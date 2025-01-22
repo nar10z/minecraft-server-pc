@@ -123,7 +123,7 @@ Address: buneker.online
 
 * [FabricAPI](https://modrinth.com/mod/fabric-api/versions?g=1.21.1&c=release)
   _(server, client)_ | API для ядра сервера Fabric. \
-  _Download: https://cdn.modrinth.com/data/P7dR8mSH/versions/biIRIp2X/fabric-api-0.114.0%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/P7dR8mSH/versions/9YVrKY0Z/fabric-api-0.115.0%2B1.21.1.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -221,7 +221,7 @@ Address: buneker.online
 
 * [Spell Engine](https://modrinth.com/mod/spell-engine/versions?g=1.21.1&c=release)
   _(server, client)_ | Data driven magic library. \
-  _Download: https://cdn.modrinth.com/data/XvoWJaA2/versions/3roy4iSP/spell_engine-1.3.1%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/XvoWJaA2/versions/Sjtq9uTx/spell_engine-1.4.4%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -684,7 +684,7 @@ Address: buneker.online
 
 * [Effectual](https://modrinth.com/mod/effectual/versions?g=1.21.1)
   _(client)_ | Новые эффекты, частицы и многое другое! \
-  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/p6oKEUWs/effectual-0.4.0-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/yHfg8uRM/effectual-0.4.1-1.21.1.jar_ \
   v1.21.4 ready? ✅
 
 ### Улучшения игрового опыта
@@ -723,7 +723,7 @@ Address: buneker.online
 * [Camerapture](https://modrinth.com/mod/camerapture/versions?g=1.21.1)
   _(server, client)_ | Делайте снимки с помощью рабочей камеры, показывайте их другим игрокам и вешайте на стену в
   фоторамках! \
-  _Download: https://cdn.modrinth.com/data/9dzLWnmZ/versions/tfQeMPmY/Camerapture-1.8.0%2Bmc1.21.1-fabric.jar_ \
+  _Download: https://cdn.modrinth.com/data/9dzLWnmZ/versions/TOsS9owT/Camerapture-1.9.0%2Bmc1.21.1-fabric.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -786,13 +786,13 @@ Address: buneker.online
 
 * [Wizards (RPG Series)](https://modrinth.com/mod/wizards/versions?g=1.21.1)
   _(server, client)_ | 🧙🏻‍♂️ Уничтожьте своих врагов с помощью тайной, огненной и ледяной магии. \
-  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/WRzLaEcT/wizards-2.2.5%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/NkGaQMDA/versions/JxsKHyFM/wizards-2.3.3%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Paladins & Priests (RPG Series)](https://modrinth.com/mod/paladins-and-priests/versions?g=1.21.1)
   _(server, client)_ | ✨ Защищайте и лечите своих друзей как Паладин или Жрец. \
-  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/V1CQdflY/paladins-2.2.4%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/FxXkHaLe/versions/R5h11rTE/paladins-2.3.1%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -828,19 +828,19 @@ Address: buneker.online
 
 * [Elemental Wizards (More RPG Classes)](https://modrinth.com/mod/elemental-wizards-rpg/versions?g=1.21.1)
   _(server, client)_ | Овладейте стихиями, чтобы победить своих врагов! Spell Engine Add-On. \
-  _Download: https://cdn.modrinth.com/data/PeZ4h4i0/versions/DaJXiCzZ/elemental_wizards_rpg-2.2.0-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/PeZ4h4i0/versions/EG2yAard/elemental_wizards_rpg-2.3.1-1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Berserker (More RPG Classes)](https://modrinth.com/mod/berserker-rpg-class/versions?g=1.21.1)
   _(server, client)_ | Войди в дикий, беспощадный боевой транс как Берсерк! Spell Engine Add-On. \
-  _Download: https://cdn.modrinth.com/data/8hqOZzxM/versions/lSCmoi6D/berserker-class-mod-2.2.1-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/8hqOZzxM/versions/AXvxdPQ1/berserker-class-mod-2.3.0-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Forcemaster (More RPG Classes)](https://modrinth.com/mod/forcemaster-rpg-class/versions?g=1.21.1)
   _(server, client)_ | Хватай Накл, овладей силой и боевым искусством. Spell Engine Add-On. \
-  _Download: https://cdn.modrinth.com/data/K3yHebFL/versions/vQLAHQmT/forcemaster-class-mod-2.2.0-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/K3yHebFL/versions/ZjGZfGuY/forcemaster-class-mod-2.3.0-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -876,7 +876,7 @@ Address: buneker.online
 
 * [Chat Heads](https://modrinth.com/mod/chat-heads/versions?g=1.21.1)
   _(client)_ | Посмотрите, с кем вы общаетесь! \
-  _Download: https://cdn.modrinth.com/data/Wb5oqrBJ/versions/A3Yb64Da/chat_heads-0.13.6-fabric-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/Wb5oqrBJ/versions/GGhXoLBe/chat_heads-0.13.10-fabric-1.21.jar_ \
   v1.21.3 ready? ✅
 
 
