@@ -658,7 +658,7 @@ Address: buneker.online
 
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats/versions?g=1.21.1&l=fabric)
   _(client)_ | Мод для Minecraft, который улучшает экран статистики и делает его более полезным.  \
-  _Download: https://cdn.modrinth.com/data/n6PXGAoM/versions/G4F1t82i/betterstats-3.13.6%2Bfabric-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/n6PXGAoM/versions/9jyK0AmF/betterstats-3.13.8%2Bfabric-1.21.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -684,7 +684,7 @@ Address: buneker.online
 
 * [Effectual](https://modrinth.com/mod/effectual/versions?g=1.21.1)
   _(client)_ | Новые эффекты, частицы и многое другое! \
-  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/yHfg8uRM/effectual-0.4.1-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/AKLFUQ60/effectual-0.4.2-1.21.1.jar_ \
   v1.21.4 ready? ✅
 
 ### Улучшения игрового опыта
@@ -730,7 +730,7 @@ Address: buneker.online
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack/versions?g=1.21.1)
   _(server, client)_ | Уникальные и обновляемые рюкзаки с возможностью настройки, интеграцией Curios API/Trinkets и
   многим другим! \
-  _Download: https://cdn.modrinth.com/data/rlloIFEV/versions/DRssSA0N/travelersbackpack-fabric-1.21.1-10.1.3.jar_ \
+  _Download: https://cdn.modrinth.com/data/rlloIFEV/versions/GVSxBCco/travelersbackpack-fabric-1.21.1-10.1.9.jar_ \
   v1.21.3 ready? ❌
 
 

@@ -34,16 +34,16 @@ https://cdn.modrinth.com/data/smUP7V3r/versions/rVchC4HC/durabilitytooltip-1.1.5
 https://cdn.modrinth.com/data/G1s2WpNo/versions/QZTn8cTa/BetterThirdPerson-Fabric-1.21-1.9.0.jar
 https://cdn.modrinth.com/data/8shC1gFX/versions/phATjGhF/BetterF3-11.0.3-Fabric-1.21.1.jar
 https://cdn.modrinth.com/data/OSMu7zRz/versions/kczOAU9q/better-tab-1.0.0%2B1.20.5-1.21.x.jar
-https://cdn.modrinth.com/data/n6PXGAoM/versions/G4F1t82i/betterstats-3.13.6%2Bfabric-1.21.jar
+https://cdn.modrinth.com/data/n6PXGAoM/versions/9jyK0AmF/betterstats-3.13.8%2Bfabric-1.21.jar
 https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar
 https://cdn.modrinth.com/data/yXAvIk0x/versions/InexVr2D/Scribble-1.4.4%2Bmc1.21-fabric.jar
-https://cdn.modrinth.com/data/OoF97Pto/versions/yHfg8uRM/effectual-0.4.1-1.21.1.jar
+https://cdn.modrinth.com/data/OoF97Pto/versions/AKLFUQ60/effectual-0.4.2-1.21.1.jar
 
 
 # ======================================================
 # ===== Improved experience ============================
 # ======================================================
-https://cdn.modrinth.com/data/1bokaNcj/versions/Hyd81hdy/Xaeros_Minimap_24.7.1_Fabric_1.21.jar
+https://cdn.modrinth.com/data/1bokaNcj/versions/OlQ3SNJL/Xaeros_Minimap_25.0.0_Fabric_1.21.jar
 https://cdn.modrinth.com/data/NcUtCpym/versions/2QD9OoBs/XaerosWorldMap_1.39.2_Fabric_1.21.jar
 https://cdn.modrinth.com/data/EdBSdqge/versions/GByywrgz/spyglass_astronomy-1.0.13-mc1.21%2B.jar
 https://cdn.modrinth.com/data/nfn13YXA/versions/F3B8X7NS/RoughlyEnoughItems-16.0.788-fabric.jar
