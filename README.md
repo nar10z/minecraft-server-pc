@@ -240,8 +240,8 @@ Address: buneker.online
 
 * [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/versions?g=1.21.1&c=release)
   _(server, client)_ | This is a mod that enables usage of the Kotlin programming language for Fabric mods. \
-  _Download: https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar_ \
-  v1.21.3 ready? ✅
+  _Download: https://cdn.modrinth.com/data/Ha28R6CL/versions/476dzMG5/fabric-language-kotlin-1.13.1%2Bkotlin.2.1.10.jar_ \
+  v1.21.4 ready? ✅
 
 
 * [libIPN](https://modrinth.com/mod/libipn/versions?g=1.21.1&l=fabric)
@@ -467,7 +467,7 @@ Address: buneker.online
 
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast/versions?g=1.21.1&l=fabric)
   _(client)_ | Ускорение рендеринга в режиме немедленного отображения в Minecraft  \
-  _Download: https://cdn.modrinth.com/data/5ZwdcRci/versions/MDHa3xsw/ImmediatelyFast-Fabric-1.3.3%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/5ZwdcRci/versions/UiT2QR9Q/ImmediatelyFast-Fabric-1.3.4%2B1.21.1.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -565,7 +565,7 @@ Address: buneker.online
 * [Waystones](https://modrinth.com/mod/waystones/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Телепортируйтесь обратно к активированным путевым камням. Для Выживания, Приключения или
   Серверов. \
-  _Download: https://cdn.modrinth.com/data/LOpKHB2A/versions/JPtziByp/waystones-fabric-1.21.1-21.1.5.jar_ \
+  _Download: https://cdn.modrinth.com/data/LOpKHB2A/versions/28vIQSsa/waystones-fabric-1.21.1-21.1.7.jar_ \
   v1.21.3 ready? ✅
 
 
@@ -576,7 +576,7 @@ Address: buneker.online
 
 ### Улучшения визуала
 
-* [More Mob Variants](https://modrinth.com/mod/more-mob-variants/versions?g=1.21.1)
+* [More Mob Variants](https://modrinth.com/mod/more-mob-variants/versions?g=1.21&l=fabric)
   _(server, client)_ | Добавляет новые варианты к существующим мобам. \
   _Download: https://cdn.modrinth.com/data/JiEhJ3WG/versions/7mUHEpdy/moremobvariants-fabric%2B1.21-1.3.1.1.jar_ \
   v1.21.3 ready? ❓
@@ -600,7 +600,7 @@ Address: buneker.online
   v1.21.3 ready? ❌
 
 
-* [Fabric Tailor](https://modrinth.com/mod/fabrictailor/versions?g=1.21.1)
+* [Fabric Tailor](https://modrinth.com/mod/fabrictailor/versions?g=1.21&l=fabric)
   _(server)_ | Мод для сервера/одиночной игры, меняющий облик и плащ для Fabric. \
   _Download: https://cdn.modrinth.com/data/g8w1NapE/versions/UDZdkBPN/fabrictailor-2.5.0.jar_ \
   v1.21.3 ready? ❓
@@ -608,7 +608,7 @@ Address: buneker.online
 
 * [Better Combat](https://modrinth.com/mod/better-combat/versions?g=1.21.1&c=release&l=fabric)
   _(server, client)_ | ⚔️ Простая, зрелищная и веселая система ближнего боя из Minecraft Dungeons. \
-  _Download: https://cdn.modrinth.com/data/5sy6g3kz/versions/xVVCxnyB/bettercombat-fabric-2.1.3%2B1.21.1.jarf_ \
+  _Download: https://cdn.modrinth.com/data/5sy6g3kz/versions/xVVCxnyB/bettercombat-fabric-2.1.3%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -684,14 +684,14 @@ Address: buneker.online
 
 * [Effectual](https://modrinth.com/mod/effectual/versions?g=1.21.1)
   _(client)_ | Новые эффекты, частицы и многое другое! \
-  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/AKLFUQ60/effectual-0.4.2-1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/OoF97Pto/versions/CbqGlwPy/effectual-0.4.3-1.21.1.jar_ \
   v1.21.4 ready? ✅
 
 ### Улучшения игрового опыта
 
-* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions?g=1.21.1)
+* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions?g=1.21.1&l=fabric)
   _(client)_ | Отображает карту близлежащего ландшафта мира, игроков, мобов, сущностей в углу экрана. \
-  _Download: https://cdn.modrinth.com/data/1bokaNcj/versions/Hyd81hdy/Xaeros_Minimap_24.7.1_Fabric_1.21.jar _ \
+  _Download: https://cdn.modrinth.com/data/1bokaNcj/versions/OlQ3SNJL/Xaeros_Minimap_25.0.0_Fabric_1.21.jar _ \
   v1.21.3 ready? ✅
 
 
@@ -724,14 +724,14 @@ Address: buneker.online
   _(server, client)_ | Делайте снимки с помощью рабочей камеры, показывайте их другим игрокам и вешайте на стену в
   фоторамках! \
   _Download: https://cdn.modrinth.com/data/9dzLWnmZ/versions/TOsS9owT/Camerapture-1.9.0%2Bmc1.21.1-fabric.jar_ \
-  v1.21.3 ready? ❌
+  v1.21.4 ready? ✅
 
 
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack/versions?g=1.21.1)
   _(server, client)_ | Уникальные и обновляемые рюкзаки с возможностью настройки, интеграцией Curios API/Trinkets и
   многим другим! \
   _Download: https://cdn.modrinth.com/data/rlloIFEV/versions/Pi399YZr/travelersbackpack-fabric-1.21.1-10.1.11.jar_ \
-  v1.21.3 ready? ❌
+  v1.21.4 ready? ✅
 
 
 * [Better Third Person](https://modrinth.com/mod/better-third-person/versions?g=1.21.1)
@@ -798,13 +798,13 @@ Address: buneker.online
 
 * [Archers (RPG Series)](https://modrinth.com/mod/archers/versions?g=1.21.1)
   _(server, client)_ | 🏹 Натягивай, отпускай, побеждай — овладей искусством стрельбы из лука! \
-  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/Bj7mzpel/archers-2.2.5%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/QgooUXAJ/versions/3FNj9BTy/archers-2.3.0%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
 * [Rogues & Warriors (RPG Series)](https://modrinth.com/mod/rogues-and-warriors/versions?g=1.21.1)
   _(server, client)_ | 🗡️ Бесшумные клинки, мощные удары — доминируйте с помощью боевых навыков! \
-  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/zfwYwcei/rogues-2.2.4%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/3MKqoGuP/versions/FXEW5pvx/rogues-2.3.0%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -816,7 +816,7 @@ Address: buneker.online
 
 * [Spell Power Attributes](https://modrinth.com/mod/spell-power/versions?g=1.21.1)
   _(server, client)_ | 🔮 Spell Power entity attributes with related status effects and enchantments. \
-  _Download: https://cdn.modrinth.com/data/8ooWzSQP/versions/4LKRf5tK/spell_power-1.1.1%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/8ooWzSQP/versions/Ho7T1n2o/spell_power-1.1.2%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -846,7 +846,7 @@ Address: buneker.online
 
 * [Witcher (More RPG Classes)](https://modrinth.com/mod/witcher-rpg-class/versions?g=1.21.1)
   _(server, client)_ | Уничтожай монстров как Ведьмак! Дополнение Spell Engine. \
-  _Download: https://cdn.modrinth.com/data/4eW1c7Gj/versions/Mw7AY64K/witcher-class-mod-2.2.4-1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/4eW1c7Gj/versions/DmMezRME/witcher-class-mod-2.3.0-1.21.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -876,19 +876,20 @@ Address: buneker.online
 
 * [Chat Heads](https://modrinth.com/mod/chat-heads/versions?g=1.21.1)
   _(client)_ | Посмотрите, с кем вы общаетесь! \
-  _Download: https://cdn.modrinth.com/data/Wb5oqrBJ/versions/GGhXoLBe/chat_heads-0.13.10-fabric-1.21.jar_ \
-  v1.21.3 ready? ✅
+  _Download: https://cdn.modrinth.com/data/Wb5oqrBJ/versions/psRdWHdY/chat_heads-0.13.11-fabric-1.21.jar_ \
+  v1.21.4 ready? ✅
 
 
 * [Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation/versions?g=1.21.1)
   _(client)_ | Делает сообщения чата появляющимися с плавной анимацией. \
   _Download: https://cdn.modrinth.com/data/DnNYdJsx/versions/O4wSETwq/chatanimation-1.0.6.jar_ \
-  v1.21.3 ready? ✅
+  v1.21.4 ready? ✅
 
 
 * [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next/versions?g=1.21.1)
   _(client)_ | Возьмите под контроль свой инвентарь. Сортируйте. Перемещайте совпадающие предметы. Выбрасывайте все.  \
-  _Download: https://cdn.modrinth.com/data/O7RBXm3n/versions/5yXBG0Ls/InventoryProfilesNext-fabric-1.21-2.1.0.jar_
+  _Download: https://cdn.modrinth.com/data/O7RBXm3n/versions/ly5F3TZy/InventoryProfilesNext-fabric-1.21-2.1.2.jar_
+  v1.21.4 ready? ✅
 
 
 * [Droppable Villager Trades](https://modrinth.com/mod/droppable-villager-trades/versions?g=1.21.1)
@@ -918,8 +919,8 @@ Address: buneker.online
 
 * [Emotecraft](https://modrinth.com/plugin/emotecraft/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Создавайте свои собственные эмоции в Minecraft. \
-  _Download: https://cdn.modrinth.com/data/pZ2wrerK/versions/ltLJGtLk/emotecraft-for-MC1.21.1-2.4.4-fabric.jar_ \
-  v1.21.3 ready? ❌
+  _Download: https://cdn.modrinth.com/data/pZ2wrerK/versions/yiqDGkGD/emotecraft-for-MC1.21.1-2.4.8-fabric.jar_ \
+  v1.21.4 ready? ✅
 
 
 * [Elytra Slot](https://modrinth.com/mod/elytra-slot/versions?g=1.21.1&l=fabric)
@@ -949,14 +950,14 @@ Address: buneker.online
 
 * [Not Enough Animations](https://modrinth.com/mod/not-enough-animations/versions?g=1.21.1&l=fabric)
   _(client)_ | Перенос анимации от первого лица в вид от третьего лица \
-  _Download: https://cdn.modrinth.com/data/MPCX6s5C/versions/66URmjAA/notenoughanimations-fabric-1.9.0-mc1.21.jar_ \
+  _Download: https://cdn.modrinth.com/data/MPCX6s5C/versions/OXbCwCbr/notenoughanimations-fabric-1.9.1-mc1.21.jar_ \
   v1.21.3 ready? ✅
 
 
 * [Ping Wheel](https://modrinth.com/mod/ping-wheel/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Позволяет игрокам временно отмечать локации и объекты. \
-  _Download: https://cdn.modrinth.com/data/QQXAdCzh/versions/KLrOxQNa/Ping-Wheel-1.10.0-fabric-1.21.1.jar_ \
-  v1.21.3 ready? ✅
+  _Download: https://cdn.modrinth.com/data/QQXAdCzh/versions/zwiixgOF/Ping-Wheel-1.10.1-fabric-1.21.1.jar_ \
+  v1.21.4 ready? ✅
 
 
 * [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc/versions?g=1.21.1&l=fabric)
@@ -968,5 +969,5 @@ Address: buneker.online
 * [Armor of the Ages](https://modrinth.com/mod/armor-of-the-ages/versions?g=1.21.1&l=fabric)
   _(server, client)_ | Мод для Minecraft, который добавляет анимированные доспехи из различных культур. Идеальный мод
   для защиты вашего дома из грязи и булыжника со стилем! \
-  _Download: https://cdn.modrinth.com/data/vEgtiJIY/versions/lluFY8uC/armoroftheages-fabric-1.21.1-1.5.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/vEgtiJIY/versions/g0x2B8VR/armoroftheages-fabric-1.21.1-1.5.2.jar_ \
   v1.21.3 ready? ❌

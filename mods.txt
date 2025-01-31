@@ -19,7 +19,7 @@ https://cdn.modrinth.com/data/pduQXSbl/versions/wwpgl465/azurelibarmor-fabric-1.
 https://cdn.modrinth.com/data/XvoWJaA2/versions/MdK9Rgxz/spell_engine-1.4.5%2B1.21.1.jar
 https://cdn.modrinth.com/data/gedNE4y2/versions/c6DQKGQp/player-animation-lib-fabric-2.0.0-alpha1%2B1.21.jar
 https://cdn.modrinth.com/data/rd9rKuJT/versions/Gv74xveQ/disconnect-packet-fix-fabric-2.0.0.jar
-https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar
+https://cdn.modrinth.com/data/Ha28R6CL/versions/476dzMG5/fabric-language-kotlin-1.13.1%2Bkotlin.2.1.10.jar
 https://cdn.modrinth.com/data/QAGBst4M/versions/BSIrR0oe/PuzzlesLib-v21.1.26-1.21.1-Fabric.jar
 https://cdn.modrinth.com/data/uy4Cnpcm/versions/Tel5Tm05/bookshelf-fabric-1.21.1-21.1.40.jar
 https://cdn.modrinth.com/data/aaRl8GiW/versions/aGDJh61g/prickle-fabric-1.21.1-21.1.6.jar
@@ -68,7 +68,7 @@ https://cdn.modrinth.com/data/DjLobEOy/versions/MntMLupc/t_and_t-neoforge-fabric
 https://cdn.modrinth.com/data/klXONLDA/versions/J0nqkQaR/villagesandpillages-fabric-mc1.21.1-1.0.2.jar
 https://cdn.modrinth.com/data/jSV9w0J5/versions/U4vRnaGx/IllagerInvasion-v21.1.2-1.21.1-Fabric.jar
 https://cdn.modrinth.com/data/MRK4tULJ/versions/IOxi2RHE/UndergroundBunkers-1.0.4-1.21.x-fabric.jar
-https://cdn.modrinth.com/data/LOpKHB2A/versions/JPtziByp/waystones-fabric-1.21.1-21.1.5.jar
+https://cdn.modrinth.com/data/LOpKHB2A/versions/28vIQSsa/waystones-fabric-1.21.1-21.1.7.jar
 https://cdn.modrinth.com/data/sc9lpPiU/versions/lPLhRp6s/fabric_medieval_buildings-1.0.2-1.21.jar
 
 
@@ -100,7 +100,7 @@ https://cdn.modrinth.com/data/FxXkHaLe/versions/R5h11rTE/paladins-2.3.1%2B1.21.1
 https://cdn.modrinth.com/data/QgooUXAJ/versions/3FNj9BTy/archers-2.3.0%2B1.21.1.jar
 https://cdn.modrinth.com/data/3MKqoGuP/versions/FXEW5pvx/rogues-2.3.0%2B1.21.1.jar
 https://cdn.modrinth.com/data/sNJAIjUm/versions/dffVQ6jN/jewelry-2.0.5%2B1.21.1.jar
-https://cdn.modrinth.com/data/8ooWzSQP/versions/4LKRf5tK/spell_power-1.1.1%2B1.21.1.jar
+https://cdn.modrinth.com/data/8ooWzSQP/versions/Ho7T1n2o/spell_power-1.1.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/lP9Yrr1E/versions/ajtep1px/runes-1.0.3%2B1.21.1.jar
 https://cdn.modrinth.com/data/PeZ4h4i0/versions/EG2yAard/elemental_wizards_rpg-2.3.1-1.21.1.jar
 https://cdn.modrinth.com/data/8hqOZzxM/versions/AXvxdPQ1/berserker-class-mod-2.3.0-1.21.jar
@@ -113,9 +113,9 @@ https://cdn.modrinth.com/data/SlhyZVWA/versions/Aab1HZtO/droppablevillagertrades
 https://cdn.modrinth.com/data/du3UfiLL/versions/aSCbUUL1/BOMD-1.10.2-1.21.1.jar
 https://cdn.modrinth.com/data/E5YVNsbH/versions/ezouZBrl/followersteleporttoo-1.21.1-2.6.jar
 https://cdn.modrinth.com/data/h7udW9Id/versions/J0wwrVFU/bountyhunt-1.3.1-1.21.1.jar
-https://cdn.modrinth.com/data/pZ2wrerK/versions/ltLJGtLk/emotecraft-for-MC1.21.1-2.4.4-fabric.jar
+https://cdn.modrinth.com/data/pZ2wrerK/versions/yiqDGkGD/emotecraft-for-MC1.21.1-2.4.8-fabric.jar
 https://cdn.modrinth.com/data/mSQF1NpT/versions/jxx2pc4h/elytraslot-fabric-9.0.1%2B1.21.1.jar
 https://cdn.modrinth.com/data/AGhiJWsU/versions/iy2Pc70S/MerchantMarkers-1.21-fabric-1.3.5.jar
 https://cdn.modrinth.com/data/9NM0dXub/versions/g0SNjiMq/AdvancementPlaques-1.21.1-fabric-1.6.8.jar
-https://cdn.modrinth.com/data/QQXAdCzh/versions/KLrOxQNa/Ping-Wheel-1.10.0-fabric-1.21.1.jar
-#https://cdn.modrinth.com/data/vEgtiJIY/versions/lluFY8uC/armoroftheages-fabric-1.21.1-1.5.1.jar
+https://cdn.modrinth.com/data/QQXAdCzh/versions/zwiixgOF/Ping-Wheel-1.10.1-fabric-1.21.1.jar
+https://cdn.modrinth.com/data/vEgtiJIY/versions/g0x2B8VR/armoroftheages-fabric-1.21.1-1.5.2.jar
