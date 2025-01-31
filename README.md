@@ -221,7 +221,7 @@ Address: buneker.online
 
 * [Spell Engine](https://modrinth.com/mod/spell-engine/versions?g=1.21.1&c=release)
   _(server, client)_ | Data driven magic library. \
-  _Download: https://cdn.modrinth.com/data/XvoWJaA2/versions/Sjtq9uTx/spell_engine-1.4.4%2B1.21.1.jar_ \
+  _Download: https://cdn.modrinth.com/data/XvoWJaA2/versions/MdK9Rgxz/spell_engine-1.4.5%2B1.21.1.jar_ \
   v1.21.3 ready? ❌
 
 
@@ -730,7 +730,7 @@ Address: buneker.online
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack/versions?g=1.21.1)
   _(server, client)_ | Уникальные и обновляемые рюкзаки с возможностью настройки, интеграцией Curios API/Trinkets и
   многим другим! \
-  _Download: https://cdn.modrinth.com/data/rlloIFEV/versions/GVSxBCco/travelersbackpack-fabric-1.21.1-10.1.9.jar_ \
+  _Download: https://cdn.modrinth.com/data/rlloIFEV/versions/Pi399YZr/travelersbackpack-fabric-1.21.1-10.1.11.jar_ \
   v1.21.3 ready? ❌
 
 
